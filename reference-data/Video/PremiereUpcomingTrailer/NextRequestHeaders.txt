@@ -1,0 +1,29 @@
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: en-CA,en;q=0.9
+cache-control: no-cache
+content-length: 2678
+content-type: application/json
+cookie: GPS=1; YSC=TtvhZ_z0sl4; VISITOR_INFO1_LIVE=HiyPXzo1Ilw; PREF=tz=America.Halifax&f4=4000000&f6=40000000&f7=100; CONSISTENCY=ACv9N9TX6t9tkP0wIgnDgthVy6fFewlG6GP7TP1twXGc8qGubqar14QGiVQ_MtHSt03xvVu16C2f65JpT3WCSq9r5YROroCUOxq34IKhnKTFzKdrcQkyXWadciUarCerf_Vwh-duVTLwxfuXICNOs28; ST-1ahja3e=itct=CLcCEJQ1GAAiEwj5suPC1_z9AhUP7MEKHSuHDMEyCmctaGlnaC1jcnZaGFVDdjdjWDJoRGhFVnRDRUJ2c3NIb2ZGQZoBBRDyOBhmqgEaVVVMRnY3Y1gyaERoRVZ0Q0VCdnNzSG9mRkE%3D&csn=MC45MTMwNzE5NTc2MDg4MzI2&endpoint=%7B%22clickTrackingParams%22%3A%22CLcCEJQ1GAAiEwj5suPC1_z9AhUP7MEKHSuHDMEyCmctaGlnaC1jcnZaGFVDdjdjWDJoRGhFVnRDRUJ2c3NIb2ZGQZoBBRDyOBhmqgEaVVVMRnY3Y1gyaERoRVZ0Q0VCdnNzSG9mRkE%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3Du7aDqmUdP44%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22watchEndpoint%22%3A%7B%22videoId%22%3A%22u7aDqmUdP44%22%2C%22watchEndpointSupportedOnesieConfig%22%3A%7B%22html5PlaybackOnesieConfig%22%3A%7B%22commonConfig%22%3A%7B%22url%22%3A%22https%3A%2F%2Frr3---sn-x5nuapo3-ti1s.googlevideo.com%2Finitplayback%3Fsource%3Dyoutube%26oeis%3D1%26c%3DWEB%26oad%3D3200%26ovd%3D3200%26oaad%3D11000%26oavd%3D11000%26ocs%3D700%26oewis%3D1%26oputc%3D1%26ofpcc%3D1%26beids%3D24512782%26msp%3D1%26odepv%3D1%26id%3Dbbb683aa651d3f8e%26ip%3D24.137.97.232%26initcwndbps%3D2375000%26mt%3D1679939354%26oweuc%3D%22%7D%7D%7D%7D%7D
+dnt: 1
+origin: https://www.youtube.com
+pragma: no-cache
+referer: https://www.youtube.com/channel/UCv7cX2hDhEVtCEBvssHofFA
+sec-ch-ua: "Google Chrome";v="111", "Not(A:Brand";v="8", "Chromium";v="111"
+sec-ch-ua-arch: "x86"
+sec-ch-ua-bitness: "64"
+sec-ch-ua-full-version: "111.0.5563.111"
+sec-ch-ua-full-version-list: "Google Chrome";v="111.0.5563.111", "Not(A:Brand";v="[REDACTED]", "Chromium";v="111.0.5563.111"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-model
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-platform-version: "10.0.0"
+sec-ch-ua-wow64: ?0
+sec-fetch-dest: empty
+sec-fetch-mode: same-origin
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED] Safari/537.36
+x-goog-visitor-id: CgtIaXlQWHpvMUlsdyjcsYehBg%3D%3D
+x-youtube-bootstrap-logged-in: false
+x-youtube-client-name: 1
+x-youtube-client-version: 2.20230327.01.00
