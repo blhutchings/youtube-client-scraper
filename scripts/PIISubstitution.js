@@ -23,4 +23,4 @@ async function replacePII(file) {
 }
 
 
-PIISubsitution("D:\\Projects\\youtube-client-crawler\\reference-data");
+PIISubsitution(".\\reference-data");
