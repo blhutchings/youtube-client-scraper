@@ -1,13 +1,11 @@
 import RequestFactory from "../../requests/RequestFactory.js";
-import Parser from "../Parser.js";
-
 export interface Thumbnail {
     url: string,
     width: number,
     height: number
 }
 
-export class Thumbnails extends Parser {
+export class Thumbnails {
     private static urlRE = new RegExp(/\/(default|mqdefault|hqdefault|sddefault|maxresdefault).*\.jpg/);
     default?: Thumbnail = undefined;
     medium?: Thumbnail = undefined;
@@ -16,8 +14,6 @@ export class Thumbnails extends Parser {
     maxres?: Thumbnail = undefined;
 
     constructor(data: Thumbnail[]) {
-        super();
-
         data?.forEach(thumbnail => {
             let match = thumbnail.url.match(Thumbnails.urlRE)
             if (match) {
