@@ -1,4 +1,3 @@
-import RequestFactory from "../../requests/RequestFactory.js";
 export interface Thumbnail {
     url: string,
     width: number,
@@ -6,16 +5,16 @@ export interface Thumbnail {
 }
 
 export class Thumbnails {
-    private static urlRE = new RegExp(/\/(default|mqdefault|hqdefault|sddefault|maxresdefault).*\.jpg/);
-    default?: Thumbnail = undefined;
-    medium?: Thumbnail = undefined;
-    high?: Thumbnail = undefined;
-    standard?: Thumbnail = undefined;
-    maxres?: Thumbnail = undefined;
+    private static regex = new RegExp(/\/(default|mqdefault|hqdefault|sddefault|maxresdefault).*\.jpg/);
+    default?: Thumbnail;
+    medium?: Thumbnail;
+    high?: Thumbnail;
+    standard?: Thumbnail;
+    maxres?: Thumbnail;
 
     constructor(data: Thumbnail[]) {
         data?.forEach(thumbnail => {
-            let match = thumbnail.url.match(Thumbnails.urlRE)
+            let match = thumbnail.url.match(Thumbnails.regex)
             if (match) {
                 let url = match[0];
                 let res = match[1];
