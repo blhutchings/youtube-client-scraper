@@ -1,69 +1,53 @@
-import { HttpsAgent } from "agentkeepalive";
-import got, { Got, Options, OptionsOfTextResponseBody } from "got";
-import { CookieJar } from "tough-cookie";
+import YouTubeClientState from "./YouTubeClientState.js";
+import YouTubeHTTPClient from "./YouTubeHTTPClient.js";
 import YouTubeConfigExtractor from "./parsers/YouTubeConfigExtractor.js";
-import YoutubeDefaultHeaderExtractor from "./parsers/YoutubeDefaultHeaderExtractor.js";
-import { VideoParts } from "./parsers/video/VideoPartsParser.js";
 
-interface YouTubeClientContext {
-    readonly apiKey: string
-    readonly clientContext?: any;
-    readonly defaultHeaders?: any;
-    currentUrl?: string
-}
+export default class YouTubeClient {
+    private httpClient: YouTubeHTTPClient
+    private state: YouTubeClientState
 
-export class YouTubeClient {
-    private client: Got
-    private context: YouTubeClientContext
-
-    protected constructor(client: Got, context: YouTubeClientContext) {
-        this.client = client;
-        this.context = context;
+    private constructor(httpClient: YouTubeHTTPClient, state: YouTubeClientState) {
+        this.httpClient = httpClient
+        this.state = state;
     }
 
     static async createClient(): Promise<YouTubeClient> {
-        const httpsAgent = new HttpsAgent({
-            ciphers: undefined,
-            keepAlive: true,
-        })
+        const httpClient = new YouTubeHTTPClient();
+        const homepage = await httpClient.get('');
+        const config = YouTubeConfigExtractor.extract(homepage.body)
 
-        const cookieJar = new CookieJar();
+        const clientState = new YouTubeClientState(config)
 
-        const defaultOptions = new Options({
-            prefixUrl: 'https://youtube.com',
-            agent: {
-                https: httpsAgent,
-            },
-            cookieJar: cookieJar,
-        })
-
-        const instance = got.extend(defaultOptions)
-        const res = await instance.get('')
-        const config = YouTubeConfigExtractor.extract(res.body)
-
-        let apiKey = config.INNERTUBE_API_KEY
-        let clientContext = config.INNERTUBE_CONTEXT
-        let defaultHeaders = YoutubeDefaultHeaderExtractor.create(config)
-        let currentUrl = config.INNERTUBE_CONTEXT?.client?.originalUrl
-
-        if (!apiKey) {
-            apiKey = "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"
-            console.warn("YouTube Inner API key could not be found: Using AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8")
-        }
-
-        return new YouTubeClient(instance, {
-            apiKey: apiKey,
-            clientContext: clientContext,
-            defaultHeaders: defaultHeaders,
-            currentUrl: currentUrl
-        });
+        return new YouTubeClient(httpClient, clientState);
     }
 
-    get<T>(path: string, options: OptionsOfTextResponseBody): Promise<T> {
-        return this.client.get(path, options).json()
+
+    async video(videoId: string) {
+        this.state.transition(`watch?v=${videoId}`)
+        //const res = this.httpClient.execute(new VideoNextRequest(this.httpClient, this.state))
     }
 
-    async getVideo(videoId: string): Promise<void | VideoParts> {
-        //new VideoNextRequest(this, this.context)
-    }
+    async liveLive() {}
+    async liveUpcoming() {}
+    async liveRecent() {}
+
+    async gamingGames() {}
+    async gamingTrending() {}
+
+    async gameLive(gameId: string) {}
+    async gameRecent(gameId: string) {}
+    async gamePlaylists(gameId: string) {}
+    async gameOfficial(gameId: string) {}
+    async gameAbout(gameId: string) {}
+
+    async channelVideos(channelId: string) {}
+    async channelShorts(channelId: string) {}
+    async channelLive(channelId: string) {}
+    async channelPodcasts(channelId: string) {}
+    async channelPlaylists(channelId: string) {}
+    async channelCommunity(channelId: string) {}
+    async channelStore(channelId: string) {}
+    async channelChannels(channelId: string) {}
+    async channelAbout(channelId: string) {}
+    async channelSearch(channelId: string, search: string) {}
 }
