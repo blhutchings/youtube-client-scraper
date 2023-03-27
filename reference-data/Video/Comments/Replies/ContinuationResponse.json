@@ -1,0 +1,2975 @@
+{
+    "responseContext": {
+        "serviceTrackingParams": [
+            {
+                "service": "CSI",
+                "params": [
+                    {
+                        "key": "c",
+                        "value": "WEB"
+                    },
+                    {
+                        "key": "cver",
+                        "value": "2.20230320.07.00"
+                    },
+                    {
+                        "key": "yt_li",
+                        "value": "0"
+                    },
+                    {
+                        "key": "GetWatchPageWebCommentReplies_rid",
+                        "value": "0x7fe143245edf8645"
+                    }
+                ]
+            },
+            {
+                "service": "GFEEDBACK",
+                "params": [
+                    {
+                        "key": "logged_in",
+                        "value": "0"
+                    },
+                    {
+                        "key": "e",
+                        "value": "1714255,9405961,23804281,23843877,23918597,23946420,23966208,23983296,23986031,23998056,24004644,24007246,24034168,24036948,24077241,24080738,24120819,24135310,24140247,24162042,24162920,24166867,24169501,24181174,24187043,24187377,24211178,24219381,24219713,24240252,24241378,24248091,24248956,24255163,24255543,24255545,24262346,24263796,24268142,24283093,24288047,24288418,24288664,24290971,24291857,24390675,24391541,24396645,24400176,24404640,24407191,24412855,24414718,24415864,24415866,24416291,24419347,24420368,24420728,24426636,24428902,24428945,24429095,24430079,24433679,24437577,24439361,24439483,24440132,24447218,24447671,24447992,24448245,24449113,24450367,24451627,24452227,24453129,24455284,24458839,24465011,24465095,24466371,24466456,24466828,24466859,24468618,24468724,24470719,24475539,24477227,24479966,24481771,24482081,24483009,24483503,24483653,24484079,24485239,24485420,24486582,24487048,24487190,24487930,24489232,24490472,24490510,24491431,24491530,24493736,24493982,24494079,24494197,24494986,24494993,24495060,24495841,24495962,24495965,24495990,24496915,24496968,24497394,24498366,24499293,24499302,24499570,24499577,24499792,24511729,24512744,24513637,24515367,24515388,24515424,39323074,39323341,39323453"
+                    }
+                ]
+            },
+            {
+                "service": "GUIDED_HELP",
+                "params": [
+                    {
+                        "key": "logged_in",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "service": "ECATCHER",
+                "params": [
+                    {
+                        "key": "client.version",
+                        "value": "2.20230320"
+                    },
+                    {
+                        "key": "client.name",
+                        "value": "WEB"
+                    },
+                    {
+                        "key": "client.fexp",
+                        "value": "24512744,24433679,24499302,24495060,24390675,39323453,24290971,24288418,24493736,24240252,24451627,24415864,24439361,24420728,24515424,24437577,24187043,24485420,24494986,24288664,24494993,24487190,24483653,24449113,39323341,24120819,24255545,24477227,24513637,23986031,39323074,24493982,24481771,24479966,24486582,24494197,23946420,23804281,23843877,24248091,24407191,24496915,24453129,24080738,24439483,24466456,23966208,24419347,24487930,24219713,24034168,24181174,24466828,24458839,24428945,24470719,24496968,24452227,23918597,24169501,24487048,24268142,24490510,24396645,24162920,24412855,24447992,24077241,24162042,24448245,24255163,24166867,24430079,24499570,24499577,24490472,24483009,24468724,24485239,24447218,24447671,24499293,24466859,24498366,24420368,24466371,9405961,24489232,24495841,24263796,24255543,24429095,24440132,24428902,24491431,24283093,24036948,24499792,24468618,24219381,24475539,24450367,24211178,24455284,24140247,24495965,24288047,24404640,24465011,24515388,24497394,24291857,24494079,23983296,1714255,24426636,24495962,24241378,24415866,24483503,24400176,24511729,24515367,24416291,24465095,24495990,24484079,24135310,24248956,24007246,24262346,24004644,24414718,24391541,24482081,23998056,24187377,24491530"
+                    }
+                ]
+            }
+        ],
+        "mainAppWebResponseContext": {
+            "loggedOut": true
+        },
+        "webResponseContextExtensionData": {
+            "hasDecorated": true
+        }
+    },
+    "trackingParams": "CAAQg2ciEwiKjO2Fz_L9AhUKjMEKHUr9C2mCARsIwgEQvnUiEwiYgLSkzPL9AhXP5mAKHakcAB8=",
+    "onResponseReceivedEndpoints": [
+        {
+            "clickTrackingParams": "CAAQg2ciEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+            "appendContinuationItemsAction": {
+                "continuationItems": [
+                    {
+                        "commentRenderer": {
+                            "authorText": {
+                                "simpleText": "Discat"
+                            },
+                            "authorThumbnail": {
+                                "thumbnails": [
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJUJhRuo2Kf7JEsTh0Ku-y1lCc_7pmYtprhN3VAR=s48-c-k-c0x00ffffff-no-rj",
+                                        "width": 48,
+                                        "height": 48
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJUJhRuo2Kf7JEsTh0Ku-y1lCc_7pmYtprhN3VAR=s88-c-k-c0x00ffffff-no-rj",
+                                        "width": 88,
+                                        "height": 88
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJUJhRuo2Kf7JEsTh0Ku-y1lCc_7pmYtprhN3VAR=s176-c-k-c0x00ffffff-no-rj",
+                                        "width": 176,
+                                        "height": 176
+                                    }
+                                ],
+                                "accessibility": {
+                                    "accessibilityData": {
+                                        "label": "Discat"
+                                    }
+                                }
+                            },
+                            "authorEndpoint": {
+                                "clickTrackingParams": "CEEQtnUYASITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "commandMetadata": {
+                                    "webCommandMetadata": {
+                                        "url": "/channel/UCb-RkvbHohRKXOg4tvr_t-A",
+                                        "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                        "rootVe": 3611,
+                                        "apiUrl": "/youtubei/v1/browse"
+                                    }
+                                },
+                                "browseEndpoint": {
+                                    "browseId": "UCb-RkvbHohRKXOg4tvr_t-A",
+                                    "canonicalBaseUrl": "/channel/UCb-RkvbHohRKXOg4tvr_t-A"
+                                }
+                            },
+                            "contentText": {
+                                "runs": [
+                                    {
+                                        "text": "yippee"
+                                    }
+                                ]
+                            },
+                            "publishedTimeText": {
+                                "runs": [
+                                    {
+                                        "text": "1 day ago",
+                                        "navigationEndpoint": {
+                                            "clickTrackingParams": "CEEQtnUYASITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                            "commandMetadata": {
+                                                "webCommandMetadata": {
+                                                    "url": "/watch?v=YIJY9GFWwKo&lc=UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9nXaYymY40V",
+                                                    "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                    "rootVe": 3832
+                                                }
+                                            },
+                                            "watchEndpoint": {
+                                                "videoId": "YIJY9GFWwKo",
+                                                "params": "ejFVZ3dpaHFoVGdvSDU1WDVLSmZkNEFhQUJBZy45blhXTUN3MVpmWjluWGFZeW1ZNDBWogIDwAEA"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "isLiked": false,
+                            "commentId": "UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9nXaYymY40V",
+                            "actionButtons": {
+                                "commentActionButtonsRenderer": {
+                                    "likeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "LIKE"
+                                            },
+                                            "trackingParams": "CEcQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Like",
+                                            "toggledTooltip": "Unlike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CEcQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CEcQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Like this reply along with 6 other people"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Unlike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "replyButton": {
+                                        "buttonRenderer": {
+                                            "style": "STYLE_TEXT",
+                                            "size": "SIZE_DEFAULT",
+                                            "text": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Reply"
+                                                    }
+                                                ]
+                                            },
+                                            "navigationEndpoint": {
+                                                "clickTrackingParams": "CEYQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CEYQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "trackingParams": "CEYQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k="
+                                        }
+                                    },
+                                    "dislikeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "DISLIKE"
+                                            },
+                                            "trackingParams": "CEUQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Dislike",
+                                            "toggledTooltip": "Remove dislike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CEUQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CEUQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Dislike this reply"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Remove dislike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "trackingParams": "CEQQtXUiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                    "protoCreationMs": "1679593949700",
+                                    "style": "COMMENT_ACTION_BUTTON_STYLE_TYPE_DESKTOP_TOOLBAR"
+                                }
+                            },
+                            "authorIsChannelOwner": false,
+                            "voteStatus": "INDIFFERENT",
+                            "trackingParams": "CEEQtnUYASITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                            "voteCount": {
+                                "accessibility": {
+                                    "accessibilityData": {
+                                        "label": "6 likes"
+                                    }
+                                },
+                                "simpleText": "6"
+                            },
+                            "expandButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Read more"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Read more"
+                                    },
+                                    "trackingParams": "CEMQr9gCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "collapseButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Show less"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Show less"
+                                    },
+                                    "trackingParams": "CEIQsNgCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "loggingDirectives": {
+                                "trackingParams": "CEEQtnUYASITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "visibility": {
+                                    "types": "12"
+                                },
+                                "enableDisplayloggerExperiment": true
+                            }
+                        }
+                    },
+                    {
+                        "commentRenderer": {
+                            "authorText": {
+                                "simpleText": "art"
+                            },
+                            "authorThumbnail": {
+                                "thumbnails": [
+                                    {
+                                        "url": "https://yt3.ggpht.com/4jzWLSwPe0gMhwSfEM1bqbs0ZowFDzlMNOKNzQqfoDuq0D55pKKgkWFipFVmp8MhagF5kpllBg=s48-c-k-c0x00ffffff-no-rj",
+                                        "width": 48,
+                                        "height": 48
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/4jzWLSwPe0gMhwSfEM1bqbs0ZowFDzlMNOKNzQqfoDuq0D55pKKgkWFipFVmp8MhagF5kpllBg=s88-c-k-c0x00ffffff-no-rj",
+                                        "width": 88,
+                                        "height": 88
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/4jzWLSwPe0gMhwSfEM1bqbs0ZowFDzlMNOKNzQqfoDuq0D55pKKgkWFipFVmp8MhagF5kpllBg=s176-c-k-c0x00ffffff-no-rj",
+                                        "width": 176,
+                                        "height": 176
+                                    }
+                                ],
+                                "accessibility": {
+                                    "accessibilityData": {
+                                        "label": "art"
+                                    }
+                                }
+                            },
+                            "authorEndpoint": {
+                                "clickTrackingParams": "CDoQtnUYAiITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "commandMetadata": {
+                                    "webCommandMetadata": {
+                                        "url": "/channel/UCEd08lFO7ChHWnBPUjiIfNA",
+                                        "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                        "rootVe": 3611,
+                                        "apiUrl": "/youtubei/v1/browse"
+                                    }
+                                },
+                                "browseEndpoint": {
+                                    "browseId": "UCEd08lFO7ChHWnBPUjiIfNA",
+                                    "canonicalBaseUrl": "/channel/UCEd08lFO7ChHWnBPUjiIfNA"
+                                }
+                            },
+                            "contentText": {
+                                "runs": [
+                                    {
+                                        "text": "spoilers"
+                                    }
+                                ]
+                            },
+                            "publishedTimeText": {
+                                "runs": [
+                                    {
+                                        "text": "1 day ago",
+                                        "navigationEndpoint": {
+                                            "clickTrackingParams": "CDoQtnUYAiITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                            "commandMetadata": {
+                                                "webCommandMetadata": {
+                                                    "url": "/watch?v=YIJY9GFWwKo&lc=UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9nXbg349cFr",
+                                                    "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                    "rootVe": 3832
+                                                }
+                                            },
+                                            "watchEndpoint": {
+                                                "videoId": "YIJY9GFWwKo",
+                                                "params": "ejFVZ3dpaHFoVGdvSDU1WDVLSmZkNEFhQUJBZy45blhXTUN3MVpmWjluWGJnMzQ5Y0ZyogIDwAEA"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "isLiked": false,
+                            "commentId": "UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9nXbg349cFr",
+                            "actionButtons": {
+                                "commentActionButtonsRenderer": {
+                                    "likeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "LIKE"
+                                            },
+                                            "trackingParams": "CEAQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Like",
+                                            "toggledTooltip": "Unlike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CEAQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CEAQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Like this reply along with 8 other people"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Unlike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "replyButton": {
+                                        "buttonRenderer": {
+                                            "style": "STYLE_TEXT",
+                                            "size": "SIZE_DEFAULT",
+                                            "text": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Reply"
+                                                    }
+                                                ]
+                                            },
+                                            "navigationEndpoint": {
+                                                "clickTrackingParams": "CD8Q8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CD8Q8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "trackingParams": "CD8Q8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k="
+                                        }
+                                    },
+                                    "dislikeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "DISLIKE"
+                                            },
+                                            "trackingParams": "CD4QmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Dislike",
+                                            "toggledTooltip": "Remove dislike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CD4QmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CD4QmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Dislike this reply"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Remove dislike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "trackingParams": "CD0QtXUiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                    "protoCreationMs": "1679593949703",
+                                    "style": "COMMENT_ACTION_BUTTON_STYLE_TYPE_DESKTOP_TOOLBAR"
+                                }
+                            },
+                            "authorIsChannelOwner": false,
+                            "voteStatus": "INDIFFERENT",
+                            "trackingParams": "CDoQtnUYAiITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                            "voteCount": {
+                                "accessibility": {
+                                    "accessibilityData": {
+                                        "label": "8 likes"
+                                    }
+                                },
+                                "simpleText": "8"
+                            },
+                            "expandButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Read more"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Read more"
+                                    },
+                                    "trackingParams": "CDwQr9gCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "collapseButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Show less"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Show less"
+                                    },
+                                    "trackingParams": "CDsQsNgCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "loggingDirectives": {
+                                "trackingParams": "CDoQtnUYAiITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "visibility": {
+                                    "types": "12"
+                                },
+                                "enableDisplayloggerExperiment": true
+                            }
+                        }
+                    },
+                    {
+                        "commentRenderer": {
+                            "authorText": {
+                                "simpleText": "Jade the Nightwing"
+                            },
+                            "authorThumbnail": {
+                                "thumbnails": [
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJXcQYIB8g8C51LLyTb_IA_Am18ERhCLFX2GWTZ8xg=s48-c-k-c0x00ffffff-no-rj",
+                                        "width": 48,
+                                        "height": 48
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJXcQYIB8g8C51LLyTb_IA_Am18ERhCLFX2GWTZ8xg=s88-c-k-c0x00ffffff-no-rj",
+                                        "width": 88,
+                                        "height": 88
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJXcQYIB8g8C51LLyTb_IA_Am18ERhCLFX2GWTZ8xg=s176-c-k-c0x00ffffff-no-rj",
+                                        "width": 176,
+                                        "height": 176
+                                    }
+                                ],
+                                "accessibility": {
+                                    "accessibilityData": {
+                                        "label": "Jade the Nightwing"
+                                    }
+                                }
+                            },
+                            "authorEndpoint": {
+                                "clickTrackingParams": "CDMQtnUYAyITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "commandMetadata": {
+                                    "webCommandMetadata": {
+                                        "url": "/channel/UCujnTkQcC-4xn1o6p_q7lDw",
+                                        "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                        "rootVe": 3611,
+                                        "apiUrl": "/youtubei/v1/browse"
+                                    }
+                                },
+                                "browseEndpoint": {
+                                    "browseId": "UCujnTkQcC-4xn1o6p_q7lDw",
+                                    "canonicalBaseUrl": "/channel/UCujnTkQcC-4xn1o6p_q7lDw"
+                                }
+                            },
+                            "contentText": {
+                                "runs": [
+                                    {
+                                        "text": "Ok to be fair Claire is stupidly hard."
+                                    }
+                                ]
+                            },
+                            "publishedTimeText": {
+                                "runs": [
+                                    {
+                                        "text": "1 day ago (edited)",
+                                        "navigationEndpoint": {
+                                            "clickTrackingParams": "CDMQtnUYAyITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                            "commandMetadata": {
+                                                "webCommandMetadata": {
+                                                    "url": "/watch?v=YIJY9GFWwKo&lc=UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9nXdE4mc1Dp",
+                                                    "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                    "rootVe": 3832
+                                                }
+                                            },
+                                            "watchEndpoint": {
+                                                "videoId": "YIJY9GFWwKo",
+                                                "params": "ejFVZ3dpaHFoVGdvSDU1WDVLSmZkNEFhQUJBZy45blhXTUN3MVpmWjluWGRFNG1jMURwogIDwAEA"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "isLiked": false,
+                            "commentId": "UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9nXdE4mc1Dp",
+                            "actionButtons": {
+                                "commentActionButtonsRenderer": {
+                                    "likeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "LIKE"
+                                            },
+                                            "trackingParams": "CDkQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Like",
+                                            "toggledTooltip": "Unlike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CDkQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CDkQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Like this reply along with 8 other people"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Unlike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "replyButton": {
+                                        "buttonRenderer": {
+                                            "style": "STYLE_TEXT",
+                                            "size": "SIZE_DEFAULT",
+                                            "text": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Reply"
+                                                    }
+                                                ]
+                                            },
+                                            "navigationEndpoint": {
+                                                "clickTrackingParams": "CDgQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CDgQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "trackingParams": "CDgQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k="
+                                        }
+                                    },
+                                    "dislikeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "DISLIKE"
+                                            },
+                                            "trackingParams": "CDcQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Dislike",
+                                            "toggledTooltip": "Remove dislike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CDcQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CDcQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Dislike this reply"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Remove dislike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "trackingParams": "CDYQtXUiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                    "protoCreationMs": "1679593949705",
+                                    "style": "COMMENT_ACTION_BUTTON_STYLE_TYPE_DESKTOP_TOOLBAR"
+                                }
+                            },
+                            "authorIsChannelOwner": false,
+                            "voteStatus": "INDIFFERENT",
+                            "trackingParams": "CDMQtnUYAyITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                            "voteCount": {
+                                "accessibility": {
+                                    "accessibilityData": {
+                                        "label": "8 likes"
+                                    }
+                                },
+                                "simpleText": "8"
+                            },
+                            "expandButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Read more"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Read more"
+                                    },
+                                    "trackingParams": "CDUQr9gCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "collapseButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Show less"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Show less"
+                                    },
+                                    "trackingParams": "CDQQsNgCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "loggingDirectives": {
+                                "trackingParams": "CDMQtnUYAyITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "visibility": {
+                                    "types": "12"
+                                },
+                                "enableDisplayloggerExperiment": true
+                            }
+                        }
+                    },
+                    {
+                        "commentRenderer": {
+                            "authorText": {
+                                "simpleText": "Stillalive"
+                            },
+                            "authorThumbnail": {
+                                "thumbnails": [
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJUSxJW2m4_KbuNXuu9whbW8w6igtgw7CDYv3oGSFw=s48-c-k-c0x00ffffff-no-rj",
+                                        "width": 48,
+                                        "height": 48
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJUSxJW2m4_KbuNXuu9whbW8w6igtgw7CDYv3oGSFw=s88-c-k-c0x00ffffff-no-rj",
+                                        "width": 88,
+                                        "height": 88
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJUSxJW2m4_KbuNXuu9whbW8w6igtgw7CDYv3oGSFw=s176-c-k-c0x00ffffff-no-rj",
+                                        "width": 176,
+                                        "height": 176
+                                    }
+                                ],
+                                "accessibility": {
+                                    "accessibilityData": {
+                                        "label": "Stillalive"
+                                    }
+                                }
+                            },
+                            "authorEndpoint": {
+                                "clickTrackingParams": "CCwQtnUYBCITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "commandMetadata": {
+                                    "webCommandMetadata": {
+                                        "url": "/channel/UCZUjTmg-TpP0zGuaMxYne_A",
+                                        "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                        "rootVe": 3611,
+                                        "apiUrl": "/youtubei/v1/browse"
+                                    }
+                                },
+                                "browseEndpoint": {
+                                    "browseId": "UCZUjTmg-TpP0zGuaMxYne_A",
+                                    "canonicalBaseUrl": "/channel/UCZUjTmg-TpP0zGuaMxYne_A"
+                                }
+                            },
+                            "contentText": {
+                                "runs": [
+                                    {
+                                        "text": "\u200b"
+                                    },
+                                    {
+                                        "text": " @Jade the Nightwing ",
+                                        "navigationEndpoint": {
+                                            "clickTrackingParams": "CCwQtnUYBCITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                            "commandMetadata": {
+                                                "webCommandMetadata": {
+                                                    "url": "/channel/UCujnTkQcC-4xn1o6p_q7lDw",
+                                                    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                    "rootVe": 3611,
+                                                    "apiUrl": "/youtubei/v1/browse"
+                                                }
+                                            },
+                                            "browseEndpoint": {
+                                                "browseId": "UCujnTkQcC-4xn1o6p_q7lDw",
+                                                "canonicalBaseUrl": "/channel/UCujnTkQcC-4xn1o6p_q7lDw"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "text": " Even more spoilers o.o"
+                                    }
+                                ]
+                            },
+                            "publishedTimeText": {
+                                "runs": [
+                                    {
+                                        "text": "1 day ago",
+                                        "navigationEndpoint": {
+                                            "clickTrackingParams": "CCwQtnUYBCITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                            "commandMetadata": {
+                                                "webCommandMetadata": {
+                                                    "url": "/watch?v=YIJY9GFWwKo&lc=UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9nXjrtd7RA6",
+                                                    "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                    "rootVe": 3832
+                                                }
+                                            },
+                                            "watchEndpoint": {
+                                                "videoId": "YIJY9GFWwKo",
+                                                "params": "ejFVZ3dpaHFoVGdvSDU1WDVLSmZkNEFhQUJBZy45blhXTUN3MVpmWjluWGpydGQ3UkE2ogIDwAEA"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "isLiked": false,
+                            "commentId": "UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9nXjrtd7RA6",
+                            "actionButtons": {
+                                "commentActionButtonsRenderer": {
+                                    "likeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "LIKE"
+                                            },
+                                            "trackingParams": "CDIQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Like",
+                                            "toggledTooltip": "Unlike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CDIQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CDIQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Like this reply along with 0 other people"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Unlike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "replyButton": {
+                                        "buttonRenderer": {
+                                            "style": "STYLE_TEXT",
+                                            "size": "SIZE_DEFAULT",
+                                            "text": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Reply"
+                                                    }
+                                                ]
+                                            },
+                                            "navigationEndpoint": {
+                                                "clickTrackingParams": "CDEQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CDEQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "trackingParams": "CDEQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k="
+                                        }
+                                    },
+                                    "dislikeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "DISLIKE"
+                                            },
+                                            "trackingParams": "CDAQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Dislike",
+                                            "toggledTooltip": "Remove dislike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CDAQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CDAQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Dislike this reply"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Remove dislike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "trackingParams": "CC8QtXUiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                    "protoCreationMs": "1679593949708",
+                                    "style": "COMMENT_ACTION_BUTTON_STYLE_TYPE_DESKTOP_TOOLBAR"
+                                }
+                            },
+                            "authorIsChannelOwner": false,
+                            "voteStatus": "INDIFFERENT",
+                            "trackingParams": "CCwQtnUYBCITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                            "expandButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Read more"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Read more"
+                                    },
+                                    "trackingParams": "CC4Qr9gCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "collapseButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Show less"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Show less"
+                                    },
+                                    "trackingParams": "CC0QsNgCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "loggingDirectives": {
+                                "trackingParams": "CCwQtnUYBCITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "visibility": {
+                                    "types": "12"
+                                },
+                                "enableDisplayloggerExperiment": true
+                            }
+                        }
+                    },
+                    {
+                        "commentRenderer": {
+                            "authorText": {
+                                "simpleText": "Rektor McGitgud"
+                            },
+                            "authorThumbnail": {
+                                "thumbnails": [
+                                    {
+                                        "url": "https://yt3.ggpht.com/wt2Cce-C_RpG9qYlWLL5hG1jBbcqUD925BBxrpehr-pGGmv474kQ9WCV_F8BGxpMoJ_dt9NfHA=s48-c-k-c0x00ffffff-no-rj",
+                                        "width": 48,
+                                        "height": 48
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/wt2Cce-C_RpG9qYlWLL5hG1jBbcqUD925BBxrpehr-pGGmv474kQ9WCV_F8BGxpMoJ_dt9NfHA=s88-c-k-c0x00ffffff-no-rj",
+                                        "width": 88,
+                                        "height": 88
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/wt2Cce-C_RpG9qYlWLL5hG1jBbcqUD925BBxrpehr-pGGmv474kQ9WCV_F8BGxpMoJ_dt9NfHA=s176-c-k-c0x00ffffff-no-rj",
+                                        "width": 176,
+                                        "height": 176
+                                    }
+                                ],
+                                "accessibility": {
+                                    "accessibilityData": {
+                                        "label": "Rektor McGitgud"
+                                    }
+                                }
+                            },
+                            "authorEndpoint": {
+                                "clickTrackingParams": "CCUQtnUYBSITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "commandMetadata": {
+                                    "webCommandMetadata": {
+                                        "url": "/channel/UCvs_w1xtDko9qxoG1c7lMZQ",
+                                        "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                        "rootVe": 3611,
+                                        "apiUrl": "/youtubei/v1/browse"
+                                    }
+                                },
+                                "browseEndpoint": {
+                                    "browseId": "UCvs_w1xtDko9qxoG1c7lMZQ",
+                                    "canonicalBaseUrl": "/channel/UCvs_w1xtDko9qxoG1c7lMZQ"
+                                }
+                            },
+                            "contentText": {
+                                "runs": [
+                                    {
+                                        "text": " @art ",
+                                        "navigationEndpoint": {
+                                            "clickTrackingParams": "CCUQtnUYBSITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                            "commandMetadata": {
+                                                "webCommandMetadata": {
+                                                    "url": "/channel/UCEd08lFO7ChHWnBPUjiIfNA",
+                                                    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                    "rootVe": 3611,
+                                                    "apiUrl": "/youtubei/v1/browse"
+                                                }
+                                            },
+                                            "browseEndpoint": {
+                                                "browseId": "UCEd08lFO7ChHWnBPUjiIfNA",
+                                                "canonicalBaseUrl": "/channel/UCEd08lFO7ChHWnBPUjiIfNA"
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "text": " Don't read comments before finishing a video"
+                                    }
+                                ]
+                            },
+                            "publishedTimeText": {
+                                "runs": [
+                                    {
+                                        "text": "1 day ago",
+                                        "navigationEndpoint": {
+                                            "clickTrackingParams": "CCUQtnUYBSITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                            "commandMetadata": {
+                                                "webCommandMetadata": {
+                                                    "url": "/watch?v=YIJY9GFWwKo&lc=UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9nXssKX2MvK",
+                                                    "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                    "rootVe": 3832
+                                                }
+                                            },
+                                            "watchEndpoint": {
+                                                "videoId": "YIJY9GFWwKo",
+                                                "params": "ejFVZ3dpaHFoVGdvSDU1WDVLSmZkNEFhQUJBZy45blhXTUN3MVpmWjluWHNzS1gyTXZLogIDwAEA"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "isLiked": false,
+                            "commentId": "UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9nXssKX2MvK",
+                            "actionButtons": {
+                                "commentActionButtonsRenderer": {
+                                    "likeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "LIKE"
+                                            },
+                                            "trackingParams": "CCsQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Like",
+                                            "toggledTooltip": "Unlike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CCsQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CCsQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Like this reply along with 9 other people"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Unlike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "replyButton": {
+                                        "buttonRenderer": {
+                                            "style": "STYLE_TEXT",
+                                            "size": "SIZE_DEFAULT",
+                                            "text": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Reply"
+                                                    }
+                                                ]
+                                            },
+                                            "navigationEndpoint": {
+                                                "clickTrackingParams": "CCoQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CCoQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "trackingParams": "CCoQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k="
+                                        }
+                                    },
+                                    "dislikeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "DISLIKE"
+                                            },
+                                            "trackingParams": "CCkQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Dislike",
+                                            "toggledTooltip": "Remove dislike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CCkQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CCkQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Dislike this reply"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Remove dislike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "trackingParams": "CCgQtXUiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                    "protoCreationMs": "1679593949710",
+                                    "style": "COMMENT_ACTION_BUTTON_STYLE_TYPE_DESKTOP_TOOLBAR"
+                                }
+                            },
+                            "authorIsChannelOwner": false,
+                            "voteStatus": "INDIFFERENT",
+                            "trackingParams": "CCUQtnUYBSITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                            "voteCount": {
+                                "accessibility": {
+                                    "accessibilityData": {
+                                        "label": "9 likes"
+                                    }
+                                },
+                                "simpleText": "9"
+                            },
+                            "expandButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Read more"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Read more"
+                                    },
+                                    "trackingParams": "CCcQr9gCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "collapseButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Show less"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Show less"
+                                    },
+                                    "trackingParams": "CCYQsNgCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "loggingDirectives": {
+                                "trackingParams": "CCUQtnUYBSITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "visibility": {
+                                    "types": "12"
+                                },
+                                "enableDisplayloggerExperiment": true
+                            }
+                        }
+                    },
+                    {
+                        "commentRenderer": {
+                            "authorText": {
+                                "simpleText": "Mistah Jenkins"
+                            },
+                            "authorThumbnail": {
+                                "thumbnails": [
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVCKpLctEWthD-ui1lfWFROdNbbJGQJqVyRBiCFJQ=s48-c-k-c0x00ffffff-no-rj",
+                                        "width": 48,
+                                        "height": 48
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVCKpLctEWthD-ui1lfWFROdNbbJGQJqVyRBiCFJQ=s88-c-k-c0x00ffffff-no-rj",
+                                        "width": 88,
+                                        "height": 88
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVCKpLctEWthD-ui1lfWFROdNbbJGQJqVyRBiCFJQ=s176-c-k-c0x00ffffff-no-rj",
+                                        "width": 176,
+                                        "height": 176
+                                    }
+                                ],
+                                "accessibility": {
+                                    "accessibilityData": {
+                                        "label": "Mistah Jenkins"
+                                    }
+                                }
+                            },
+                            "authorEndpoint": {
+                                "clickTrackingParams": "CB4QtnUYBiITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "commandMetadata": {
+                                    "webCommandMetadata": {
+                                        "url": "/channel/UCYG6D3A_WiyIDYY4BA_Z1HA",
+                                        "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                        "rootVe": 3611,
+                                        "apiUrl": "/youtubei/v1/browse"
+                                    }
+                                },
+                                "browseEndpoint": {
+                                    "browseId": "UCYG6D3A_WiyIDYY4BA_Z1HA",
+                                    "canonicalBaseUrl": "/channel/UCYG6D3A_WiyIDYY4BA_Z1HA"
+                                }
+                            },
+                            "contentText": {
+                                "runs": [
+                                    {
+                                        "text": "At least now we know for the future..."
+                                    },
+                                    {
+                                        "text": "\n"
+                                    },
+                                    {
+                                        "text": "\n"
+                                    },
+                                    {
+                                        "text": "Kingdra is a Water/Dragon Type. XD"
+                                    }
+                                ]
+                            },
+                            "publishedTimeText": {
+                                "runs": [
+                                    {
+                                        "text": "1 day ago",
+                                        "navigationEndpoint": {
+                                            "clickTrackingParams": "CB4QtnUYBiITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                            "commandMetadata": {
+                                                "webCommandMetadata": {
+                                                    "url": "/watch?v=YIJY9GFWwKo&lc=UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9nXzu8oZXgj",
+                                                    "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                    "rootVe": 3832
+                                                }
+                                            },
+                                            "watchEndpoint": {
+                                                "videoId": "YIJY9GFWwKo",
+                                                "params": "ejFVZ3dpaHFoVGdvSDU1WDVLSmZkNEFhQUJBZy45blhXTUN3MVpmWjluWHp1OG9aWGdqogIDwAEA"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "isLiked": false,
+                            "commentId": "UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9nXzu8oZXgj",
+                            "actionButtons": {
+                                "commentActionButtonsRenderer": {
+                                    "likeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "LIKE"
+                                            },
+                                            "trackingParams": "CCQQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Like",
+                                            "toggledTooltip": "Unlike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CCQQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CCQQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Like this reply along with 0 other people"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Unlike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "replyButton": {
+                                        "buttonRenderer": {
+                                            "style": "STYLE_TEXT",
+                                            "size": "SIZE_DEFAULT",
+                                            "text": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Reply"
+                                                    }
+                                                ]
+                                            },
+                                            "navigationEndpoint": {
+                                                "clickTrackingParams": "CCMQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CCMQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "trackingParams": "CCMQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k="
+                                        }
+                                    },
+                                    "dislikeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "DISLIKE"
+                                            },
+                                            "trackingParams": "CCIQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Dislike",
+                                            "toggledTooltip": "Remove dislike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CCIQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CCIQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Dislike this reply"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Remove dislike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "trackingParams": "CCEQtXUiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                    "protoCreationMs": "1679593949713",
+                                    "style": "COMMENT_ACTION_BUTTON_STYLE_TYPE_DESKTOP_TOOLBAR"
+                                }
+                            },
+                            "authorIsChannelOwner": false,
+                            "voteStatus": "INDIFFERENT",
+                            "trackingParams": "CB4QtnUYBiITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                            "expandButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Read more"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Read more"
+                                    },
+                                    "trackingParams": "CCAQr9gCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "collapseButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Show less"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Show less"
+                                    },
+                                    "trackingParams": "CB8QsNgCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "loggingDirectives": {
+                                "trackingParams": "CB4QtnUYBiITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "visibility": {
+                                    "types": "12"
+                                },
+                                "enableDisplayloggerExperiment": true
+                            }
+                        }
+                    },
+                    {
+                        "commentRenderer": {
+                            "authorText": {
+                                "simpleText": "Josh Straub"
+                            },
+                            "authorThumbnail": {
+                                "thumbnails": [
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJXuOxrG-WEGAstfIEjCdTVmKy5knA780sIlJJnc=s48-c-k-c0x00ffffff-no-rj",
+                                        "width": 48,
+                                        "height": 48
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJXuOxrG-WEGAstfIEjCdTVmKy5knA780sIlJJnc=s88-c-k-c0x00ffffff-no-rj",
+                                        "width": 88,
+                                        "height": 88
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJXuOxrG-WEGAstfIEjCdTVmKy5knA780sIlJJnc=s176-c-k-c0x00ffffff-no-rj",
+                                        "width": 176,
+                                        "height": 176
+                                    }
+                                ],
+                                "accessibility": {
+                                    "accessibilityData": {
+                                        "label": "Josh Straub"
+                                    }
+                                }
+                            },
+                            "authorEndpoint": {
+                                "clickTrackingParams": "CBcQtnUYByITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "commandMetadata": {
+                                    "webCommandMetadata": {
+                                        "url": "/channel/UC9rtkacQrcqPrCKGz5hN_FQ",
+                                        "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                        "rootVe": 3611,
+                                        "apiUrl": "/youtubei/v1/browse"
+                                    }
+                                },
+                                "browseEndpoint": {
+                                    "browseId": "UC9rtkacQrcqPrCKGz5hN_FQ",
+                                    "canonicalBaseUrl": "/channel/UC9rtkacQrcqPrCKGz5hN_FQ"
+                                }
+                            },
+                            "contentText": {
+                                "runs": [
+                                    {
+                                        "text": "Kek"
+                                    }
+                                ]
+                            },
+                            "publishedTimeText": {
+                                "runs": [
+                                    {
+                                        "text": "1 day ago",
+                                        "navigationEndpoint": {
+                                            "clickTrackingParams": "CBcQtnUYByITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                            "commandMetadata": {
+                                                "webCommandMetadata": {
+                                                    "url": "/watch?v=YIJY9GFWwKo&lc=UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9nY_1aioUiv",
+                                                    "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                    "rootVe": 3832
+                                                }
+                                            },
+                                            "watchEndpoint": {
+                                                "videoId": "YIJY9GFWwKo",
+                                                "params": "ejFVZ3dpaHFoVGdvSDU1WDVLSmZkNEFhQUJBZy45blhXTUN3MVpmWjluWV8xYWlvVWl2ogIDwAEA"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "isLiked": false,
+                            "commentId": "UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9nY_1aioUiv",
+                            "actionButtons": {
+                                "commentActionButtonsRenderer": {
+                                    "likeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "LIKE"
+                                            },
+                                            "trackingParams": "CB0QmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Like",
+                                            "toggledTooltip": "Unlike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CB0QmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CB0QmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Like this reply along with 0 other people"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Unlike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "replyButton": {
+                                        "buttonRenderer": {
+                                            "style": "STYLE_TEXT",
+                                            "size": "SIZE_DEFAULT",
+                                            "text": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Reply"
+                                                    }
+                                                ]
+                                            },
+                                            "navigationEndpoint": {
+                                                "clickTrackingParams": "CBwQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CBwQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "trackingParams": "CBwQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k="
+                                        }
+                                    },
+                                    "dislikeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "DISLIKE"
+                                            },
+                                            "trackingParams": "CBsQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Dislike",
+                                            "toggledTooltip": "Remove dislike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CBsQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CBsQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Dislike this reply"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Remove dislike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "trackingParams": "CBoQtXUiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                    "protoCreationMs": "1679593949715",
+                                    "style": "COMMENT_ACTION_BUTTON_STYLE_TYPE_DESKTOP_TOOLBAR"
+                                }
+                            },
+                            "authorIsChannelOwner": false,
+                            "voteStatus": "INDIFFERENT",
+                            "trackingParams": "CBcQtnUYByITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                            "expandButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Read more"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Read more"
+                                    },
+                                    "trackingParams": "CBkQr9gCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "collapseButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Show less"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Show less"
+                                    },
+                                    "trackingParams": "CBgQsNgCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "loggingDirectives": {
+                                "trackingParams": "CBcQtnUYByITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "visibility": {
+                                    "types": "12"
+                                },
+                                "enableDisplayloggerExperiment": true
+                            }
+                        }
+                    },
+                    {
+                        "commentRenderer": {
+                            "authorText": {
+                                "simpleText": "Kevin Kibbe"
+                            },
+                            "authorThumbnail": {
+                                "thumbnails": [
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJWJO37Ybe8EScPVVVCdlxA9E-CDdIubvGqBcjzNH00=s48-c-k-c0x00ffffff-no-rj",
+                                        "width": 48,
+                                        "height": 48
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJWJO37Ybe8EScPVVVCdlxA9E-CDdIubvGqBcjzNH00=s88-c-k-c0x00ffffff-no-rj",
+                                        "width": 88,
+                                        "height": 88
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJWJO37Ybe8EScPVVVCdlxA9E-CDdIubvGqBcjzNH00=s176-c-k-c0x00ffffff-no-rj",
+                                        "width": 176,
+                                        "height": 176
+                                    }
+                                ],
+                                "accessibility": {
+                                    "accessibilityData": {
+                                        "label": "Kevin Kibbe"
+                                    }
+                                }
+                            },
+                            "authorEndpoint": {
+                                "clickTrackingParams": "CBAQtnUYCCITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "commandMetadata": {
+                                    "webCommandMetadata": {
+                                        "url": "/channel/UC-IjpMk_l2I6eM5vNZdgqdQ",
+                                        "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                        "rootVe": 3611,
+                                        "apiUrl": "/youtubei/v1/browse"
+                                    }
+                                },
+                                "browseEndpoint": {
+                                    "browseId": "UC-IjpMk_l2I6eM5vNZdgqdQ",
+                                    "canonicalBaseUrl": "/channel/UC-IjpMk_l2I6eM5vNZdgqdQ"
+                                }
+                            },
+                            "contentText": {
+                                "runs": [
+                                    {
+                                        "text": "Ruined it for me oof"
+                                    }
+                                ]
+                            },
+                            "publishedTimeText": {
+                                "runs": [
+                                    {
+                                        "text": "1 day ago",
+                                        "navigationEndpoint": {
+                                            "clickTrackingParams": "CBAQtnUYCCITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                            "commandMetadata": {
+                                                "webCommandMetadata": {
+                                                    "url": "/watch?v=YIJY9GFWwKo&lc=UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9nZPhgkkmCE",
+                                                    "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                    "rootVe": 3832
+                                                }
+                                            },
+                                            "watchEndpoint": {
+                                                "videoId": "YIJY9GFWwKo",
+                                                "params": "ejFVZ3dpaHFoVGdvSDU1WDVLSmZkNEFhQUJBZy45blhXTUN3MVpmWjluWlBoZ2trbUNFogIDwAEA"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "isLiked": false,
+                            "commentId": "UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9nZPhgkkmCE",
+                            "actionButtons": {
+                                "commentActionButtonsRenderer": {
+                                    "likeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "LIKE"
+                                            },
+                                            "trackingParams": "CBYQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Like",
+                                            "toggledTooltip": "Unlike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CBYQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CBYQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Like this reply along with 0 other people"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Unlike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "replyButton": {
+                                        "buttonRenderer": {
+                                            "style": "STYLE_TEXT",
+                                            "size": "SIZE_DEFAULT",
+                                            "text": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Reply"
+                                                    }
+                                                ]
+                                            },
+                                            "navigationEndpoint": {
+                                                "clickTrackingParams": "CBUQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CBUQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "trackingParams": "CBUQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k="
+                                        }
+                                    },
+                                    "dislikeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "DISLIKE"
+                                            },
+                                            "trackingParams": "CBQQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Dislike",
+                                            "toggledTooltip": "Remove dislike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CBQQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CBQQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Dislike this reply"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Remove dislike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "trackingParams": "CBMQtXUiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                    "protoCreationMs": "1679593949717",
+                                    "style": "COMMENT_ACTION_BUTTON_STYLE_TYPE_DESKTOP_TOOLBAR"
+                                }
+                            },
+                            "authorIsChannelOwner": false,
+                            "voteStatus": "INDIFFERENT",
+                            "trackingParams": "CBAQtnUYCCITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                            "expandButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Read more"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Read more"
+                                    },
+                                    "trackingParams": "CBIQr9gCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "collapseButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Show less"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Show less"
+                                    },
+                                    "trackingParams": "CBEQsNgCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "loggingDirectives": {
+                                "trackingParams": "CBAQtnUYCCITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "visibility": {
+                                    "types": "12"
+                                },
+                                "enableDisplayloggerExperiment": true
+                            }
+                        }
+                    },
+                    {
+                        "commentRenderer": {
+                            "authorText": {
+                                "simpleText": "Shadow_CatPlayz"
+                            },
+                            "authorThumbnail": {
+                                "thumbnails": [
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVBA0IsRw7sHZ4E685cXxmJS8ejRh67_BXjaWv6Lg=s48-c-k-c0x00ffffff-no-rj",
+                                        "width": 48,
+                                        "height": 48
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVBA0IsRw7sHZ4E685cXxmJS8ejRh67_BXjaWv6Lg=s88-c-k-c0x00ffffff-no-rj",
+                                        "width": 88,
+                                        "height": 88
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJVBA0IsRw7sHZ4E685cXxmJS8ejRh67_BXjaWv6Lg=s176-c-k-c0x00ffffff-no-rj",
+                                        "width": 176,
+                                        "height": 176
+                                    }
+                                ],
+                                "accessibility": {
+                                    "accessibilityData": {
+                                        "label": "Shadow_CatPlayz"
+                                    }
+                                }
+                            },
+                            "authorEndpoint": {
+                                "clickTrackingParams": "CAkQtnUYCSITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "commandMetadata": {
+                                    "webCommandMetadata": {
+                                        "url": "/channel/UCZmOLVbXW4z_Rju8uD0C0FQ",
+                                        "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                        "rootVe": 3611,
+                                        "apiUrl": "/youtubei/v1/browse"
+                                    }
+                                },
+                                "browseEndpoint": {
+                                    "browseId": "UCZmOLVbXW4z_Rju8uD0C0FQ",
+                                    "canonicalBaseUrl": "/channel/UCZmOLVbXW4z_Rju8uD0C0FQ"
+                                }
+                            },
+                            "contentText": {
+                                "runs": [
+                                    {
+                                        "text": "GEE THANKS FOR SPOILING IT"
+                                    }
+                                ]
+                            },
+                            "publishedTimeText": {
+                                "runs": [
+                                    {
+                                        "text": "1 day ago",
+                                        "navigationEndpoint": {
+                                            "clickTrackingParams": "CAkQtnUYCSITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                            "commandMetadata": {
+                                                "webCommandMetadata": {
+                                                    "url": "/watch?v=YIJY9GFWwKo&lc=UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9nZlNJInwY6",
+                                                    "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                    "rootVe": 3832
+                                                }
+                                            },
+                                            "watchEndpoint": {
+                                                "videoId": "YIJY9GFWwKo",
+                                                "params": "ejFVZ3dpaHFoVGdvSDU1WDVLSmZkNEFhQUJBZy45blhXTUN3MVpmWjluWmxOSklud1k2ogIDwAEA"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "isLiked": false,
+                            "commentId": "UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9nZlNJInwY6",
+                            "actionButtons": {
+                                "commentActionButtonsRenderer": {
+                                    "likeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "LIKE"
+                                            },
+                                            "trackingParams": "CA8QmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Like",
+                                            "toggledTooltip": "Unlike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CA8QmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CA8QmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Like this reply along with 0 other people"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Unlike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "replyButton": {
+                                        "buttonRenderer": {
+                                            "style": "STYLE_TEXT",
+                                            "size": "SIZE_DEFAULT",
+                                            "text": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Reply"
+                                                    }
+                                                ]
+                                            },
+                                            "navigationEndpoint": {
+                                                "clickTrackingParams": "CA4Q8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CA4Q8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "trackingParams": "CA4Q8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k="
+                                        }
+                                    },
+                                    "dislikeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "DISLIKE"
+                                            },
+                                            "trackingParams": "CA0QmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Dislike",
+                                            "toggledTooltip": "Remove dislike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CA0QmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CA0QmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Dislike this reply"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Remove dislike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "trackingParams": "CAwQtXUiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                    "protoCreationMs": "1679593949720",
+                                    "style": "COMMENT_ACTION_BUTTON_STYLE_TYPE_DESKTOP_TOOLBAR"
+                                }
+                            },
+                            "authorIsChannelOwner": false,
+                            "voteStatus": "INDIFFERENT",
+                            "trackingParams": "CAkQtnUYCSITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                            "expandButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Read more"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Read more"
+                                    },
+                                    "trackingParams": "CAsQr9gCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "collapseButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Show less"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Show less"
+                                    },
+                                    "trackingParams": "CAoQsNgCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "loggingDirectives": {
+                                "trackingParams": "CAkQtnUYCSITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "visibility": {
+                                    "types": "12"
+                                },
+                                "enableDisplayloggerExperiment": true
+                            }
+                        }
+                    },
+                    {
+                        "commentRenderer": {
+                            "authorText": {
+                                "simpleText": "B"
+                            },
+                            "authorThumbnail": {
+                                "thumbnails": [
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJXtAQu_reTyOrc2fclO9_wnIG9_YUSUWfzxnQ=s48-c-k-c0x00ffffff-no-rj",
+                                        "width": 48,
+                                        "height": 48
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJXtAQu_reTyOrc2fclO9_wnIG9_YUSUWfzxnQ=s88-c-k-c0x00ffffff-no-rj",
+                                        "width": 88,
+                                        "height": 88
+                                    },
+                                    {
+                                        "url": "https://yt3.ggpht.com/ytc/AL5GRJXtAQu_reTyOrc2fclO9_wnIG9_YUSUWfzxnQ=s176-c-k-c0x00ffffff-no-rj",
+                                        "width": 176,
+                                        "height": 176
+                                    }
+                                ],
+                                "accessibility": {
+                                    "accessibilityData": {
+                                        "label": "B"
+                                    }
+                                }
+                            },
+                            "authorEndpoint": {
+                                "clickTrackingParams": "CAIQtnUYCiITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "commandMetadata": {
+                                    "webCommandMetadata": {
+                                        "url": "/channel/UCetS2I5umdh8OmTNBs3kqqg",
+                                        "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                        "rootVe": 3611,
+                                        "apiUrl": "/youtubei/v1/browse"
+                                    }
+                                },
+                                "browseEndpoint": {
+                                    "browseId": "UCetS2I5umdh8OmTNBs3kqqg",
+                                    "canonicalBaseUrl": "/channel/UCetS2I5umdh8OmTNBs3kqqg"
+                                }
+                            },
+                            "contentText": {
+                                "runs": [
+                                    {
+                                        "text": "~Next Time For Sure~ ;)"
+                                    }
+                                ]
+                            },
+                            "publishedTimeText": {
+                                "runs": [
+                                    {
+                                        "text": "22 hours ago",
+                                        "navigationEndpoint": {
+                                            "clickTrackingParams": "CAIQtnUYCiITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                            "commandMetadata": {
+                                                "webCommandMetadata": {
+                                                    "url": "/watch?v=YIJY9GFWwKo&lc=UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9n_3c31RPYM",
+                                                    "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                    "rootVe": 3832
+                                                }
+                                            },
+                                            "watchEndpoint": {
+                                                "videoId": "YIJY9GFWwKo",
+                                                "params": "ejFVZ3dpaHFoVGdvSDU1WDVLSmZkNEFhQUJBZy45blhXTUN3MVpmWjluXzNjMzFSUFlNogIDwAEA"
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "isLiked": false,
+                            "commentId": "UgwihqhTgoH55X5KJfd4AaABAg.9nXWMCw1ZfZ9n_3c31RPYM",
+                            "actionButtons": {
+                                "commentActionButtonsRenderer": {
+                                    "likeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "LIKE"
+                                            },
+                                            "trackingParams": "CAgQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Like",
+                                            "toggledTooltip": "Unlike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CAgQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CAgQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Like this reply along with 0 other people"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Unlike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "replyButton": {
+                                        "buttonRenderer": {
+                                            "style": "STYLE_TEXT",
+                                            "size": "SIZE_DEFAULT",
+                                            "text": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Reply"
+                                                    }
+                                                ]
+                                            },
+                                            "navigationEndpoint": {
+                                                "clickTrackingParams": "CAcQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CAcQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "trackingParams": "CAcQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k="
+                                        }
+                                    },
+                                    "dislikeButton": {
+                                        "toggleButtonRenderer": {
+                                            "style": {
+                                                "styleType": "STYLE_TEXT"
+                                            },
+                                            "size": {
+                                                "sizeType": "SIZE_DEFAULT"
+                                            },
+                                            "isToggled": false,
+                                            "isDisabled": false,
+                                            "defaultIcon": {
+                                                "iconType": "DISLIKE"
+                                            },
+                                            "trackingParams": "CAYQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                            "defaultTooltip": "Dislike",
+                                            "toggledTooltip": "Remove dislike",
+                                            "toggledStyle": {
+                                                "styleType": "STYLE_DEFAULT_ACTIVE"
+                                            },
+                                            "defaultNavigationEndpoint": {
+                                                "clickTrackingParams": "CAYQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253DYIJY9GFWwKo&hl=en",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CAYQmE0iEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/watch?v=YIJY9GFWwKo",
+                                                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                                                "rootVe": 3832
+                                                            }
+                                                        },
+                                                        "watchEndpoint": {
+                                                            "videoId": "YIJY9GFWwKo"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "accessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Dislike this reply"
+                                                }
+                                            },
+                                            "toggledAccessibilityData": {
+                                                "accessibilityData": {
+                                                    "label": "Remove dislike"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "trackingParams": "CAUQtXUiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                    "protoCreationMs": "1679593949723",
+                                    "style": "COMMENT_ACTION_BUTTON_STYLE_TYPE_DESKTOP_TOOLBAR"
+                                }
+                            },
+                            "authorIsChannelOwner": false,
+                            "voteStatus": "INDIFFERENT",
+                            "trackingParams": "CAIQtnUYCiITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                            "expandButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Read more"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Read more"
+                                    },
+                                    "trackingParams": "CAQQr9gCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "collapseButton": {
+                                "buttonRenderer": {
+                                    "style": "STYLE_TEXT",
+                                    "size": "SIZE_DEFAULT",
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Show less"
+                                            }
+                                        ]
+                                    },
+                                    "accessibility": {
+                                        "label": "Show less"
+                                    },
+                                    "trackingParams": "CAMQsNgCIhMIiozthc_y_QIVCozBCh1K_Qtp"
+                                }
+                            },
+                            "loggingDirectives": {
+                                "trackingParams": "CAIQtnUYCiITCIqM7YXP8v0CFQqMwQodSv0LaQ==",
+                                "visibility": {
+                                    "types": "12"
+                                },
+                                "enableDisplayloggerExperiment": true
+                            }
+                        }
+                    },
+                    {
+                        "continuationItemRenderer": {
+                            "button": {
+                                "buttonRenderer": {
+                                    "text": {
+                                        "runs": [
+                                            {
+                                                "text": "Show more replies"
+                                            }
+                                        ]
+                                    },
+                                    "icon": {
+                                        "iconType": "SUBDIRECTORY_ARROW_RIGHT"
+                                    },
+                                    "trackingParams": "CAEQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                    "command": {
+                                        "clickTrackingParams": "CAEQ8FsiEwiKjO2Fz_L9AhUKjMEKHUr9C2k=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "sendPost": true,
+                                                "apiUrl": "/youtubei/v1/next"
+                                            }
+                                        },
+                                        "continuationCommand": {
+                                            "token": "Eg0SC1lJSlk5R0ZXd0tvGAYyuAIKsAFHQUl5WGdvOElPM2NtNXUycF80Q01qRVE3WUtWOXA3d19RSVlfX19fX19fX19fOV9JQUVvQlRBS09oWTVibGhYVFVOM01WcG1Xamx1WHpOak16RlNVRmxORWg0SUJSSWFWV2QzYVdoeGFGUm5iMGcxTlZnMVMwcG1aRFJCWVVGQ1FXYzZJQWdCRWh3MU9sVm5kMmxvY1doVVoyOUlOVFZZTlV0S1ptUTBRV0ZCUWtGbhpQEhpVZ3dpaHFoVGdvSDU1WDVLSmZkNEFhQUJBZyICCAAqGFVDQk9EeUtGMEpNYlVkNkQ5QmtseXpidzILWUlKWTlHRld3S29AAUgyggECCAEoCkIvY29tbWVudC1yZXBsaWVzLWl0ZW0tVWd3aWhxaFRnb0g1NVg1S0pmZDRBYUFCQWc%3D",
+                                            "request": "CONTINUATION_REQUEST_TYPE_WATCH_NEXT"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ],
+                "targetId": "comment-replies-item-UgwihqhTgoH55X5KJfd4AaABAg"
+            }
+        }
+    ]
+}

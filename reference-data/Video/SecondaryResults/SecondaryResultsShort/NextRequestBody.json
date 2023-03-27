@@ -1,0 +1,130 @@
+{
+    "context": {
+        "client": {
+            "hl": "en",
+            "gl": "CA",
+            "remoteHost": "[REDACTED]",
+            "deviceMake": "",
+            "deviceModel": "",
+            "visitorData": "CgtyMVhJbVhES01Ecyjbk7SgBg%3D%3D",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED] Safari/537.36,gzip(gfe)",
+            "clientName": "WEB",
+            "clientVersion": "2.20230309.08.00",
+            "osName": "Windows",
+            "osVersion": "10.0",
+            "originalUrl": "https://www.youtube.com/watch?v=3hsccn5GERU",
+            "screenPixelDensity": 1,
+            "platform": "DESKTOP",
+            "clientFormFactor": "UNKNOWN_FORM_FACTOR",
+            "configInfo": {
+                "appInstallData": "CNuTtKAGEMz1rgUQ5_euBRDa6a4FEO2GrwUQ5IuvBRDNrv4SEInorgUQjveuBRDloP4SEJP4rgUQuNSuBRCFg68FEICz_hIQzN-uBRC2nP4SELiLrgUQ_u6uBRCXkq8FEOLUrgUQ06z-EhCi7K4FEM2w_hIQi7D-Eg%3D%3D"
+            },
+            "screenDensityFloat": 1,
+            "userInterfaceTheme": "USER_INTERFACE_THEME_DARK",
+            "timeZone": "America/Halifax",
+            "browserName": "Chrome",
+            "browserVersion": "[REDACTED]",
+            "acceptHeader": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+            "deviceExperimentId": "ChxOekl3T1RReU9UUXhOakV6TWprNE5EUTBNdz09ENuTtKAGGNuTtKAG",
+            "screenWidthPoints": 794,
+            "screenHeightPoints": 937,
+            "utcOffsetMinutes": -240,
+            "connectionType": "CONN_CELLULAR_4G",
+            "memoryTotalKbytes": "8000000",
+            "mainAppWebInfo": {
+                "graftUrl": "https://www.youtube.com/watch?v=3hsccn5GERU",
+                "pwaInstallabilityStatus": "PWA_INSTALLABILITY_STATUS_UNKNOWN",
+                "webDisplayMode": "WEB_DISPLAY_MODE_BROWSER",
+                "isWebNativeShareAvailable": true
+            }
+        },
+        "user": {
+            "lockedSafetyMode": false
+        },
+        "request": {
+            "useSsl": true,
+            "consistencyTokenJars": [
+                {
+                    "encryptedTokenJarContents": "AEhaiysOLT5HEL4ukG_SiYHphGe_beiP9ry-_k67pY5-Rd3khUtD4PP70jzi7jZikFaUnLT8e8MFvxrISfyOH1Ntj4yVe5LVFUgftU7934RTQ0beRrStSXO7juxrOmsjDlKEwPLEZEs8TY4Ru7kSTNQ"
+                }
+            ],
+            "internalExperimentFlags": []
+        },
+        "clickTracking": {
+            "clickTrackingParams": "CAIQ8FsiEwjU84it_9T9AhXH3WAKHbf_Dpk="
+        },
+        "adSignalsInfo": {
+            "params": [
+                {
+                    "key": "dt",
+                    "value": "1678576094235"
+                },
+                {
+                    "key": "flash",
+                    "value": "0"
+                },
+                {
+                    "key": "frm",
+                    "value": "0"
+                },
+                {
+                    "key": "u_tz",
+                    "value": "-240"
+                },
+                {
+                    "key": "u_his",
+                    "value": "8"
+                },
+                {
+                    "key": "u_h",
+                    "value": "1080"
+                },
+                {
+                    "key": "u_w",
+                    "value": "1920"
+                },
+                {
+                    "key": "u_ah",
+                    "value": "1040"
+                },
+                {
+                    "key": "u_aw",
+                    "value": "1920"
+                },
+                {
+                    "key": "u_cd",
+                    "value": "24"
+                },
+                {
+                    "key": "bc",
+                    "value": "31"
+                },
+                {
+                    "key": "bih",
+                    "value": "920"
+                },
+                {
+                    "key": "biw",
+                    "value": "777"
+                },
+                {
+                    "key": "brdim",
+                    "value": "2049,196,2049,196,1920,195,1918,1038,794,937"
+                },
+                {
+                    "key": "vis",
+                    "value": "1"
+                },
+                {
+                    "key": "wgl",
+                    "value": "true"
+                },
+                {
+                    "key": "ca_type",
+                    "value": "image"
+                }
+            ]
+        }
+    },
+    "continuation": "CDwSJRILM2hzY2NuNUdFUlUyAMgBAOABAaICDSj___________8BQAAYACqUEjJzNkw2d3pJRFFyRkRRb0Q4ajRBQ2czQ1Bnb0lxTzdfbW8yczB0ZGZDZ1B5UGdBS0RjSS1DZ2pKZ0k2MnJwUEk2alVLQV9JLUFBb053ajRLQ0lIR3k3YkZ2X3l0ZndvRDhqNEFDZzNDUGdvSXJjcmMtcU91NDhWakNnUHlQZ0FLRHNJLUN3akFsTW1QM0ktWThMa0JDZ1B5UGdBS0RjSS1DZ2pQc09lY29iV0x3VTBLQV9JLUFBb093ajRMQ0xTTWd0MmJpc0hneWdFS0FfSS1BQW9Od2o0S0NKcnZsSlRTNU9DRERBb0Q4ajRBQ2czQ1Bnb0l3UHEtel9fcDBJTXNDZ1B5UGdBS0RzSS1Dd2kyMl9TMTNLNmc2SUVCQ2dQeVBnQUtEc0ktQ3dpSWlQVHAtTVR1czZRQkNnUHlQZ0FLRHNJLUN3aXo3NnZteC0yZWlyZ0JDZ1B5UGdBS0RjSS1DZ2pmdEpha2stNlk2d3dLQV9JLUFBb093ajRMQ0tMTDM1WFo3NHlQeGdFS0FfSS1BQW9oMGo0ZUNoeFNSRU5OVlVOSWJIRXdabkJQV1hCUGVVaGlkRlZ4VTFScFoyUm5DZ1B5UGdBS0RjSS1DZ2pCdUlDdXJjeWo3d29LQV9JLUFBb053ajRLQ0pTZXVvYWJtLVRuT2dvRDhqNEFDZzdDUGdzSWd0R043N3lTa2EzQ0FRb0Q4ajRBQ2czQ1Bnb0k4LUtDbnVxRHNmUTdDZ1B5UGdBS0RzSS1Dd2p0dDdDMDZNV0VpSUVCQ2dQeVBnQUtEY0ktQ2dpNHl2R0UxN3F0MlRVS0FfSS1BQW9Pd2o0TENKclN2TkRJZ1BERHVnRUtBX0ktQUFvTndqNEtDUC1KOFpDTHU4RDRSQW9EOGo0QUNnM0NQZ29JMFAyMGxvcUNoYXBQQ2dQeVBnQUtEc0ktQ3dpZnRydTNfdk90OHBrQkNnUHlQZ0FLRGNJLUNnakFvTkh5X2RPMHcya0tBX0ktQUFvTndqNEtDTnF4dDRLbnhiWFRkd29EOGo0QUNnN0NQZ3NJa051Z2hzX1BwNVNhQVFvRDhqNEFDZzNDUGdvSTh1eTBuZVg4MkxGa0NnUHlQZ0FLRHNJLUN3amFsYzJON0xqOHJQOEJDZ1B5UGdBS0RjSS1DZ2lDdHUzQ3NxUDFoRmdLQV9JLUFBb093ajRMQ05IanZOdVctS1NHamdFS0FfSS1BQW9Pd2o0TENLYXNzdjdIZ1liOW53RUtBX0ktQUFvT3dqNExDTXFhOUl5bzBOU0VsZ0VLQV9JLUFBb093ajRMQ1B6WjFxWENuSlhDOEFFS0FfSS1BQW9Pd2o0TENLTzFvT0tLdXRQcDVRRUtBX0ktQUFvTndqNEtDSUNDcXNqMXFxT2tNQW9EOGo0QUNnM0NQZ29Jek9fQndfLWFfYWR0Q2dQeVBnQUtEY0ktQ2dpMjM3WDJpSTZUejNRS0FfSS1BQW9Pd2o0TENKMl81ZFhXazl2OHpBRUtBX0ktQUFvT3dqNExDSWY3bklxLXdyajFvUUVLQV9JLUFBb093ajRMQ0l6S3pLR25xTkRZNlFFS0FfSS1BQW9Pd2o0TENMMnE1c1NfajhudGxBRUtBX0ktQUFvT3dqNExDSXpSMjRyRzVJekQzZ0VLQV9JLUFBb053ajRLQ0pYMTRyWFc4OExuV0FvRDhqNEFDZzNDUGdvSTRLdTN2OFNhMzdNY0NnUHlQZ0FLRHNJLUN3ajBfSXZFeTZyanRKSUJDZ1B5UGdBS0RzSS1Dd2k0ZzV6ZnFJVF9xY1FCQ2dQeVBnQUtEY0ktQ2dqdTBwTHA1YUh4NVZnS0FfSS1BQW9Od2o0S0NPblk2STZHbEpmU05Bb0Q4ajRBQ2czQ1Bnb0lzTjJlN3NEcjJKZ3pDZ1B5UGdBS0RNSS1DUWljc19pSG5PWFpDZ29EOGo0QUNnN0NQZ3NJX29ERXNQbUNsTUh6QVFvRDhqNEFDZzNDUGdvSWg3TFR2dVhjZ0lRN0NnUHlQZ0FLRHNJLUN3ajFqOURPeWJuTWdaQUJDZ1B5UGdBS0RzSS1Dd2lZd05UN3BaV1o5WllCQ2dQeVBnQUtEc0ktQ3dqNWs3alI1OFhJdl9RQkNnUHlQZ0FLRHNJLUN3aklxWXF0bnJMbi1MOEJDZ1B5UGdBS0RjSS1DZ2poaThMdzNveWE5VDhLQV9JLUFBb093ajRMQ0t5bnJjU0tzNUNBOGdFU1BBQUNCQVlJQ2d3T0VCSVVGaGdhSEI0Z0lpUW1LQ29zTGpBeU5EWTRPanctUUVKRVJraEtURTVRVWxSV1dGcGNYbUJpWkdab2FteHVjSEowZGhvRUNBQVFBUm9FQ0FJUUF4b0VDQVFRQlJvRUNBWVFCeG9FQ0FnUUNSb0VDQW9RQ3hvRUNBd1FEUm9FQ0E0UUR4b0VDQkFRRVJvRUNCSVFFeG9FQ0JRUUZSb0VDQllRRnhvRUNCZ1FHUm9FQ0JvUUd4b0VDQndRSFJvRUNCNFFIeG9FQ0NBUUlSb0VDQ0lRSXhvRUNDUVFKUm9FQ0NZUUp4b0VDQ2dRS1JvRUNDb1FLeG9FQ0N3UUxSb0VDQzRRTHhvRUNEQVFNUm9FQ0RJUU14b0VDRFFRTlJvRUNEWVFOeG9FQ0RnUU9Sb0VDRG9RT3hvRUNEd1FQUm9FQ0Q0UVB4b0VDRUFRUVJvRUNFSVFReG9FQ0VRUVJSb0VDRVlRUnhvRUNFZ1FTUm9FQ0VvUVN4b0VDRXdRVFJvRUNFNFFUeG9FQ0ZBUVVSb0VDRklRVXhvRUNGUVFWUm9FQ0ZZUVZ4b0VDRmdRV1JvRUNGb1FXeG9FQ0Z3UVhSb0VDRjRRWHhvRUNHQVFZUm9FQ0dJUVl4b0VDR1FRWlJvRUNHWVFaeG9FQ0dnUWFSb0VDR29RYXhvRUNHd1FiUm9FQ0c0UWJ4b0VDSEFRY1JvRUNISVFjeG9FQ0hRUWRSb0VDSFlRZHlvOEFBSUVCZ2dLREE0UUVoUVdHQm9jSGlBaUpDWW9LaXd1TURJME5qZzZQRDVBUWtSR1NFcE1UbEJTVkZaWVdseGVZR0prWm1ocWJHNXdjblIyag93YXRjaC1uZXh0LWZlZWRyAA%3D%3D"
+}

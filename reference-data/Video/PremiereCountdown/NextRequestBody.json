@@ -1,0 +1,134 @@
+{
+    "context": {
+        "client": {
+            "hl": "en",
+            "gl": "CA",
+            "remoteHost": "[REDACTED]",
+            "deviceMake": "",
+            "deviceModel": "",
+            "visitorData": "Cgt6TVF1em15NVJBZyil0P2gBg%3D%3D",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED] Safari/537.36,gzip(gfe)",
+            "clientName": "WEB",
+            "clientVersion": "2.20230323.03.00",
+            "osName": "Windows",
+            "osVersion": "10.0",
+            "originalUrl": "https://www.youtube.com/watch?v=SxdLNP1QyRI",
+            "platform": "DESKTOP",
+            "clientFormFactor": "UNKNOWN_FORM_FACTOR",
+            "configInfo": {
+                "appInstallData": "CKXQ_aAGEMzfrgUQjveuBRC2nP4SELiLrgUQuNSuBRDn964FEIvqrgUQzPWuBRCqsv4SEInorgUQ_u6uBRDloP4SEOSz_hIQv5CvBRCgt_4SENOs_hIQ4tSuBRDk8q4FEO2GrwUQ3bT-EhDMrv4SEKLsrgUQnJCvBRC1j68F"
+            },
+            "userInterfaceTheme": "USER_INTERFACE_THEME_DARK",
+            "timeZone": "America/Halifax",
+            "browserName": "Chrome",
+            "browserVersion": "[REDACTED]",
+            "acceptHeader": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+            "deviceExperimentId": "ChxOekl4TkRVNU9UWXpOelF6TkRZeU1UUXpNZz09EKXQ_aAGGKXQ_aAG",
+            "screenWidthPoints": 717,
+            "screenHeightPoints": 937,
+            "screenPixelDensity": 1,
+            "screenDensityFloat": 1,
+            "utcOffsetMinutes": -180,
+            "memoryTotalKbytes": "8000000",
+            "clientScreen": "WATCH",
+            "mainAppWebInfo": {
+                "graftUrl": "/watch?v=SxdLNP1QyRI",
+                "pwaInstallabilityStatus": "PWA_INSTALLABILITY_STATUS_UNKNOWN",
+                "webDisplayMode": "WEB_DISPLAY_MODE_BROWSER",
+                "isWebNativeShareAvailable": true
+            }
+        },
+        "user": {
+            "lockedSafetyMode": false
+        },
+        "request": {
+            "useSsl": true,
+            "internalExperimentFlags": [],
+            "consistencyTokenJars": []
+        },
+        "clickTracking": {
+            "clickTrackingParams": "CD8QlDUYACITCMPwg9qD-P0CFVDAPwQdAX8CqjIKZy1oaWdoLWNydloYVUNUSFR1R1Q3V0tFY2lQSG5RZUlGQ0h3mgEFEPI4GGaqARpVVUxGVEhUdUdUN1dLRWNpUEhuUWVJRkNIdw=="
+        },
+        "adSignalsInfo": {
+            "params": [
+                {
+                    "key": "dt",
+                    "value": "1679779878223"
+                },
+                {
+                    "key": "flash",
+                    "value": "0"
+                },
+                {
+                    "key": "frm",
+                    "value": "0"
+                },
+                {
+                    "key": "u_tz",
+                    "value": "-180"
+                },
+                {
+                    "key": "u_his",
+                    "value": "11"
+                },
+                {
+                    "key": "u_h",
+                    "value": "1080"
+                },
+                {
+                    "key": "u_w",
+                    "value": "1920"
+                },
+                {
+                    "key": "u_ah",
+                    "value": "1040"
+                },
+                {
+                    "key": "u_aw",
+                    "value": "1920"
+                },
+                {
+                    "key": "u_cd",
+                    "value": "24"
+                },
+                {
+                    "key": "bc",
+                    "value": "31"
+                },
+                {
+                    "key": "bih",
+                    "value": "937"
+                },
+                {
+                    "key": "biw",
+                    "value": "700"
+                },
+                {
+                    "key": "brdim",
+                    "value": "2049,196,2049,196,1920,195,1918,1038,717,937"
+                },
+                {
+                    "key": "vis",
+                    "value": "1"
+                },
+                {
+                    "key": "wgl",
+                    "value": "true"
+                },
+                {
+                    "key": "ca_type",
+                    "value": "image"
+                }
+            ]
+        }
+    },
+    "videoId": "SxdLNP1QyRI",
+    "racyCheckOk": false,
+    "contentCheckOk": false,
+    "autonavState": "STATE_NONE",
+    "playbackContext": {
+        "vis": 0,
+        "lactMilliseconds": "-1"
+    },
+    "captionsRequested": false
+}

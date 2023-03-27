@@ -1,0 +1,29 @@
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: en-CA,en;q=0.9
+cache-control: no-cache
+content-length: 2999
+content-type: application/json
+cookie: GPS=1; YSC=vFxHpIP8Emw; VISITOR_INFO1_LIVE=6zpxEmOv-O0; PREF=f4=4000000&f6=40000000&tz=America.Halifax&f7=100; CONSISTENCY=AEhaiyvZcRf_pxbgA2DDQYNMAJqQ80JD7S9S64aLo1OtssxH1H9zWP13v5jKFF4MHs7GoFTN-UTRifam0avxz9gM1m0d0ExdPtqthdqBl_6X813vIKTGK4INkPi0rdRaCfr60MUKVgHxW3H3VDQkmfs; ST-1x7morc=itct=CLMBENwwGAEiEwjJ2fyW-NT9AhWLwD8EHTavAzMyBnNlYXJjaFIFbW92aWWaAQMQ9CQ%3D&csn=MC4zMDI4MTAwNDMwNTQ0MDY5NQ..&endpoint=%7B%22clickTrackingParams%22%3A%22CLMBENwwGAEiEwjJ2fyW-NT9AhWLwD8EHTavAzMyBnNlYXJjaFIFbW92aWWaAQMQ9CQ%3D%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fwatch%3Fv%3DbL0fXxvBSA8%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_WATCH%22%2C%22rootVe%22%3A3832%7D%7D%2C%22watchEndpoint%22%3A%7B%22videoId%22%3A%22bL0fXxvBSA8%22%2C%22params%22%3A%22qgMFbW92aWW6AwsI767z19yO54_bAboDCwik57mAptXtw9QBugMKCM_r1PHZsIW-OboDCwiMxpXNk6HAr-oBugMKCPKhx9GA7LrvUroDCwipk8mS6un4yMUBugMKCLn16ZuesL_oDboDCwjFqKSBs8GMmYMBugMKCKvptKD_trilAroDCgios57xruyZxAO6AwoIgvqw0fSbo8AMugMREg9SRFFNNzZXVkJyYWdSeDS6AwsIgJy8honf-sSHAboDCwihtLn70uGz5t0BugMLCNzXtu_lr7bk6QG6AwsIjM-l0rjp39zMAboDCwjAutWP15mbnrYBugMLCOmynLzos6CyyQG6AwoIj4eat4GqxtdV8gMFDbpRVD-CBAIQAQ%253D%253D%22%2C%22watchEndpointSupportedOnesieConfig%22%3A%7B%22html5PlaybackOnesieConfig%22%3A%7B%22commonConfig%22%3A%7B%22url%22%3A%22https%3A%2F%2Frr3---sn-x5nuapo3-ti1s.googlevideo.com%2Finitplayback%3Fsource%3Dyoutube%26oeis%3D1%26c%3DWEB%26oad%3D3200%26ovd%3D3200%26oaad%3D11000%26oavd%3D11000%26ocs%3D700%26oewis%3D1%26oputc%3D1%26ofpcc%3D1%26msp%3D1%26odepv%3D1%26id%3D6cbd1f5f1bc1480f%26ip%3D24.137.97.232%26initcwndbps%3D1847500%26mt%3D1678573736%26oweuc%3D%22%7D%7D%7D%2C%22startTimeSeconds%22%3A0%7D%7D
+dnt: 1
+origin: https://www.youtube.com
+pragma: no-cache
+referer: https://www.youtube.com/results?search_query=movie
+sec-ch-ua: "Google Chrome";v="111", "Not(A:Brand";v="8", "Chromium";v="111"
+sec-ch-ua-arch: "x86"
+sec-ch-ua-bitness: "64"
+sec-ch-ua-full-version: "111.0.5563.64"
+sec-ch-ua-full-version-list: "Google Chrome";v="111.0.5563.64", "Not(A:Brand";v="[REDACTED]", "Chromium";v="111.0.5563.64"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-model
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-platform-version: "10.0.0"
+sec-ch-ua-wow64: ?0
+sec-fetch-dest: empty
+sec-fetch-mode: same-origin
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED] Safari/537.36
+x-goog-visitor-id: Cgs2enB4RW1Pdi1PMCjKhLSgBg%3D%3D
+x-youtube-bootstrap-logged-in: false
+x-youtube-client-name: 1
+x-youtube-client-version: 2.20230309.08.00

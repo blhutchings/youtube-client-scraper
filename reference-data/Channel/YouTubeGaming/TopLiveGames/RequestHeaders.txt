@@ -1,0 +1,33 @@
+:authority: www.youtube.com
+:method: POST
+:path: /youtubei/v1/browse?key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8&prettyPrint=false
+:scheme: https
+accept: */*
+accept-encoding: gzip, deflate, br
+accept-language: en-CA,en;q=0.9
+cache-control: no-cache
+content-length: 2440
+content-type: application/json
+cookie: GPS=1; YSC=DMxhQcyUMSM; VISITOR_INFO1_LIVE=dYRvKJIYjXw; PREF=f6=40000000&tz=America.Halifax&f7=100&f5=30000; CONSISTENCY=AEhaiyvTFmwyRmj1l1rTMw_84pjca2BwptAEwNNzgqvNwArJD1s4r4UKhym6uBunAGZhGpuD_Ed276suYBPjPE5q2FPhDhhVThUSend3EStQsWrKCxWPF7HL1_D5hfsLV16DM8ETnnLMRgJLrrZcOivBW7wK-_z0Wprz-teav-ONBi2BpS5FQHM; ST-r6ii6o=itct=CJoCEPBbIhMItb-H67PU_QIV6QfWAB0Wxg4m&csn=MC45MDE3MTQwNzYxMTM5NjEz&endpoint=%7B%22clickTrackingParams%22%3A%22CJoCEPBbIhMItb-H67PU_QIV6QfWAB0Wxg4m%22%2C%22commandMetadata%22%3A%7B%22webCommandMetadata%22%3A%7B%22url%22%3A%22%2Fgaming%2Fgames%22%2C%22webPageType%22%3A%22WEB_PAGE_TYPE_CHANNEL%22%2C%22rootVe%22%3A3611%2C%22apiUrl%22%3A%22%2Fyoutubei%2Fv1%2Fbrowse%22%7D%7D%2C%22browseEndpoint%22%3A%7B%22browseId%22%3A%22UCOpNcN46UbXVtpKMrmU4Abg%22%2C%22params%22%3A%22EgVnYW1lcw%253D%253D%22%7D%7D
+dnt: 1
+origin: https://www.youtube.com
+pragma: no-cache
+referer: https://www.youtube.com/gaming
+sec-ch-ua: "Google Chrome";v="111", "Not(A:Brand";v="8", "Chromium";v="111"
+sec-ch-ua-arch: "x86"
+sec-ch-ua-bitness: "64"
+sec-ch-ua-full-version: "111.0.5563.64"
+sec-ch-ua-full-version-list: "Google Chrome";v="111.0.5563.64", "Not(A:Brand";v="[REDACTED]", "Chromium";v="111.0.5563.64"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-model
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-platform-version: "10.0.0"
+sec-ch-ua-wow64: ?0
+sec-fetch-dest: empty
+sec-fetch-mode: same-origin
+sec-fetch-site: same-origin
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED] Safari/537.36
+x-goog-visitor-id: CgtkWVJ2S0pJWWpYdyjN9bKgBg%3D%3D
+x-youtube-bootstrap-logged-in: false
+x-youtube-client-name: 1
+x-youtube-client-version: 2.20230309.08.00

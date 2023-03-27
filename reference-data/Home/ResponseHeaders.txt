@@ -1,0 +1,17 @@
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+content-encoding: br
+content-type: text/html; charset=utf-8
+cross-origin-opener-policy-report-only: same-origin-allow-popups; report-to="youtube_main"
+date: Sat, 11 Mar 2023 22:21:24 GMT
+expires: Mon, 01 Jan 1990 00:00:00 GMT
+permissions-policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-platform=*, ch-ua-platform-version=*
+pragma: no-cache
+report-to: {"group":"youtube_main","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube_main"}]}
+server: ESF
+strict-transport-security: max-age=31536000
+vary: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 0

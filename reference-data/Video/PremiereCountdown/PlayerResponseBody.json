@@ -1,0 +1,1091 @@
+{
+    "responseContext": {
+        "serviceTrackingParams": [
+            {
+                "service": "GFEEDBACK",
+                "params": [
+                    {
+                        "key": "is_viewed_live",
+                        "value": "True"
+                    },
+                    {
+                        "key": "ipcc",
+                        "value": "0"
+                    },
+                    {
+                        "key": "is_alc_surface",
+                        "value": "false"
+                    },
+                    {
+                        "key": "logged_in",
+                        "value": "0"
+                    },
+                    {
+                        "key": "e",
+                        "value": "1714240,9406010,23804281,23918597,23946420,23966208,23983296,23986023,23998056,24004644,24007246,24034168,24036948,24077241,24080738,24120819,24135310,24140247,24162920,24166867,24169501,24181174,24186126,24187043,24187377,24197450,24211178,24219382,24219713,24235781,24240251,24241378,24248091,24255165,24255543,24255545,24262346,24263796,24268142,24283093,24288043,24288664,24290971,24291857,24390675,24391543,24396645,24404640,24407191,24409417,24412636,24412855,24414719,24415864,24415866,24426636,24428900,24429092,24430079,24433679,24437577,24439360,24439483,24440132,24441787,24443595,24445497,24445833,24447216,24447992,24449113,24449515,24450367,24453129,24453988,24454094,24455283,24458317,24458324,24458329,24458839,24465011,24465095,24466371,24466462,24466827,24466859,24468724,24477512,24479966,24481771,24482081,24483504,24484079,24485239,24485421,24486468,24486578,24487928,24488098,24489231,24490469,24490498,24491070,24491630,24492546,24492961,24493661,24493736,24494081,24494198,24494315,24494986,24494995,24495060,24495960,24495969,24495988,24496739,24496968,24497629,24499289,24499300,24499568,24499575,24499792,24499945,24516157,24591058,39323074"
+                    }
+                ]
+            },
+            {
+                "service": "CSI",
+                "params": [
+                    {
+                        "key": "c",
+                        "value": "WEB"
+                    },
+                    {
+                        "key": "cver",
+                        "value": "2.20230323.03.00"
+                    },
+                    {
+                        "key": "yt_li",
+                        "value": "0"
+                    },
+                    {
+                        "key": "GetPlayer_rid",
+                        "value": "0x04672cd449823ede"
+                    }
+                ]
+            },
+            {
+                "service": "GUIDED_HELP",
+                "params": [
+                    {
+                        "key": "logged_in",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "service": "ECATCHER",
+                "params": [
+                    {
+                        "key": "client.version",
+                        "value": "2.20230323"
+                    },
+                    {
+                        "key": "client.name",
+                        "value": "WEB"
+                    },
+                    {
+                        "key": "client.fexp",
+                        "value": "24458329,9406010,24496968,24454094,24466859,24036948,24263796,24492961,24077241,24466371,24499289,24495960,24004644,24486468,24491630,24495988,24485239,24494081,24283093,24255543,24466827,24483504,23983296,24485421,24440132,24449515,24466462,24496739,24407191,24391543,24080738,23966208,24493661,24162920,24486578,24458839,24497629,23804281,24166867,24439360,24034168,24494198,24219713,39323074,24499792,24443595,24453129,23986023,24429092,24181174,24248091,24396645,24409417,24268142,24488098,24468724,24494995,23946420,24447992,24439483,23918597,24197450,24412855,24430079,24447216,24441787,24499300,24591058,24169501,24494315,24415864,24290971,24495969,24255545,24186126,24414719,24433679,24390675,24219382,24437577,24491070,24288664,24499568,24120819,1714240,24499575,24455283,24490469,24481771,24428900,24445833,24479966,24458324,24458317,24288043,24449113,24492546,24255165,24499945,24465011,24241378,24412636,24489231,24140247,24291857,24404640,24516157,24482081,24487928,24495060,24211178,24450367,24235781,24493736,24477512,24135310,24262346,24484079,24445497,24007246,24187377,24187043,24490498,24465095,24494986,23998056,24426636,24453988,24240251,24415866"
+                    }
+                ]
+            }
+        ],
+        "mainAppWebResponseContext": {
+            "loggedOut": true
+        },
+        "webResponseContextExtensionData": {
+            "hasDecorated": true
+        }
+    },
+    "playabilityStatus": {
+        "status": "OK",
+        "reason": "We're experiencing technical difficulties.",
+        "playableInEmbed": true,
+        "liveStreamability": {
+            "liveStreamabilityRenderer": {
+                "videoId": "SxdLNP1QyRI",
+                "pollDelayMs": "15000"
+            }
+        },
+        "miniplayer": {
+            "miniplayerRenderer": {
+                "playbackMode": "PLAYBACK_MODE_ALLOW"
+            }
+        },
+        "contextParams": "Q0FFU0FnZ0M="
+    },
+    "streamingData": {
+        "expiresInSeconds": "21540",
+        "adaptiveFormats": [
+            {
+                "itag": 134,
+                "url": "https://rr3---sn-x5nuapo3-ti1z.googlevideo.com/videoplayback?expire=1679801491&ei=M2gfZLevEoSP_9EPqMenuAY&ip=[REDACTED]&id=SxdLNP1QyRI.0&itag=134&aitags=133%2C134%2C160&source=yt_premiere_broadcast&requiressl=yes&mh=vk&mm=44%2C29&mn=sn-x5nuapo3-ti1z%2Csn-ab5l6nrk&ms=lva%2Crdu&mv=m&mvi=3&pl=19&initcwndbps=2131250&spc=99c5CaPUZmqbWV561MVhyvIq887YvjisxwWyAgVindEjSKHZYw&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=GVryuZoBFDkPGqSW_OmPJQMM&gir=yes&mt=1679779476&fvip=1&keepalive=yes&fexp=24007246&c=WEB&n=Bnv441dW1Y0V_s0YGS&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAI6vPMVB5Xvw0GK0X3unvGURw0t6MupVrX6_T5_mkGYKAiAShE5lV-NaLThO96gkDTnCEqH9x7rUA0UMoPiiLaQr3g%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgf7VVLlnsBluGLVZBZylq2OvLJNiiIi5VBbAJ0owOFoUCIQDauDlZzjOPIRykCetRQIwWsozS7OSxu8lzVpcIL-2Nkg%3D%3D",
+                "mimeType": "video/mp4; codecs=\"avc1.4d401e\"",
+                "bitrate": 1008250,
+                "width": 640,
+                "height": 360,
+                "quality": "medium",
+                "fps": 30,
+                "qualityLabel": "360p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 5,
+                "maxDvrDurationSec": 43200,
+                "highReplication": true
+            },
+            {
+                "itag": 243,
+                "url": "https://rr3---sn-x5nuapo3-ti1z.googlevideo.com/videoplayback?expire=1679801491&ei=M2gfZLevEoSP_9EPqMenuAY&ip=[REDACTED]&id=SxdLNP1QyRI.0&itag=243&aitags=242%2C243%2C278&source=yt_premiere_broadcast&requiressl=yes&mh=vk&mm=44%2C29&mn=sn-x5nuapo3-ti1z%2Csn-ab5l6nrk&ms=lva%2Crdu&mv=m&mvi=3&pl=19&initcwndbps=2131250&spc=99c5CaPUZmqbWV561MVhyvIq887YvjisxwWyAgVindEjSKHZYw&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=GVryuZoBFDkPGqSW_OmPJQMM&gir=yes&mt=1679779476&fvip=1&keepalive=yes&fexp=24007246&c=WEB&n=Bnv441dW1Y0V_s0YGS&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgJ_Gg-dn0Cka3uEnXuwm1A8v19B2O9C5vH3mTnomLVx8CIQCHr_4dNLiH1rysx6f0842uHQI1p63nKF05IVV_RFutmw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgf7VVLlnsBluGLVZBZylq2OvLJNiiIi5VBbAJ0owOFoUCIQDauDlZzjOPIRykCetRQIwWsozS7OSxu8lzVpcIL-2Nkg%3D%3D",
+                "mimeType": "video/webm; codecs=\"vp9\"",
+                "bitrate": 236800,
+                "width": 640,
+                "height": 360,
+                "quality": "medium",
+                "fps": 30,
+                "qualityLabel": "360p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 5,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 133,
+                "url": "https://rr3---sn-x5nuapo3-ti1z.googlevideo.com/videoplayback?expire=1679801491&ei=M2gfZLevEoSP_9EPqMenuAY&ip=[REDACTED]&id=SxdLNP1QyRI.0&itag=133&aitags=133%2C134%2C160&source=yt_premiere_broadcast&requiressl=yes&mh=vk&mm=44%2C29&mn=sn-x5nuapo3-ti1z%2Csn-ab5l6nrk&ms=lva%2Crdu&mv=m&mvi=3&pl=19&initcwndbps=2131250&spc=99c5CaPUZmqbWV561MVhyvIq887YvjisxwWyAgVindEjSKHZYw&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=GVryuZoBFDkPGqSW_OmPJQMM&gir=yes&mt=1679779476&fvip=1&keepalive=yes&fexp=24007246&c=WEB&n=Bnv441dW1Y0V_s0YGS&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgWKVbqcv0YpG24B7pNL5rONKFIqbjVbxi885kZEBv6R0CICmZTjxmudjkQxBg-Kqsfr5l9JG879tUoDrfwVlxl-H8&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgf7VVLlnsBluGLVZBZylq2OvLJNiiIi5VBbAJ0owOFoUCIQDauDlZzjOPIRykCetRQIwWsozS7OSxu8lzVpcIL-2Nkg%3D%3D",
+                "mimeType": "video/mp4; codecs=\"avc1.4d4015\"",
+                "bitrate": 456228,
+                "width": 426,
+                "height": 240,
+                "quality": "small",
+                "fps": 30,
+                "qualityLabel": "240p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 5,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 242,
+                "url": "https://rr3---sn-x5nuapo3-ti1z.googlevideo.com/videoplayback?expire=1679801491&ei=M2gfZLevEoSP_9EPqMenuAY&ip=[REDACTED]&id=SxdLNP1QyRI.0&itag=242&aitags=242%2C243%2C278&source=yt_premiere_broadcast&requiressl=yes&mh=vk&mm=44%2C29&mn=sn-x5nuapo3-ti1z%2Csn-ab5l6nrk&ms=lva%2Crdu&mv=m&mvi=3&pl=19&initcwndbps=2131250&spc=99c5CaPUZmqbWV561MVhyvIq887YvjisxwWyAgVindEjSKHZYw&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=GVryuZoBFDkPGqSW_OmPJQMM&gir=yes&mt=1679779476&fvip=1&keepalive=yes&fexp=24007246&c=WEB&n=Bnv441dW1Y0V_s0YGS&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhANhgPj60kgVTjocg5rnMrHxx_ltXs_72Nl_lN346lpFDAiEApe1xAvvVMsq3b1MWnqJ1SE0sBV22Znkn64COBuwXoeA%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgf7VVLlnsBluGLVZBZylq2OvLJNiiIi5VBbAJ0owOFoUCIQDauDlZzjOPIRykCetRQIwWsozS7OSxu8lzVpcIL-2Nkg%3D%3D",
+                "mimeType": "video/webm; codecs=\"vp9\"",
+                "bitrate": 121000,
+                "width": 426,
+                "height": 240,
+                "quality": "small",
+                "fps": 30,
+                "qualityLabel": "240p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 5,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 160,
+                "url": "https://rr3---sn-x5nuapo3-ti1z.googlevideo.com/videoplayback?expire=1679801491&ei=M2gfZLevEoSP_9EPqMenuAY&ip=[REDACTED]&id=SxdLNP1QyRI.0&itag=160&aitags=133%2C134%2C160&source=yt_premiere_broadcast&requiressl=yes&mh=vk&mm=44%2C29&mn=sn-x5nuapo3-ti1z%2Csn-ab5l6nrk&ms=lva%2Crdu&mv=m&mvi=3&pl=19&initcwndbps=2131250&spc=99c5CaPUZmqbWV561MVhyvIq887YvjisxwWyAgVindEjSKHZYw&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=GVryuZoBFDkPGqSW_OmPJQMM&gir=yes&mt=1679779476&fvip=1&keepalive=yes&fexp=24007246&c=WEB&n=Bnv441dW1Y0V_s0YGS&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIga0qmQ5S6vhSxapQNrwVqwC6NEt_pBpiSG0sSVMEOd70CIHj-mLXkfnF-3WKJA_SKsrjczNL3YtUU3kLWG7eNu-UG&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgf7VVLlnsBluGLVZBZylq2OvLJNiiIi5VBbAJ0owOFoUCIQDauDlZzjOPIRykCetRQIwWsozS7OSxu8lzVpcIL-2Nkg%3D%3D",
+                "mimeType": "video/mp4; codecs=\"avc1.42c00b\"",
+                "bitrate": 212465,
+                "width": 256,
+                "height": 144,
+                "quality": "tiny",
+                "fps": 15,
+                "qualityLabel": "144p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 5,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 278,
+                "url": "https://rr3---sn-x5nuapo3-ti1z.googlevideo.com/videoplayback?expire=1679801491&ei=M2gfZLevEoSP_9EPqMenuAY&ip=[REDACTED]&id=SxdLNP1QyRI.0&itag=278&aitags=242%2C243%2C278&source=yt_premiere_broadcast&requiressl=yes&mh=vk&mm=44%2C29&mn=sn-x5nuapo3-ti1z%2Csn-ab5l6nrk&ms=lva%2Crdu&mv=m&mvi=3&pl=19&initcwndbps=2131250&spc=99c5CaPUZmqbWV561MVhyvIq887YvjisxwWyAgVindEjSKHZYw&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=GVryuZoBFDkPGqSW_OmPJQMM&gir=yes&mt=1679779476&fvip=1&keepalive=yes&fexp=24007246&c=WEB&n=Bnv441dW1Y0V_s0YGS&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAIeIlMLwcBvmCJboU_YAGKSiAgQ044xpby-o3BD2xpr4AiEAwlMUB_vbzbrhg98uL5YPE9QMk65fDsCu4KEikASmjU4%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgf7VVLlnsBluGLVZBZylq2OvLJNiiIi5VBbAJ0owOFoUCIQDauDlZzjOPIRykCetRQIwWsozS7OSxu8lzVpcIL-2Nkg%3D%3D",
+                "mimeType": "video/webm; codecs=\"vp9\"",
+                "bitrate": 111000,
+                "width": 256,
+                "height": 144,
+                "quality": "tiny",
+                "fps": 30,
+                "qualityLabel": "144p",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 5,
+                "maxDvrDurationSec": 43200
+            },
+            {
+                "itag": 140,
+                "url": "https://rr3---sn-x5nuapo3-ti1z.googlevideo.com/videoplayback?expire=1679801491&ei=M2gfZLevEoSP_9EPqMenuAY&ip=[REDACTED]&id=SxdLNP1QyRI.0&itag=140&aitags=140&source=yt_premiere_broadcast&requiressl=yes&mh=vk&mm=44%2C29&mn=sn-x5nuapo3-ti1z%2Csn-ab5l6nrk&ms=lva%2Crdu&mv=m&mvi=3&pl=19&initcwndbps=2131250&spc=99c5CaPUZmqbWV561MVhyvIq887YvjisxwWyAgVindEjSKHZYw&vprv=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&ns=GVryuZoBFDkPGqSW_OmPJQMM&gir=yes&mt=1679779476&fvip=1&keepalive=yes&fexp=24007246&c=WEB&n=Bnv441dW1Y0V_s0YGS&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhALzujntgaolPPbDJlFJdUb20hRZPFNznmik17knjxh7kAiEAiud-RiTPaY5IOzbw11_eoVjEkRAoIfXcZAhDpt65XdI%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgf7VVLlnsBluGLVZBZylq2OvLJNiiIi5VBbAJ0owOFoUCIQDauDlZzjOPIRykCetRQIwWsozS7OSxu8lzVpcIL-2Nkg%3D%3D",
+                "mimeType": "audio/mp4; codecs=\"mp4a.40.2\"",
+                "bitrate": 144000,
+                "quality": "tiny",
+                "projectionType": "RECTANGULAR",
+                "targetDurationSec": 5,
+                "maxDvrDurationSec": 43200,
+                "highReplication": true,
+                "audioQuality": "AUDIO_QUALITY_MEDIUM",
+                "audioSampleRate": "44100",
+                "audioChannels": 2
+            }
+        ],
+        "dashManifestUrl": "https://manifest.googlevideo.com/api/manifest/dash/expire/1679801491/ei/M2gfZLevEoSP_9EPqMenuAY/ip/[REDACTED]/id/SxdLNP1QyRI.0/source/yt_premiere_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/spc/99c5CaPUZmqbWV561MVhyvIq887YvjisxwWyAgVindEjSKHZYw/vprv/1/pacing/0/keepalive/yes/fexp/24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cspc%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgdtASBYlDkq5YB9Od4Q-SBHWrFo9_1m0ZEfQg5JRKQvECIQDLDE-UCs0Dk5JbzvCju8jpGffP7UQaMWqMNEq2ePyuSQ%3D%3D",
+        "hlsManifestUrl": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1679801491/ei/M2gfZLevEoSP_9EPqMenuAY/ip/[REDACTED]/id/SxdLNP1QyRI.0/source/yt_premiere_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/99c5CaPUZmqbWV561MVhyvIq887YvjisxwWyAgVindEjSKHZYw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgAymfJ7YKnBKVKb-kW2phdRc59LODIcChzb8jx7ctBqYCIQCAhid2n-6W0FHMqpZXxRqSwORlBr9LcuAlmR8vTLm6aw%3D%3D/file/index.m3u8"
+    },
+    "heartbeatParams": {
+        "intervalMilliseconds": "15000",
+        "softFailOnError": true,
+        "heartbeatServerData": "GAIgAA=="
+    },
+    "playbackTracking": {
+        "videostatsPlaybackUrl": {
+            "baseUrl": "https://s.youtube.com/api/stats/playback?cl=518434908&docid=SxdLNP1QyRI&ei=M2gfZLevEoSP_9EPqMenuAY&feature=g-high-crv&fexp=1714240%2C9406010%2C11240888%2C11250232%2C11250274%2C11251660%2C11252745%2C11253003%2C11253282%2C11253630%2C11254116%2C11254476%2C11254670%2C11254759%2C11256685%2C11257781%2C11257884%2C11257919%2C23804281%2C23918597%2C23946420%2C23966208%2C23983296%2C23986023%2C23998056%2C24004644%2C24007246%2C24034168%2C24036948%2C24077241%2C24080738%2C24120819%2C24135310%2C24140247%2C24162920%2C24166867%2C24169501%2C24181174%2C24186126%2C24187043%2C24187377%2C24197450%2C24211178%2C24219382%2C24219713%2C24235781%2C24240251%2C24241378%2C24248091%2C24255165%2C24255543%2C24255545%2C24262346%2C24263796%2C24268142%2C24283093%2C24288043%2C24288664%2C24290971%2C24291857%2C24390675%2C24391543%2C24396645%2C24404640%2C24407191%2C24409417%2C24412636%2C24412855%2C24414719%2C24415864%2C24415866%2C24426636%2C24428900%2C24429092%2C24430079%2C24433679%2C24437577%2C24439360%2C24439483%2C24440132%2C24441787%2C24443595%2C24445497%2C24445833%2C24447216%2C24447992%2C24449113%2C24449515%2C24450367%2C24453129%2C24453988%2C24454094%2C24455283%2C24458317%2C24458324%2C24458329%2C24458839%2C24465011%2C24465095%2C24466371%2C24466462%2C24466827%2C24466859%2C24468724%2C24477512%2C24479966%2C24481771%2C24482081%2C24483504%2C24484079%2C24485239%2C24485421%2C24486468%2C24486578%2C24487928%2C24488098%2C24489231%2C24490469%2C24490498%2C24491070%2C24491630%2C24492546%2C24492961%2C24493661%2C24493736%2C24494081%2C24494198%2C24494315%2C24494986%2C24494995%2C24495060%2C24495960%2C24495969%2C24495988%2C24496739%2C24496968%2C24497629%2C24499289%2C24499300%2C24499568%2C24499575%2C24499792%2C24499945%2C24516157%2C24591058%2C39323074%2C39816758%2C39817317%2C39818835%2C39819084%2C39819562%2C39819748%2C39819869%2C39820192&live=lp&ns=yt&plid=AAX3wDu5aPdg14kF&referrer=https%3A%2F%2Fwww.youtube.com%2F%40Vikingghost11&sdetail=p%3A%2F%40Vikingghost11&sourceid=y&delay=5&el=detailpage&len=3610&of=2dVkz7e1rF9t_XNU6wGWIw&vm=CAEQABgEOjJBTE03ZXZLdWZDREVTYkg0dUVZZ0ZpX2xtU3llU3FORmk4UnFZRHJWRGN3ZDdlVjN1QWJOQVBta0tETGtLVXFoRlZUQ3hIQURuUzdYa0huOExqVi1xbEhKcl9CcGlvYVpGZ0cxb2RKc1FWbno1T1lSc3ljLUI0dW41WWhnUTh3b0JnaAE"
+        },
+        "videostatsDelayplayUrl": {
+            "baseUrl": "https://s.youtube.com/api/stats/delayplay?cl=518434908&docid=SxdLNP1QyRI&ei=M2gfZLevEoSP_9EPqMenuAY&feature=g-high-crv&fexp=1714240%2C9406010%2C11240888%2C11250232%2C11250274%2C11251660%2C11252745%2C11253003%2C11253282%2C11253630%2C11254116%2C11254476%2C11254670%2C11254759%2C11256685%2C11257781%2C11257884%2C11257919%2C23804281%2C23918597%2C23946420%2C23966208%2C23983296%2C23986023%2C23998056%2C24004644%2C24007246%2C24034168%2C24036948%2C24077241%2C24080738%2C24120819%2C24135310%2C24140247%2C24162920%2C24166867%2C24169501%2C24181174%2C24186126%2C24187043%2C24187377%2C24197450%2C24211178%2C24219382%2C24219713%2C24235781%2C24240251%2C24241378%2C24248091%2C24255165%2C24255543%2C24255545%2C24262346%2C24263796%2C24268142%2C24283093%2C24288043%2C24288664%2C24290971%2C24291857%2C24390675%2C24391543%2C24396645%2C24404640%2C24407191%2C24409417%2C24412636%2C24412855%2C24414719%2C24415864%2C24415866%2C24426636%2C24428900%2C24429092%2C24430079%2C24433679%2C24437577%2C24439360%2C24439483%2C24440132%2C24441787%2C24443595%2C24445497%2C24445833%2C24447216%2C24447992%2C24449113%2C24449515%2C24450367%2C24453129%2C24453988%2C24454094%2C24455283%2C24458317%2C24458324%2C24458329%2C24458839%2C24465011%2C24465095%2C24466371%2C24466462%2C24466827%2C24466859%2C24468724%2C24477512%2C24479966%2C24481771%2C24482081%2C24483504%2C24484079%2C24485239%2C24485421%2C24486468%2C24486578%2C24487928%2C24488098%2C24489231%2C24490469%2C24490498%2C24491070%2C24491630%2C24492546%2C24492961%2C24493661%2C24493736%2C24494081%2C24494198%2C24494315%2C24494986%2C24494995%2C24495060%2C24495960%2C24495969%2C24495988%2C24496739%2C24496968%2C24497629%2C24499289%2C24499300%2C24499568%2C24499575%2C24499792%2C24499945%2C24516157%2C24591058%2C39323074%2C39816758%2C39817317%2C39818835%2C39819084%2C39819562%2C39819748%2C39819869%2C39820192&live=lp&ns=yt&plid=AAX3wDu5aPdg14kF&referrer=https%3A%2F%2Fwww.youtube.com%2F%40Vikingghost11&sdetail=p%3A%2F%40Vikingghost11&sourceid=y&delay=5&el=detailpage&len=3610&of=2dVkz7e1rF9t_XNU6wGWIw&vm=CAEQABgEOjJBTE03ZXZLdWZDREVTYkg0dUVZZ0ZpX2xtU3llU3FORmk4UnFZRHJWRGN3ZDdlVjN1QWJOQVBta0tETGtLVXFoRlZUQ3hIQURuUzdYa0huOExqVi1xbEhKcl9CcGlvYVpGZ0cxb2RKc1FWbno1T1lSc3ljLUI0dW41WWhnUTh3b0JnaAE",
+            "elapsedMediaTimeSeconds": 5
+        },
+        "videostatsWatchtimeUrl": {
+            "baseUrl": "https://s.youtube.com/api/stats/watchtime?cl=518434908&docid=SxdLNP1QyRI&ei=M2gfZLevEoSP_9EPqMenuAY&feature=g-high-crv&fexp=1714240%2C9406010%2C11240888%2C11250232%2C11250274%2C11251660%2C11252745%2C11253003%2C11253282%2C11253630%2C11254116%2C11254476%2C11254670%2C11254759%2C11256685%2C11257781%2C11257884%2C11257919%2C23804281%2C23918597%2C23946420%2C23966208%2C23983296%2C23986023%2C23998056%2C24004644%2C24007246%2C24034168%2C24036948%2C24077241%2C24080738%2C24120819%2C24135310%2C24140247%2C24162920%2C24166867%2C24169501%2C24181174%2C24186126%2C24187043%2C24187377%2C24197450%2C24211178%2C24219382%2C24219713%2C24235781%2C24240251%2C24241378%2C24248091%2C24255165%2C24255543%2C24255545%2C24262346%2C24263796%2C24268142%2C24283093%2C24288043%2C24288664%2C24290971%2C24291857%2C24390675%2C24391543%2C24396645%2C24404640%2C24407191%2C24409417%2C24412636%2C24412855%2C24414719%2C24415864%2C24415866%2C24426636%2C24428900%2C24429092%2C24430079%2C24433679%2C24437577%2C24439360%2C24439483%2C24440132%2C24441787%2C24443595%2C24445497%2C24445833%2C24447216%2C24447992%2C24449113%2C24449515%2C24450367%2C24453129%2C24453988%2C24454094%2C24455283%2C24458317%2C24458324%2C24458329%2C24458839%2C24465011%2C24465095%2C24466371%2C24466462%2C24466827%2C24466859%2C24468724%2C24477512%2C24479966%2C24481771%2C24482081%2C24483504%2C24484079%2C24485239%2C24485421%2C24486468%2C24486578%2C24487928%2C24488098%2C24489231%2C24490469%2C24490498%2C24491070%2C24491630%2C24492546%2C24492961%2C24493661%2C24493736%2C24494081%2C24494198%2C24494315%2C24494986%2C24494995%2C24495060%2C24495960%2C24495969%2C24495988%2C24496739%2C24496968%2C24497629%2C24499289%2C24499300%2C24499568%2C24499575%2C24499792%2C24499945%2C24516157%2C24591058%2C39323074%2C39816758%2C39817317%2C39818835%2C39819084%2C39819562%2C39819748%2C39819869%2C39820192&live=lp&ns=yt&plid=AAX3wDu5aPdg14kF&referrer=https%3A%2F%2Fwww.youtube.com%2F%40Vikingghost11&sdetail=p%3A%2F%40Vikingghost11&sourceid=y&el=detailpage&len=3610&of=2dVkz7e1rF9t_XNU6wGWIw&vm=CAEQABgEOjJBTE03ZXZLdWZDREVTYkg0dUVZZ0ZpX2xtU3llU3FORmk4UnFZRHJWRGN3ZDdlVjN1QWJOQVBta0tETGtLVXFoRlZUQ3hIQURuUzdYa0huOExqVi1xbEhKcl9CcGlvYVpGZ0cxb2RKc1FWbno1T1lSc3ljLUI0dW41WWhnUTh3b0JnaAE"
+        },
+        "ptrackingUrl": {
+            "baseUrl": "https://www.youtube.com/ptracking?ei=M2gfZLevEoSP_9EPqMenuAY&plid=AAX3wDu5aPdg14kF&pltype=contentugclive&ptk=youtube_none&video_id=SxdLNP1QyRI"
+        },
+        "qoeUrl": {
+            "baseUrl": "https://s.youtube.com/api/stats/qoe?cl=518434908&docid=SxdLNP1QyRI&ei=M2gfZLevEoSP_9EPqMenuAY&event=streamingstats&feature=g-high-crv&fexp=1714240%2C9406010%2C11240888%2C11250232%2C11250274%2C11251660%2C11252745%2C11253003%2C11253282%2C11253630%2C11254116%2C11254476%2C11254670%2C11254759%2C11256685%2C11257781%2C11257884%2C11257919%2C23804281%2C23918597%2C23946420%2C23966208%2C23983296%2C23986023%2C23998056%2C24004644%2C24007246%2C24034168%2C24036948%2C24077241%2C24080738%2C24120819%2C24135310%2C24140247%2C24162920%2C24166867%2C24169501%2C24181174%2C24186126%2C24187043%2C24187377%2C24197450%2C24211178%2C24219382%2C24219713%2C24235781%2C24240251%2C24241378%2C24248091%2C24255165%2C24255543%2C24255545%2C24262346%2C24263796%2C24268142%2C24283093%2C24288043%2C24288664%2C24290971%2C24291857%2C24390675%2C24391543%2C24396645%2C24404640%2C24407191%2C24409417%2C24412636%2C24412855%2C24414719%2C24415864%2C24415866%2C24426636%2C24428900%2C24429092%2C24430079%2C24433679%2C24437577%2C24439360%2C24439483%2C24440132%2C24441787%2C24443595%2C24445497%2C24445833%2C24447216%2C24447992%2C24449113%2C24449515%2C24450367%2C24453129%2C24453988%2C24454094%2C24455283%2C24458317%2C24458324%2C24458329%2C24458839%2C24465011%2C24465095%2C24466371%2C24466462%2C24466827%2C24466859%2C24468724%2C24477512%2C24479966%2C24481771%2C24482081%2C24483504%2C24484079%2C24485239%2C24485421%2C24486468%2C24486578%2C24487928%2C24488098%2C24489231%2C24490469%2C24490498%2C24491070%2C24491630%2C24492546%2C24492961%2C24493661%2C24493736%2C24494081%2C24494198%2C24494315%2C24494986%2C24494995%2C24495060%2C24495960%2C24495969%2C24495988%2C24496739%2C24496968%2C24497629%2C24499289%2C24499300%2C24499568%2C24499575%2C24499792%2C24499945%2C24516157%2C24591058%2C39323074%2C39816758%2C39817317%2C39818835%2C39819084%2C39819562%2C39819748%2C39819869%2C39820192&live=lp&ns=yt&plid=AAX3wDu5aPdg14kF&referrer=https%3A%2F%2Fwww.youtube.com%2F%40Vikingghost11&sdetail=p%3A%2F%40Vikingghost11&sourceid=y"
+        },
+        "atrUrl": {
+            "baseUrl": "https://s.youtube.com/api/stats/atr?docid=SxdLNP1QyRI&ei=M2gfZLevEoSP_9EPqMenuAY&feature=g-high-crv&len=3610&ns=yt&plid=AAX3wDu5aPdg14kF&ver=2",
+            "elapsedMediaTimeSeconds": 5
+        },
+        "videostatsScheduledFlushWalltimeSeconds": [
+            10,
+            20,
+            30
+        ],
+        "videostatsDefaultFlushIntervalSeconds": 40
+    },
+    "videoDetails": {
+        "videoId": "SxdLNP1QyRI",
+        "title": "videoplayback",
+        "lengthSeconds": "3610",
+        "isLive": true,
+        "channelId": "UCTHTuGT7WKEciPHnQeIFCHw",
+        "isOwnerViewing": false,
+        "shortDescription": "",
+        "isCrawlable": true,
+        "isLiveDvrEnabled": true,
+        "thumbnail": {
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi/SxdLNP1QyRI/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGGUgZShlMA8=&rs=AOn4CLDbhBWqQJFnY3xfwNDMBVao5uDKUQ",
+                    "width": 168,
+                    "height": 94
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/SxdLNP1QyRI/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGGUgZShlMA8=&rs=AOn4CLD3KAKV6aoDhcCcTdUr92kgsR1ajg",
+                    "width": 196,
+                    "height": 110
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/SxdLNP1QyRI/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhlIGUoZTAP&rs=AOn4CLCFRFMo6hpU8d1PKWUGqOJ2L6L70w",
+                    "width": 246,
+                    "height": 138
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/SxdLNP1QyRI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARhlIGUoZTAP&rs=AOn4CLAF9bNt78b6OANvQwMEnVxXZ7an-A",
+                    "width": 336,
+                    "height": 188
+                }
+            ]
+        },
+        "liveChunkReadahead": 3,
+        "allowRatings": true,
+        "viewCount": "0",
+        "author": "vikingghost",
+        "isLowLatencyLiveStream": false,
+        "isPrivate": false,
+        "isUnpluggedCorpus": false,
+        "latencyClass": "MDE_STREAM_OPTIMIZATIONS_RENDERER_LATENCY_NORMAL",
+        "isLiveContent": false
+    },
+    "playerConfig": {
+        "audioConfig": {
+            "enablePerFormatLoudness": true
+        },
+        "streamSelectionConfig": {
+            "maxBitrate": "17050000"
+        },
+        "livePlayerConfig": {
+            "liveReadaheadSeconds": 12,
+            "isLiveHeadPlayable": true
+        },
+        "mediaCommonConfig": {
+            "dynamicReadaheadConfig": {
+                "maxReadAheadMediaTimeMs": 120000,
+                "minReadAheadMediaTimeMs": 15000,
+                "readAheadGrowthRateMs": 1000
+            }
+        },
+        "webPlayerConfig": {
+            "useCobaltTvosDash": true,
+            "webPlayerActionsPorting": {
+                "getSharePanelCommand": {
+                    "clickTrackingParams": "CAAQu2kiEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                    "commandMetadata": {
+                        "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/share/get_web_player_share_panel"
+                        }
+                    },
+                    "webPlayerShareEntityServiceEndpoint": {
+                        "serializedShareEntity": "CgtTeGRMTlAxUXlSSQ%3D%3D"
+                    }
+                },
+                "subscribeCommand": {
+                    "clickTrackingParams": "CAAQu2kiEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                    "commandMetadata": {
+                        "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/subscription/subscribe"
+                        }
+                    },
+                    "subscribeEndpoint": {
+                        "channelIds": [
+                            "UCTHTuGT7WKEciPHnQeIFCHw"
+                        ],
+                        "params": "EgIIBxgA"
+                    }
+                },
+                "unsubscribeCommand": {
+                    "clickTrackingParams": "CAAQu2kiEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                    "commandMetadata": {
+                        "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/subscription/unsubscribe"
+                        }
+                    },
+                    "unsubscribeEndpoint": {
+                        "channelIds": [
+                            "UCTHTuGT7WKEciPHnQeIFCHw"
+                        ],
+                        "params": "CgIIBxgA"
+                    }
+                },
+                "addToWatchLaterCommand": {
+                    "clickTrackingParams": "CAAQu2kiEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                    "commandMetadata": {
+                        "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                        }
+                    },
+                    "playlistEditEndpoint": {
+                        "playlistId": "WL",
+                        "actions": [
+                            {
+                                "addedVideoId": "SxdLNP1QyRI",
+                                "action": "ACTION_ADD_VIDEO"
+                            }
+                        ]
+                    }
+                },
+                "removeFromWatchLaterCommand": {
+                    "clickTrackingParams": "CAAQu2kiEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                    "commandMetadata": {
+                        "webCommandMetadata": {
+                            "sendPost": true,
+                            "apiUrl": "/youtubei/v1/browse/edit_playlist"
+                        }
+                    },
+                    "playlistEditEndpoint": {
+                        "playlistId": "WL",
+                        "actions": [
+                            {
+                                "action": "ACTION_REMOVE_VIDEO_BY_VIDEO_ID",
+                                "removedVideoId": "SxdLNP1QyRI"
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    },
+    "storyboards": {
+        "playerLiveStoryboardSpecRenderer": {
+            "spec": "https://i.ytimg.com/sb/SxdLNP1QyRI/storyboard_live_90_3x3_b0/M$M.jpg?rs=AOn4CLB1kmN7vx-JJTQRrl8TShOt8nPxyA#159#90#3#3"
+        }
+    },
+    "microformat": {
+        "playerMicroformatRenderer": {
+            "thumbnail": {
+                "thumbnails": [
+                    {
+                        "url": "https://i.ytimg.com/vi/SxdLNP1QyRI/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGGUgZShlMA8=&rs=AOn4CLD3fmaeEci7GoY17QYJvxxCZAOdsQ",
+                        "width": 480,
+                        "height": 360
+                    }
+                ]
+            },
+            "embed": {
+                "iframeUrl": "https://www.youtube.com/embed/SxdLNP1QyRI",
+                "width": 640,
+                "height": 360
+            },
+            "title": {
+                "simpleText": "videoplayback"
+            },
+            "lengthSeconds": "3610",
+            "ownerProfileUrl": "http://www.youtube.com/@Vikingghost11",
+            "externalChannelId": "UCTHTuGT7WKEciPHnQeIFCHw",
+            "isFamilySafe": true,
+            "availableCountries": [
+                "AD",
+                "AE",
+                "AF",
+                "AG",
+                "AI",
+                "AL",
+                "AM",
+                "AO",
+                "AQ",
+                "AR",
+                "AS",
+                "AT",
+                "AU",
+                "AW",
+                "AX",
+                "AZ",
+                "BA",
+                "BB",
+                "BD",
+                "BE",
+                "BF",
+                "BG",
+                "BH",
+                "BI",
+                "BJ",
+                "BL",
+                "BM",
+                "BN",
+                "BO",
+                "BQ",
+                "BR",
+                "BS",
+                "BT",
+                "BV",
+                "BW",
+                "BY",
+                "BZ",
+                "CA",
+                "CC",
+                "CD",
+                "CF",
+                "CG",
+                "CH",
+                "CI",
+                "CK",
+                "CL",
+                "CM",
+                "CN",
+                "CO",
+                "CR",
+                "CU",
+                "CV",
+                "CW",
+                "CX",
+                "CY",
+                "CZ",
+                "DE",
+                "DJ",
+                "DK",
+                "DM",
+                "DO",
+                "DZ",
+                "EC",
+                "EE",
+                "EG",
+                "EH",
+                "ER",
+                "ES",
+                "ET",
+                "FI",
+                "FJ",
+                "FK",
+                "FM",
+                "FO",
+                "FR",
+                "GA",
+                "GB",
+                "GD",
+                "GE",
+                "GF",
+                "GG",
+                "GH",
+                "GI",
+                "GL",
+                "GM",
+                "GN",
+                "GP",
+                "GQ",
+                "GR",
+                "GS",
+                "GT",
+                "GU",
+                "GW",
+                "GY",
+                "HK",
+                "HM",
+                "HN",
+                "HR",
+                "HT",
+                "HU",
+                "ID",
+                "IE",
+                "IL",
+                "IM",
+                "IN",
+                "IO",
+                "IQ",
+                "IR",
+                "IS",
+                "IT",
+                "JE",
+                "JM",
+                "JO",
+                "JP",
+                "KE",
+                "KG",
+                "KH",
+                "KI",
+                "KM",
+                "KN",
+                "KP",
+                "KR",
+                "KW",
+                "KY",
+                "KZ",
+                "LA",
+                "LB",
+                "LC",
+                "LI",
+                "LK",
+                "LR",
+                "LS",
+                "LT",
+                "LU",
+                "LV",
+                "LY",
+                "MA",
+                "MC",
+                "MD",
+                "ME",
+                "MF",
+                "MG",
+                "MH",
+                "MK",
+                "ML",
+                "MM",
+                "MN",
+                "MO",
+                "MP",
+                "MQ",
+                "MR",
+                "MS",
+                "MT",
+                "MU",
+                "MV",
+                "MW",
+                "MX",
+                "MY",
+                "MZ",
+                "NA",
+                "NC",
+                "NE",
+                "NF",
+                "NG",
+                "NI",
+                "NL",
+                "NO",
+                "NP",
+                "NR",
+                "NU",
+                "NZ",
+                "OM",
+                "PA",
+                "PE",
+                "PF",
+                "PG",
+                "PH",
+                "PK",
+                "PL",
+                "PM",
+                "PN",
+                "PR",
+                "PS",
+                "PT",
+                "PW",
+                "PY",
+                "QA",
+                "RE",
+                "RO",
+                "RS",
+                "RU",
+                "RW",
+                "SA",
+                "SB",
+                "SC",
+                "SD",
+                "SE",
+                "SG",
+                "SH",
+                "SI",
+                "SJ",
+                "SK",
+                "SL",
+                "SM",
+                "SN",
+                "SO",
+                "SR",
+                "SS",
+                "ST",
+                "SV",
+                "SX",
+                "SY",
+                "SZ",
+                "TC",
+                "TD",
+                "TF",
+                "TG",
+                "TH",
+                "TJ",
+                "TK",
+                "TL",
+                "TM",
+                "TN",
+                "TO",
+                "TR",
+                "TT",
+                "TV",
+                "TW",
+                "TZ",
+                "UA",
+                "UG",
+                "UM",
+                "US",
+                "UY",
+                "UZ",
+                "VA",
+                "VC",
+                "VE",
+                "VG",
+                "VI",
+                "VN",
+                "VU",
+                "WF",
+                "WS",
+                "YE",
+                "YT",
+                "ZA",
+                "ZM",
+                "ZW"
+            ],
+            "isUnlisted": false,
+            "hasYpcMetadata": false,
+            "viewCount": "0",
+            "category": "Gaming",
+            "publishDate": "2023-03-25",
+            "ownerChannelName": "vikingghost",
+            "liveBroadcastDetails": {
+                "isLiveNow": true,
+                "startTimestamp": "2023-03-25T21:30:13+00:00"
+            },
+            "uploadDate": "2023-03-25"
+        }
+    },
+    "cards": {
+        "cardCollectionRenderer": {
+            "cards": [
+                {
+                    "cardRenderer": {
+                        "teaser": {
+                            "simpleCardTeaserRenderer": {
+                                "message": {
+                                    "simpleText": "View corrections"
+                                },
+                                "trackingParams": "CA0Q0DYiEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                                "prominent": true,
+                                "logVisibilityUpdates": true,
+                                "onTapCommand": {
+                                    "clickTrackingParams": "CA0Q0DYiEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                                    "changeEngagementPanelVisibilityAction": {
+                                        "targetId": "engagement-panel-error-corrections",
+                                        "visibility": "ENGAGEMENT_PANEL_VISIBILITY_EXPANDED"
+                                    }
+                                }
+                            }
+                        },
+                        "cueRanges": [
+                            {
+                                "startCardActiveMs": "0",
+                                "endCardActiveMs": "5000",
+                                "teaserDurationMs": "6000",
+                                "iconAfterTeaserMs": "5000"
+                            }
+                        ],
+                        "trackingParams": "CAwQtZcBGAAiEwj3lOPdg_j9AhWExz8EHajjCWc="
+                    }
+                }
+            ],
+            "headerText": {
+                "simpleText": "From vikingghost"
+            },
+            "icon": {
+                "infoCardIconRenderer": {
+                    "trackingParams": "CAsQsJcBIhMI95Tj3YP4_QIVhMc_BB2o4wln"
+                }
+            },
+            "closeButton": {
+                "infoCardIconRenderer": {
+                    "trackingParams": "CAoQsZcBIhMI95Tj3YP4_QIVhMc_BB2o4wln"
+                }
+            },
+            "trackingParams": "CAkQwjciEwj3lOPdg_j9AhWExz8EHajjCWc=",
+            "allowTeaserDismiss": true,
+            "logIconVisibilityUpdates": true
+        }
+    },
+    "trackingParams": "CAAQu2kiEwj3lOPdg_j9AhWExz8EHajjCWc=",
+    "attestation": {
+        "playerAttestationRenderer": {
+            "challenge": "a=5&a2=1&b=_FViASVB_FzQKL-0o4qbzqz6eGw&c=1679779891&d=1&e=SxdLNP1QyRI&c1a=1&c6a=1&c6b=1&hh=iIROMZ07dw6VJXnskn7zDdXBqqWfL-JOtG3I4Gw16y8",
+            "botguardData": {
+                "program": "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",
+                "interpreterSafeUrl": {
+                    "privateDoNotAccessOrElseTrustedResourceUrlWrappedValue": "//www.google.com/js/th/JKI-Neg5ZU5KK1Xo01VWGlJ1rRlPViDIC-PSh86zliQ.js"
+                },
+                "serverEnvironment": 6
+            }
+        }
+    },
+    "videoQualityPromoSupportedRenderers": {
+        "videoQualityPromoRenderer": {
+            "triggerCriteria": {
+                "connectionWhitelist": [
+                    "WIFI"
+                ],
+                "joinLatencySeconds": 15,
+                "rebufferTimeSeconds": 10,
+                "watchTimeWindowSeconds": 180,
+                "refractorySeconds": 2592000
+            },
+            "text": {
+                "runs": [
+                    {
+                        "text": "Experiencing interruptions? "
+                    },
+                    {
+                        "text": "Find out why",
+                        "bold": true
+                    }
+                ]
+            },
+            "endpoint": {
+                "clickTrackingParams": "CAYQ6kUiEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                "commandMetadata": {
+                    "webCommandMetadata": {
+                        "url": "https://www.google.com/get/videoqualityreport/",
+                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                        "rootVe": 83769
+                    }
+                },
+                "urlEndpoint": {
+                    "url": "https://www.google.com/get/videoqualityreport/",
+                    "target": "TARGET_NEW_WINDOW"
+                }
+            },
+            "trackingParams": "CAYQ6kUiEwj3lOPdg_j9AhWExz8EHajjCWc=",
+            "snackbar": {
+                "notificationActionRenderer": {
+                    "responseText": {
+                        "runs": [
+                            {
+                                "text": "Experiencing interruptions?"
+                            }
+                        ]
+                    },
+                    "actionButton": {
+                        "buttonRenderer": {
+                            "text": {
+                                "runs": [
+                                    {
+                                        "text": "Find out why"
+                                    }
+                                ]
+                            },
+                            "navigationEndpoint": {
+                                "clickTrackingParams": "CAgQ8FsiEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                                "commandMetadata": {
+                                    "webCommandMetadata": {
+                                        "url": "https://www.google.com/get/videoqualityreport/?v=SxdLNP1QyRI",
+                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                        "rootVe": 83769
+                                    }
+                                },
+                                "urlEndpoint": {
+                                    "url": "https://www.google.com/get/videoqualityreport/?v=SxdLNP1QyRI",
+                                    "target": "TARGET_NEW_WINDOW"
+                                }
+                            },
+                            "trackingParams": "CAgQ8FsiEwj3lOPdg_j9AhWExz8EHajjCWc="
+                        }
+                    },
+                    "trackingParams": "CAcQuWoiEwj3lOPdg_j9AhWExz8EHajjCWc="
+                }
+            }
+        }
+    },
+    "messages": [
+        {
+            "mealbarPromoRenderer": {
+                "icon": {
+                    "thumbnails": [
+                        {
+                            "url": "https://www.gstatic.com/youtube/img/promos/growth/6ad5a99c727579634bc3e2fb67562a2621170bdd11578967392667be5a05c5e4_384x384.png",
+                            "width": 384,
+                            "height": 384
+                        }
+                    ]
+                },
+                "messageTexts": [
+                    {
+                        "runs": [
+                            {
+                                "text": "Get YouTube without the ads"
+                            }
+                        ]
+                    }
+                ],
+                "actionButton": {
+                    "buttonRenderer": {
+                        "style": "STYLE_BLUE_TEXT",
+                        "size": "SIZE_DEFAULT",
+                        "text": {
+                            "runs": [
+                                {
+                                    "text": "Get it now"
+                                }
+                            ]
+                        },
+                        "trackingParams": "CAUQ7G8iEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                        "command": {
+                            "clickTrackingParams": "CAUQ7G8iEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                            "commandExecutorCommand": {
+                                "commands": [
+                                    {
+                                        "clickTrackingParams": "CAUQ7G8iEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/premium?ybp=Eg9GRXdoYXRfdG9fd2F0Y2gqEmRtZWEtYWNxLWMtZWdzb1FCZDoaCAYYASoUChJkbWVhLWFjcS1jLWVnc29RQmQ%253D",
+                                                "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                                                "rootVe": 11487,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "SPunlimited",
+                                            "params": "kgNBEg9GRXdoYXRfdG9fd2F0Y2gqEmRtZWEtYWNxLWMtZWdzb1FCZDoaCAYYASoUChJkbWVhLWFjcS1jLWVnc29RQmQ%3D"
+                                        }
+                                    },
+                                    {
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "sendPost": true,
+                                                "apiUrl": "/youtubei/v1/feedback"
+                                            }
+                                        },
+                                        "feedbackEndpoint": {
+                                            "feedbackToken": "AB9zfpIjB3BTZrP1I9l2Vh9BCYOJhkgOFvaQzqZghIP4pKsPf11VcnsGcs4-7TnzreNPuAKmqtYEYYUK3UFe8kDFLbedPCa68k-ajCl5kAPlJEnMAgEqe6wYukSn306djmw86gVV1Njd8Mc1mz2Yh9MZ_6ZJEl0DeQ",
+                                            "uiActions": {
+                                                "hideEnclosingContainer": true
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "dismissButton": {
+                    "buttonRenderer": {
+                        "style": "STYLE_TEXT",
+                        "size": "SIZE_DEFAULT",
+                        "text": {
+                            "runs": [
+                                {
+                                    "text": "No thanks"
+                                }
+                            ]
+                        },
+                        "trackingParams": "CAQQ7W8iEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                        "command": {
+                            "clickTrackingParams": "CAQQ7W8iEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                            "commandExecutorCommand": {
+                                "commands": [
+                                    {
+                                        "clickTrackingParams": "CAQQ7W8iEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "sendPost": true,
+                                                "apiUrl": "/youtubei/v1/feedback"
+                                            }
+                                        },
+                                        "feedbackEndpoint": {
+                                            "feedbackToken": "AB9zfpIgvvQtWPYI5w4pHWnVqokv__24rvJK8UFqCm7bo8LLn28WUYS4Jt40nTsPtiNpUlRnfkGmTU_XcG-xC6d6YTwF7HKn_daRReFkPA6LR1_7Mq5wTGUlDDpX9PmdQZVJIe-ZG9Oep_s4ajDdH_xqHtMX6JgM7w",
+                                            "uiActions": {
+                                                "hideEnclosingContainer": true
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "triggerCondition": "TRIGGER_CONDITION_POST_AD",
+                "style": "STYLE_MESSAGE",
+                "trackingParams": "CAMQ42kYACITCPeU492D-P0CFYTHPwQdqOMJZw==",
+                "impressionEndpoints": [
+                    {
+                        "clickTrackingParams": "CAMQ42kYACITCPeU492D-P0CFYTHPwQdqOMJZw==",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "sendPost": true,
+                                "apiUrl": "/youtubei/v1/feedback"
+                            }
+                        },
+                        "feedbackEndpoint": {
+                            "feedbackToken": "AB9zfpI1-wpNB96TMj4Q61tX2QY1c-SlBLJ-fSE5n7VQQpbscGDRYCNwGqmChbrJGa8oVvzbgYcz2LSPiZQo8JAY3b0hoEjg_q682l86CMHoeae151mVYDTsiwuH-yjRH9XL-M1XWE4F2_BWPAtyM1Z710M7lUlKIQ",
+                            "uiActions": {
+                                "hideEnclosingContainer": false
+                            }
+                        }
+                    }
+                ],
+                "isVisible": true,
+                "messageTitle": {
+                    "runs": [
+                        {
+                            "text": "YouTube Premium"
+                        }
+                    ]
+                },
+                "enableSharedFeatureForImpressionHandling": false
+            }
+        },
+        {
+            "tooltipRenderer": {
+                "promoConfig": {
+                    "promoId": "tip-edu-yc-deepadpod-web",
+                    "impressionEndpoints": [
+                        {
+                            "clickTrackingParams": "CAEQvJkCGAEiEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "sendPost": true,
+                                    "apiUrl": "/youtubei/v1/feedback"
+                                }
+                            },
+                            "feedbackEndpoint": {
+                                "feedbackToken": "AB9zfpLMEciX25lhYchuc6F1HbKJwC7vdUdOR8EIF7jQtYuDX-MtRJyQTlN65Yr2eHMIt7bihoA7aA70Q32amVmyTvPMyeN8gYa9Tj_rmHW_Yt7dQ4w_QgK2TbHpZvCpn5wVduzmUaQM0ERwlhjISNYbNHzMpTdIhoMKyUUv2fe8_kt-w1RhFv4",
+                                "uiActions": {
+                                    "hideEnclosingContainer": false
+                                }
+                            }
+                        }
+                    ],
+                    "acceptCommand": {
+                        "clickTrackingParams": "CAEQvJkCGAEiEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "sendPost": true,
+                                "apiUrl": "/youtubei/v1/feedback"
+                            }
+                        },
+                        "feedbackEndpoint": {
+                            "feedbackToken": "AB9zfpJUkvIH1ZBh0iV5cY5iagJ8wDhQdH8dGEmXUYZxOURo96ltfMmNaktdrizHS4GN_yelT8148btxvUMorXauJfo5aXIjgLMdUCW0gnx5vUY_PdQiYP4-IcSPYHjbHPQiU3FdrIoxW61cexwAx1GXm0XYR3j_M7Te3qbCvW6dZFD0qOg9XsU",
+                            "uiActions": {
+                                "hideEnclosingContainer": true
+                            }
+                        }
+                    },
+                    "dismissCommand": {
+                        "clickTrackingParams": "CAEQvJkCGAEiEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "sendPost": true,
+                                "apiUrl": "/youtubei/v1/feedback"
+                            }
+                        },
+                        "feedbackEndpoint": {
+                            "feedbackToken": "AB9zfpIGYsa2kXDBDu0q7wnCr7Rv6OE7BOQDiGNWsLE4YPLlS4qgSBAlYBymWglkaXTKoV9ukVm2-e3_ZkJckklutxlPSpWcF7FhEJj6_cSr4jFhWoHl2GACq7mK4MtL6l_y2f5ke95-y1ihBxYqXPix0mdPn8alQt14NELVRcZwOlPq1uq56lA",
+                            "uiActions": {
+                                "hideEnclosingContainer": true
+                            }
+                        }
+                    }
+                },
+                "targetId": "ad-player-overlay-ad-position-ad-text",
+                "text": {
+                    "runs": [
+                        {
+                            "text": "New!"
+                        }
+                    ]
+                },
+                "detailsText": {
+                    "runs": [
+                        {
+                            "text": "Watch ads now so you can enjoy fewer interruptions"
+                        }
+                    ]
+                },
+                "dismissButton": {
+                    "buttonRenderer": {
+                        "size": "SIZE_DEFAULT",
+                        "text": {
+                            "runs": [
+                                {
+                                    "text": "Got it"
+                                }
+                            ]
+                        },
+                        "trackingParams": "CAIQ7W8iEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                        "command": {
+                            "clickTrackingParams": "CAIQ7W8iEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                            "commandExecutorCommand": {
+                                "commands": [
+                                    {
+                                        "clickTrackingParams": "CAIQ7W8iEwj3lOPdg_j9AhWExz8EHajjCWc=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "sendPost": true,
+                                                "apiUrl": "/youtubei/v1/feedback"
+                                            }
+                                        },
+                                        "feedbackEndpoint": {
+                                            "feedbackToken": "AB9zfpJ2xBPjqa6dUVA6EEddvM_jjhykk7yXTa9jypSbyuM6Oh06gHkVSw1F2MS_qWvvuNDfJlb-z0f47nBqTPfFn-wxPyB_4ICt-64zeBDFFht3lGqEbb5gWGvjvypscw9rHZUl3qAYMc8WRTk86B3OW25rv9VV-mIbiRfQlbblHyK9L6DH06E",
+                                            "uiActions": {
+                                                "hideEnclosingContainer": true
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "suggestedPosition": {
+                    "type": "TOOLTIP_POSITION_TYPE_BELOW_START"
+                },
+                "dismissStrategy": {
+                    "type": "TOOLTIP_DISMISS_TYPE_TAP_ANYWHERE"
+                },
+                "dwellTimeMs": "5000",
+                "trackingParams": "CAEQvJkCGAEiEwj3lOPdg_j9AhWExz8EHajjCWc="
+            }
+        }
+    ],
+    "frameworkUpdates": {
+        "entityBatchUpdate": {
+            "mutations": [
+                {
+                    "entityKey": "Eg0KC1N4ZExOUDFReVJJIPYBKAE%3D",
+                    "type": "ENTITY_MUTATION_TYPE_REPLACE",
+                    "payload": {
+                        "offlineabilityEntity": {
+                            "key": "Eg0KC1N4ZExOUDFReVJJIPYBKAE%3D",
+                            "addToOfflineButtonState": "ADD_TO_OFFLINE_BUTTON_STATE_UNKNOWN"
+                        }
+                    }
+                }
+            ],
+            "timestamp": {
+                "seconds": "1679779891",
+                "nanos": 381409482
+            }
+        }
+    }
+}

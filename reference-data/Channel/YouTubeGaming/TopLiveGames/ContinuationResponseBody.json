@@ -1,0 +1,2873 @@
+{
+    "responseContext": {
+        "serviceTrackingParams": [
+            {
+                "service": "GFEEDBACK",
+                "params": [
+                    {
+                        "key": "browse_id",
+                        "value": "UCOpNcN46UbXVtpKMrmU4Abg"
+                    },
+                    {
+                        "key": "browse_id_prefix",
+                        "value": ""
+                    },
+                    {
+                        "key": "logged_in",
+                        "value": "0"
+                    },
+                    {
+                        "key": "e",
+                        "value": "1714251,23776272,23804281,23918597,23946420,23966208,23983296,23986026,23998056,24004644,24007246,24034168,24036947,24077241,24080738,24108447,24120820,24135310,24140247,24162919,24166867,24169501,24181174,24187043,24187377,24211178,24219381,24219713,24240252,24241378,24248091,24255163,24255543,24255545,24262346,24263796,24268142,24281897,24283015,24283093,24288047,24288664,24290971,24291857,24390675,24391537,24396645,24404640,24406363,24407191,24411811,24412855,24414718,24415864,24415866,24416290,24422006,24426636,24428818,24429095,24433679,24437577,24439360,24439483,24439814,24440132,24447091,24447748,24447992,24449113,24450367,24450372,24451033,24451626,24453129,24455640,24456736,24457854,24458839,24465011,24465095,24466371,24466458,24466859,24468724,24470280,24470719,24471119,24472327,24473352,24476787,24476813,24478242,24479964,24481771,24482081,24482669,24483084,24483504,24483766,24484079,24484136,24485239,24485420,24486468,24486565,24486576,24486855,24486981,24487104,24490496,24494081,24494198,24494988,24494995,24495841,24495962,24495967,24495984,39323074"
+                    }
+                ]
+            },
+            {
+                "service": "GOOGLE_HELP",
+                "params": [
+                    {
+                        "key": "browse_id",
+                        "value": "UCOpNcN46UbXVtpKMrmU4Abg"
+                    },
+                    {
+                        "key": "browse_id_prefix",
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "service": "CSI",
+                "params": [
+                    {
+                        "key": "c",
+                        "value": "WEB"
+                    },
+                    {
+                        "key": "cver",
+                        "value": "2.20230309.08.00"
+                    },
+                    {
+                        "key": "yt_li",
+                        "value": "0"
+                    },
+                    {
+                        "key": "GetGamingDestination_rid",
+                        "value": "0x23c98e0920e42e00"
+                    }
+                ]
+            },
+            {
+                "service": "GUIDED_HELP",
+                "params": [
+                    {
+                        "key": "logged_in",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "service": "ECATCHER",
+                "params": [
+                    {
+                        "key": "client.version",
+                        "value": "2.20230309"
+                    },
+                    {
+                        "key": "client.name",
+                        "value": "WEB"
+                    },
+                    {
+                        "key": "client.fexp",
+                        "value": "24455640,24422006,24241378,24470280,24495962,24219381,24415864,24478242,24169501,24458839,24451626,24485420,24439483,24483766,24476813,24453129,24439360,24166867,24187043,24428818,24451033,24211178,24456736,24411811,24255545,24447992,24481771,24407191,24290971,24439814,24437577,23966208,39323074,24034168,24494198,24433679,24288664,24181174,24483084,24494995,24494988,24120820,24487104,24396645,24268142,24471119,24449113,24472327,24470719,24482669,24412855,24495841,24281897,24255163,24391537,24476787,24486855,24486468,24450367,24406363,24140247,24465095,1714251,24426636,24490496,24473352,24485239,24457854,24135310,24288047,24080738,24486981,24219713,24291857,24495967,24263796,24283015,24447091,24248091,24466458,24255543,24479964,23776272,23804281,23946420,24494081,23918597,24447748,24007246,24484136,24465011,23983296,24416290,23998056,24483504,24077241,24482081,24429095,24108447,24486576,24495984,23986026,24004644,24404640,24283093,24162919,24486565,24440132,24390675,24468724,24466859,24262346,24450372,24484079,24036947,24240252,24466371,24187377,24414718,24415866"
+                    }
+                ]
+            }
+        ],
+        "maxAgeSeconds": 300,
+        "mainAppWebResponseContext": {
+            "loggedOut": true
+        },
+        "webResponseContextExtensionData": {
+            "hasDecorated": true
+        }
+    },
+    "trackingParams": "CAAQhGciEwiFh5ehtNT9AhXLupwKHeroDU6CARsIGRDoiwIiEwiKq93vs9T9AhVRBtYAHbx5CQU=",
+    "onResponseReceivedActions": [
+        {
+            "clickTrackingParams": "CAAQhGciEwiFh5ehtNT9AhXLupwKHeroDU4=",
+            "appendContinuationItemsAction": {
+                "continuationItems": [
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Contraband Police"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/Y5fioAFcetm3Cr8yN2ITOmaIan1cV-ArVwG8g09b-QVxajB0nOiz6KgCO0hJiEp8MRWlKqvjRQ"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Contraband Police"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CGQQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCdmsPPQ1CxG9X2mfWB0PtZw/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCdmsPPQ1CxG9X2mfWB0PtZw",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCdmsPPQ1CxG9X2mfWB0PtZw"
+                                        }
+                                    },
+                                    "trackingParams": "CGQQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "2.9K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "2.9K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CGMQj5cDGAEiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Call of Duty®: Warzone™ 2.0"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/dvHwRZa77NP__LU_iNVcFAHFq7uJwzHBXm0BylnIqWalEK_M3Rw9-v87HmuI8s8W2RgAMVdFIEY"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Call of Duty®: Warzone™ 2.0"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CGIQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCgbsGKOtkoBE76k0pd3I8BA/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCgbsGKOtkoBE76k0pd3I8BA",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCgbsGKOtkoBE76k0pd3I8BA"
+                                        }
+                                    },
+                                    "trackingParams": "CGIQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "2.9K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "2.9K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CGEQj5cDGAIiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Warface"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/DdVApeCJFnChiRO9Fq7G0bNjsIIrwIU_q65tr33OUnZ-TKz8gbwVeUhgH7JzfXoHmTNGJ31ong"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Warface"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CGAQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCcBwNid2pRL-vmNU4q5r3pQ/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCcBwNid2pRL-vmNU4q5r3pQ",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCcBwNid2pRL-vmNU4q5r3pQ"
+                                        }
+                                    },
+                                    "trackingParams": "CGAQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "2.8K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "2.8K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CF8Qj5cDGAMiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Brawl Stars"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/5DJ3hOw3NomLqT9-d2pnb_Gl5KJzmCkSwcS4VzfGkad0AE5E4XrEu4y6226JSObmgeHyLy5UEg"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Brawl Stars"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CF4Q_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCn-Tkh9XsSaZdipNKo13ZWA/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCn-Tkh9XsSaZdipNKo13ZWA",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCn-Tkh9XsSaZdipNKo13ZWA"
+                                        }
+                                    },
+                                    "trackingParams": "CF4Q_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "2.5K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "2.5K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CF0Qj5cDGAQiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Stumble Guys"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/CwaOtRFMguED4pqjDRT5Ogt_0Kts3DfUpoqUKDv8ZtuFqnNxAMitdne72DlemIGdvApYnACueTg"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Stumble Guys"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CFwQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCZvdvGYOX3OtaykXQvzX1BQ/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCZvdvGYOX3OtaykXQvzX1BQ",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCZvdvGYOX3OtaykXQvzX1BQ"
+                                        }
+                                    },
+                                    "trackingParams": "CFwQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "2.4K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "2.4K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CFsQj5cDGAUiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "[Chilla's Art] The Karaoke | ヒトカラ🎤"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/alurRmtEtDoGEjChLCikD33X6Fm27ufsqMKQcM8r5T7EtLY6zWPt7MFjmiV6BgXQx6iwwagU5Q"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "[Chilla's Art] The Karaoke | ヒトカラ🎤"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CFoQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCNwqRiK3wlEE6tNogMNqCYw/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCNwqRiK3wlEE6tNogMNqCYw",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCNwqRiK3wlEE6tNogMNqCYw"
+                                        }
+                                    },
+                                    "trackingParams": "CFoQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "2.4K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "2.4K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": false
+                                }
+                            },
+                            "trackingParams": "CFkQj5cDGAYiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Summoners War: Chronicles"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/jdd5tULizxbjZDNZuXLS6LWmT9E6NsTYrG40aOZlg3gYCwUnehF6QbOGzOy6nBaey27Ff8Sz"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Summoners War: Chronicles"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CFgQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCfszpvL-77mPH_Uy6u-bx0Q/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCfszpvL-77mPH_Uy6u-bx0Q",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCfszpvL-77mPH_Uy6u-bx0Q"
+                                        }
+                                    },
+                                    "trackingParams": "CFgQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "2.4K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "2.4K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CFcQj5cDGAciEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Rust"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/A_TvS380S3p7sfTypI9ZwT78fND3bIgxBVOwFZLVinwajno6SJ0QM3f2Kh1x7qw8ap_OoHlHPA"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Rust"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CFYQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCF304kdATqWHcEqu5ZOWJCA/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCF304kdATqWHcEqu5ZOWJCA",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCF304kdATqWHcEqu5ZOWJCA"
+                                        }
+                                    },
+                                    "trackingParams": "CFYQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "2.3K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "2.3K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CFUQj5cDGAgiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "DayZ"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/zMm2LRP7l6AmP7dzrK7r19uJinDYPb3Bt5XUYp-12rHC6j9mx8pCGj-_IsmkMiKIeKATo2GBQwc"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "DayZ"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CFQQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCka5zqSwEqL5z_H7P05GjmA/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCka5zqSwEqL5z_H7P05GjmA",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCka5zqSwEqL5z_H7P05GjmA"
+                                        }
+                                    },
+                                    "trackingParams": "CFQQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "2.2K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "2.2K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CFMQj5cDGAkiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Arena of Valor"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/0X4Ej5pFH8ZOhCqea05tQLqsysXOeyQy0KSV26FZQda0pGVuD2lfxe9sEA6VwKtmZUx5N0CD5g"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Arena of Valor"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CFIQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCDk4tfW1Iku9-0S7L5cZP4A/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCDk4tfW1Iku9-0S7L5cZP4A",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCDk4tfW1Iku9-0S7L5cZP4A"
+                                        }
+                                    },
+                                    "trackingParams": "CFIQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "2.1K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "2.1K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CFEQj5cDGAoiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "FIFA 15"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/yO2wOh6QjDikVbz9aWKKwTZ_WUgygA-N55m-zXlRpb9ugP4doc8hZoE9rUzZSoyG9fXPYidTMGg"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "FIFA 15"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CFAQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UC7858nPgdOqCizILinQQm7Q/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UC7858nPgdOqCizILinQQm7Q",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UC7858nPgdOqCizILinQQm7Q"
+                                        }
+                                    },
+                                    "trackingParams": "CFAQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "2.1K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "2.1K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CE8Qj5cDGAsiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Yu-Gi-Oh! Master Duel"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/DRgUbVBG1sdjzV3LMNh3KhITCgRf_sHVhLNS_ZJxUJb2IcF-dMMIDe78mXSPmOvjRvwUtoHW"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Yu-Gi-Oh! Master Duel"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CE4Q_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UChlcP8cK-LwW4lBMIzJ3PnA/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UChlcP8cK-LwW4lBMIzJ3PnA",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UChlcP8cK-LwW4lBMIzJ3PnA"
+                                        }
+                                    },
+                                    "trackingParams": "CE4Q_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "2K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "2K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CE0Qj5cDGAwiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Choo-Choo Charles"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/Z8mK9I9ghDLvUqjfGJQ9zFsjucewHhhXASa2oNhNrJ4Rpbvv0Eg9a47OU8ikNgoh5SQakBAKhw"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Choo-Choo Charles"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CEwQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UC9NVaCUGx6shAe-6bU0daGA/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UC9NVaCUGx6shAe-6bU0daGA",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UC9NVaCUGx6shAe-6bU0daGA"
+                                        }
+                                    },
+                                    "trackingParams": "CEwQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "2K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "2K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": false
+                                }
+                            },
+                            "trackingParams": "CEsQj5cDGA0iEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Saint Seiya : Awakening"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/5LH7wXqriBOJj5VvfSsziUMzav6XbExz0Zwg66LdMAPZUIAaLHsYYViNTqokbbcyGfw_MZy0"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Saint Seiya : Awakening"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CEoQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCv4G4L5TPKW6GDmk9K07r4w/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCv4G4L5TPKW6GDmk9K07r4w",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCv4G4L5TPKW6GDmk9K07r4w"
+                                        }
+                                    },
+                                    "trackingParams": "CEoQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "2K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "2K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CEkQj5cDGA4iEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "FIFA 16"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/42ouHPAWWTMaTQzBRSMxplybsal1hxXrRb7dtG-sicq7kwdNpVfFl4Ep5uP-iPZ9_eZtNGg_cQ"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "FIFA 16"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CEgQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UC375onoYkWt72zHXluN-hgA/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UC375onoYkWt72zHXluN-hgA",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UC375onoYkWt72zHXluN-hgA"
+                                        }
+                                    },
+                                    "trackingParams": "CEgQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.8K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.8K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CEcQj5cDGA8iEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Lineage M"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/YLvjg-l1WBbGuvHB7UnPGEBzaK08ed7NCNCe6qRDZQL44Ku9tkQ-zBZ7nX4RtIPgNcaU7UV_RHI"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Lineage M"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CEYQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UC4H_HECbwVhVH8_t3aufYTQ/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UC4H_HECbwVhVH8_t3aufYTQ",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UC4H_HECbwVhVH8_t3aufYTQ"
+                                        }
+                                    },
+                                    "trackingParams": "CEYQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.7K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.7K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CEUQj5cDGBAiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "World of Warcraft"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/B_FYfSgRTSfObuCQUtj36CDSJDMGhycRW8E3ndrNwnFBx4RZwjOfxSK-N1MGKRE_34ybZ5u5Sw"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "World of Warcraft"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CEQQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCgXO9BFQg0nfgQkNDPRGCTQ/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCgXO9BFQg0nfgQkNDPRGCTQ",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCgXO9BFQg0nfgQkNDPRGCTQ"
+                                        }
+                                    },
+                                    "trackingParams": "CEQQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.7K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.7K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CEMQj5cDGBEiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Burger Bistro Story"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/fEUgumAHYO4Im8dw8QUayRwDR98ukWbZJtkvzwjS_zmzLdwQKLGFS4yVOimhZnQ1-ZFh2LoHlw"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Burger Bistro Story"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CEIQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCzBvCXtzJbjbDqW--na2KUw/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCzBvCXtzJbjbDqW--na2KUw",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCzBvCXtzJbjbDqW--na2KUw"
+                                        }
+                                    },
+                                    "trackingParams": "CEIQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.7K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.7K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": false
+                                }
+                            },
+                            "trackingParams": "CEEQj5cDGBIiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Monster Hunter Rise"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/R2oYDOlp1OBG1qwvQ8t-8zoUIXA0fVq9Cw--W-XbdfhabANKeizr6Ea0jfJ6WNGgQDulmDbeCw"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Monster Hunter Rise"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CEAQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCG9g56HKgFs6xV-A63xhd5w/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCG9g56HKgFs6xV-A63xhd5w",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCG9g56HKgFs6xV-A63xhd5w"
+                                        }
+                                    },
+                                    "trackingParams": "CEAQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.7K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.7K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CD8Qj5cDGBMiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "eFootball 2023"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/7RqhZlrnlTMw_4kb4aLYq346pGda1fwcXGg0pPjIPcszljwmiKy58muqiNkH_zNwNmqiuu14gx4"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "eFootball 2023"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CD4Q_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCl4OyWsD-SQdBvSZzzaa1yg/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCl4OyWsD-SQdBvSZzzaa1yg",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCl4OyWsD-SQdBvSZzzaa1yg"
+                                        }
+                                    },
+                                    "trackingParams": "CD4Q_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.6K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.6K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": false
+                                }
+                            },
+                            "trackingParams": "CD0Qj5cDGBQiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "League of Legends: Wild Rift"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/gTDfSfAvTLs5sHzY1_K5LXp_bjyxdFQ1k4tJqlpKPojt86L_xPayIQ4S9EO6AE6SIENvkdPnuA"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "League of Legends: Wild Rift"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CDwQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCZ52Ylk1S1suQHtVUllmaoA/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCZ52Ylk1S1suQHtVUllmaoA",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCZ52Ylk1S1suQHtVUllmaoA"
+                                        }
+                                    },
+                                    "trackingParams": "CDwQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.6K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.6K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CDsQj5cDGBUiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Among Us"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/zS4qWLdjucp7nA28hSQW78TY_XoQ5uydKpaS6nMvA9J6Tn8iUCKTawsWB-0OVDgZrvAQ9XfZqw"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Among Us"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CDoQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCn0QAnNB_vHr7Pry3Vo72lg/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCn0QAnNB_vHr7Pry3Vo72lg",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCn0QAnNB_vHr7Pry3Vo72lg"
+                                        }
+                                    },
+                                    "trackingParams": "CDoQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.6K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.6K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CDkQj5cDGBYiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Kenshi"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/nQS5WwHwjGBfmCedFI3M8Y-KYETvToDS9smSMU0dr2lXeTXPut1uoUqRlnHeRb4yfwcFScNi"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Kenshi"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CDgQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCQ1Uy6ElUY4dEF0cR5KIfsw/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCQ1Uy6ElUY4dEF0cR5KIfsw",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCQ1Uy6ElUY4dEF0cR5KIfsw"
+                                        }
+                                    },
+                                    "trackingParams": "CDgQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.5K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.5K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CDcQj5cDGBciEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Summoners War: Sky Arena"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/U29pDHZhtdYQHHVfEcNnEtZ8YfzFjVxqmVjLQGChIJ4wvRvGwmxic9D2hdJ9eufOIv3FQixKpK8"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Summoners War: Sky Arena"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CDYQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UC1CJXY8oKtVNGxqIzuBqO6g/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UC1CJXY8oKtVNGxqIzuBqO6g",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UC1CJXY8oKtVNGxqIzuBqO6g"
+                                        }
+                                    },
+                                    "trackingParams": "CDYQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.4K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.4K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CDUQj5cDGBgiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Join Clash 3D"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/RiLsRsVStHacBHsiESyoxWTGzCAo0iC3LH2JTiP5OQz8nsecx9mZRIj8BCDX_MrgRv8Sb5pEUg"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Join Clash 3D"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CDQQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCXlsXCPSmQoVBFiX6rAvLCg/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCXlsXCPSmQoVBFiX6rAvLCg",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCXlsXCPSmQoVBFiX6rAvLCg"
+                                        }
+                                    },
+                                    "trackingParams": "CDQQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.4K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.4K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CDMQj5cDGBkiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Call of Duty: Mobile"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/jVJs2OJc41Y9rLMXWjP5FbNXNr1r1_4b9ylWhZ6aYi8J19xoVeQUbfLFXe7o3PbdAaTIFtcYyIs"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Call of Duty: Mobile"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CDIQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCNXJk0T4LRLpWS5XlVSg4uQ/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCNXJk0T4LRLpWS5XlVSg4uQ",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCNXJk0T4LRLpWS5XlVSg4uQ"
+                                        }
+                                    },
+                                    "trackingParams": "CDIQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.4K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.4K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CDEQj5cDGBoiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Grand Theft Auto: San Andreas"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/kiHlN1ZVFHJBfIY0Dl3JcN6taaIUBig6o0xuUZKaRy7tIirfDY_RD0B5_bIwfthpEGU6KHrJSQ"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Grand Theft Auto: San Andreas"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CDAQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCNpPy2A7ZQze-Thz06EwJIQ/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCNpPy2A7ZQze-Thz06EwJIQ",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCNpPy2A7ZQze-Thz06EwJIQ"
+                                        }
+                                    },
+                                    "trackingParams": "CDAQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.3K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.3K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CC8Qj5cDGBsiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Puzzle & Dragons"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/d-9uvGhFxwx0DSuKsOnPD0yYIoEZChpy8q96qzBHhKXypMxfDwnzm_OXVn7ujiGcnXP0m-Ly"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Puzzle & Dragons"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CC4Q_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCFpeMfPNft6kaaK_tXyNrIA/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCFpeMfPNft6kaaK_tXyNrIA",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCFpeMfPNft6kaaK_tXyNrIA"
+                                        }
+                                    },
+                                    "trackingParams": "CC4Q_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.3K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.3K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CC0Qj5cDGBwiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "3D Driving Class"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/myAdJzVjVtolsIh__NkOv6Y4cMwXfbc0hnSPGpRA5VzFtW4RwSVKpzN1KjfBKAKQHS-JKDkR47E"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "3D Driving Class"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CCwQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCU64i0qoq-6DireXihsJFhQ/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCU64i0qoq-6DireXihsJFhQ",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCU64i0qoq-6DireXihsJFhQ"
+                                        }
+                                    },
+                                    "trackingParams": "CCwQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.3K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.3K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CCsQj5cDGB0iEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "WWE SuperCard"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/1m1vuyGVYKtN1uxQVU3834J6p90iW8Ohrzl2E-3-VHvXTbZp1asS8EtteAg7GBsY1hnDxe54"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "WWE SuperCard"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CCoQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCI3pWQ93H0tO6cXBelV15aA/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCI3pWQ93H0tO6cXBelV15aA",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCI3pWQ93H0tO6cXBelV15aA"
+                                        }
+                                    },
+                                    "trackingParams": "CCoQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.3K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.3K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CCkQj5cDGB4iEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Dragon Quest IV"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/66d93sh6M-sOmQJfPth22PIutt9xXzcu5v2oncyJVbTFTeBpJyVAKZaoqGiuwcp-m2lYjgrS"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Dragon Quest IV"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CCgQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCDKpcG-Pye1XzeiedhGvTHA/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCDKpcG-Pye1XzeiedhGvTHA",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCDKpcG-Pye1XzeiedhGvTHA"
+                                        }
+                                    },
+                                    "trackingParams": "CCgQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.2K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.2K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CCcQj5cDGB8iEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "iRacing"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/7D3JsDtXdPZqYAiR3y9hT2o9p8_r4MtSxLqI4XUip1iHMhKIBGk72H_rC4M3MU6IJDT3AZxm"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "iRacing"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CCYQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCHy30iiRnjv1uLRSo0MC2fA/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCHy30iiRnjv1uLRSo0MC2fA",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCHy30iiRnjv1uLRSo0MC2fA"
+                                        }
+                                    },
+                                    "trackingParams": "CCYQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.2K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.2K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CCUQj5cDGCAiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Assetto Corsa Competizione"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/x0JRWOyvx-LSx10N7mA9QkAU7GXTXBBu-MdORsH3lx7pN-k8lvyn6VGiX4wPKfxGtRsnp29m2PI"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Assetto Corsa Competizione"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CCQQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCuzpWSAFhYvcTfgrPdbdVQQ/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCuzpWSAFhYvcTfgrPdbdVQQ",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCuzpWSAFhYvcTfgrPdbdVQQ"
+                                        }
+                                    },
+                                    "trackingParams": "CCQQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.2K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.2K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CCMQj5cDGCEiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "World of Tanks Blitz"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/4hOsXZTy3eigGIlGMUOH_31_xxhgVuby8aokoS_AEB-Fi4x-fqRf8Lew6EpyWm4sr0C02FR4_F4"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "World of Tanks Blitz"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CCIQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCdh5nPkwot-fYsKXY2yL4UQ/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCdh5nPkwot-fYsKXY2yL4UQ",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCdh5nPkwot-fYsKXY2yL4UQ"
+                                        }
+                                    },
+                                    "trackingParams": "CCIQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.2K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.2K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CCEQj5cDGCIiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Raid: Shadow Legends"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/CWaFdfusUMzBNhMQzgHKDsYKSwfl2GQESU6owK7wT_Racn5RKjmFV9zVtQ3TDetpsqIgFKOulA"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Raid: Shadow Legends"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CCAQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UC2mDK0bTBL3wbA8wTHGw5pA/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UC2mDK0bTBL3wbA8wTHGw5pA",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UC2mDK0bTBL3wbA8wTHGw5pA"
+                                        }
+                                    },
+                                    "trackingParams": "CCAQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.1K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.1K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CB8Qj5cDGCMiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Atomic Heart"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/WTM4Zh-us35Uv_WBeiPryOsL9w3T87TQIs1g8JYBVvXlcAkBNDGOecCuCLPJm32EjMjKLmIBuA"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Atomic Heart"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CB4Q_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCNqs7KD9EWwNjvQPeJsnj6w/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCNqs7KD9EWwNjvQPeJsnj6w",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCNqs7KD9EWwNjvQPeJsnj6w"
+                                        }
+                                    },
+                                    "trackingParams": "CB4Q_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1.1K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1.1K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CB0Qj5cDGCQiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Resident Evil 4"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/jlmSe083bYT9u9ZfWNSj08wk_07urutVYq38NnONHBejiUGGR2AuSZn-Uy0l1K387glqQmbi"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Resident Evil 4"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CBwQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCM8TAMpe51T6d9tcJNJjJGg/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCM8TAMpe51T6d9tcJNJjJGg",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCM8TAMpe51T6d9tcJNJjJGg"
+                                        }
+                                    },
+                                    "trackingParams": "CBwQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CBsQj5cDGCUiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Lineage II"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/bDf47YLu7E3XbI2QOH0D3biMJ7kxzn-ZU-1pvDtrG-LhiTCZg_K96qDSg9rfdFmzwRWGfbfdTA"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Lineage II"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CBoQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UC_9AMA2Uty5pMlyFeCtYCJw/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UC_9AMA2Uty5pMlyFeCtYCJw",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UC_9AMA2Uty5pMlyFeCtYCJw"
+                                        }
+                                    },
+                                    "trackingParams": "CBoQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CBkQj5cDGCYiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Heroes of Might and Magic III"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/DceEBWRtoJHjWf1piVWzYCVhP0aG0HhL2g5dQ4YoQlbOvCaDKrkKgKhw-nV-4LLXrWwfV0PEAHk"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Heroes of Might and Magic III"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CBgQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCzQ4Ib7Ys8GBVw1-dawJm4w/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCzQ4Ib7Ys8GBVw1-dawJm4w",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCzQ4Ib7Ys8GBVw1-dawJm4w"
+                                        }
+                                    },
+                                    "trackingParams": "CBgQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CBcQj5cDGCciEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Pokémon Platinum"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/kvhK8mFAII1IvBG4KFPuYt5GdnMbBMq0gcfk92nTT40ervt0eBfA8-4U0A591ztEC4j5jEhcBA"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Pokémon Platinum"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CBYQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCupUx1V1ae1Dy9HovN4Q2Lg/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCupUx1V1ae1Dy9HovN4Q2Lg",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCupUx1V1ae1Dy9HovN4Q2Lg"
+                                        }
+                                    },
+                                    "trackingParams": "CBYQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "1K"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "1K watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CBUQj5cDGCgiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Ragnarok Origin"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/d_pw07jq9Wno67MEcP4B4qx6IAYksiigADfX_HGLWBaI95FfiJElRh6IOm9ggu6syQtmV4rl7A"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Ragnarok Origin"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CBQQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCEoT-qpcKYx44AeOuGWwG9w/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCEoT-qpcKYx44AeOuGWwG9w",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCEoT-qpcKYx44AeOuGWwG9w"
+                                        }
+                                    },
+                                    "trackingParams": "CBQQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "970"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "970 watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": false
+                                }
+                            },
+                            "trackingParams": "CBMQj5cDGCkiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "War Thunder"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/USeH2o8Gmr6syZK5k9K1U86r3XrJetNZiVipvXGi21XqT72R6SEK3U1F31_VYlpAPf8gXWx7IzA"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "War Thunder"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CBIQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCxWC74t6KXpxWOO3TxnKPWw/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCxWC74t6KXpxWOO3TxnKPWw",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCxWC74t6KXpxWOO3TxnKPWw"
+                                        }
+                                    },
+                                    "trackingParams": "CBIQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "954"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "954 watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CBEQj5cDGCoiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Goddess of Victory: Nikke"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/q2aQWwOxu9ylwROYqjB3_YMtCyG-T-8v_elvPScz_8tqxnPk7gKSKu1ijnkfcJ5UGm9F8Z6kpw"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Goddess of Victory: Nikke"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CBAQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCQG2PlaPhW9XpqQRSSiPRXg/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCQG2PlaPhW9XpqQRSSiPRXg",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCQG2PlaPhW9XpqQRSSiPRXg"
+                                        }
+                                    },
+                                    "trackingParams": "CBAQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "920"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "920 watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CA8Qj5cDGCsiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Mobile Suit Gundam: Battle Operation 2"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/V5HsYxKrtYi-oEEUmRYrRy0bvedQWjoBwSlXwoSVGAHPMU51T_ojLtkPkYrwadmOUqI_zU4OBQ"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Mobile Suit Gundam: Battle Operation 2"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CA4Q_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCwABnPCV46EkkgaPYbdknmg/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCwABnPCV46EkkgaPYbdknmg",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCwABnPCV46EkkgaPYbdknmg"
+                                        }
+                                    },
+                                    "trackingParams": "CA4Q_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "919"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "919 watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CA0Qj5cDGCwiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Diablo II: Resurrected"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/vy7teDNU82K2VqYmOfuDQMt0QWUhCbgc-SWmwvni5J-MEFiyI_diL_sP1cUFBJx8NO-TYqJnsQ"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Diablo II: Resurrected"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CAwQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCiyaLiYD54VMC749WbqLZoQ/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCiyaLiYD54VMC749WbqLZoQ",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCiyaLiYD54VMC749WbqLZoQ"
+                                        }
+                                    },
+                                    "trackingParams": "CAwQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "886"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "886 watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CAsQj5cDGC0iEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "The Sims 4"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/_5NtJzI5eLHILVPDtK8ApJAf4DTSTOcpLXPdSFXVasAMGvNK6CpM9lPzv9D2NyHU2jRBi2QMNg"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "The Sims 4"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CAoQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCXzpX-rTi13etXc1UP3Cn4Q/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCXzpX-rTi13etXc1UP3Cn4Q",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCXzpX-rTi13etXc1UP3Cn4Q"
+                                        }
+                                    },
+                                    "trackingParams": "CAoQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "878"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "878 watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CAkQj5cDGC4iEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "ARK: Survival Evolved"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/9zCqFm1JG2bNfkIHOvDdoTEzq4wgVjCu_TyHDnyvQZJsFJNG15_H4HeQi1zb2X6WF044Rybc"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "ARK: Survival Evolved"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CAgQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCqAlZ9V7oEmUzvPUWA3G3ng/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCqAlZ9V7oEmUzvPUWA3G3ng",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCqAlZ9V7oEmUzvPUWA3G3ng"
+                                        }
+                                    },
+                                    "trackingParams": "CAgQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "854"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "854 watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CAcQj5cDGC8iEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Sound Voltex III: Gravity Wars e-Amusement Cloud"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/gex2mXd7wm7BZ6vljS-91G3pigTFomTahY9Rh0vuXwAA4ev1LF9gRsYNXbt2_iqd9u4TPAowYw"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Sound Voltex III: Gravity Wars e-Amusement Cloud"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CAYQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCVHZ6JvX_vrBIbocVJzitPg/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCVHZ6JvX_vrBIbocVJzitPg",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCVHZ6JvX_vrBIbocVJzitPg"
+                                        }
+                                    },
+                                    "trackingParams": "CAYQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "854"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "854 watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": false
+                                }
+                            },
+                            "trackingParams": "CAUQj5cDGDAiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Call of Duty: Modern Warfare II"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/6uadA7zs9cMAisY_4UHb08D9XNQCiS0m9zpZmpMKrEeryt0Rweq40PWHBgEPGKWXdFEcNmCoktU"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Call of Duty: Modern Warfare II"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CAQQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UC28ZciCEOs5ruffKqyvrcYA/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UC28ZciCEOs5ruffKqyvrcYA",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UC28ZciCEOs5ruffKqyvrcYA"
+                                        }
+                                    },
+                                    "trackingParams": "CAQQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "823"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "823 watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CAMQj5cDGDEiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "gameCardRenderer": {
+                            "game": {
+                                "gameDetailsRenderer": {
+                                    "title": {
+                                        "simpleText": "Dungeon Fighter Online"
+                                    },
+                                    "boxArt": {
+                                        "thumbnails": [
+                                            {
+                                                "url": "//yt3.googleusercontent.com/73lVtYBUAXKtYHOmfxmbY2-UJzkBFgjsSCaN06VQ9Ae8oddbAcn1z-aXJVNgIO_oiyJIXqYB0QY"
+                                            }
+                                        ]
+                                    },
+                                    "boxArtOverlayText": {
+                                        "simpleText": "Dungeon Fighter Online"
+                                    },
+                                    "endpoint": {
+                                        "clickTrackingParams": "CAIQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                        "commandMetadata": {
+                                            "webCommandMetadata": {
+                                                "url": "/channel/UCrfGJBzlq_KSnHOhFInjEdg/live",
+                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                "rootVe": 3611,
+                                                "apiUrl": "/youtubei/v1/browse"
+                                            }
+                                        },
+                                        "browseEndpoint": {
+                                            "browseId": "UCrfGJBzlq_KSnHOhFInjEdg",
+                                            "params": "EgRsaXZl",
+                                            "canonicalBaseUrl": "/channel/UCrfGJBzlq_KSnHOhFInjEdg"
+                                        }
+                                    },
+                                    "trackingParams": "CAIQ_mEiEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                    "liveViewersText": {
+                                        "runs": [
+                                            {
+                                                "text": "823"
+                                            },
+                                            {
+                                                "text": " watching worldwide"
+                                            }
+                                        ],
+                                        "accessibility": {
+                                            "accessibilityData": {
+                                                "label": "823 watching worldwide"
+                                            }
+                                        }
+                                    },
+                                    "isOfficialBoxArt": true
+                                }
+                            },
+                            "trackingParams": "CAEQj5cDGDIiEwiFh5ehtNT9AhXLupwKHeroDU4="
+                        }
+                    },
+                    {
+                        "continuationItemRenderer": {
+                            "trigger": "CONTINUATION_TRIGGER_ON_ITEM_SHOWN",
+                            "continuationEndpoint": {
+                                "clickTrackingParams": "CAAQhGciEwiFh5ehtNT9AhXLupwKHeroDU4=",
+                                "commandMetadata": {
+                                    "webCommandMetadata": {
+                                        "sendPost": true,
+                                        "apiUrl": "/youtubei/v1/browse"
+                                    }
+                                },
+                                "continuationCommand": {
+                                    "token": "4qmFsgLrAhIYVUNPcE5jTjQ2VWJYVnRwS01ybVU0QWJnGqACRWdWbllXMWxjLW9EeUFGSGNFMUNWMjlSUWtOdlJVSkRhWFExWkVZNWQxbFhaR3hZTTA1MVdWaENlbUZIT1RCWU1rNTJZbTVTYkdKdVVtWmtiVlo1WkVkc2FsbFhlSHBZTTBwc1dqSnNkbUp0Um5ORmFEbFNaVVZXVEdWWVFsaGFNMVYwWXpGS1VsTnNVbFZYUXpGRlZraEpOVkp1WkhOWGFrSnBXV3hLYmtkcVJVRkJSMVoxUVVGR1JGRlJRVUpSTUVWQlFWRkNSMUpYWkdoaVYyeDFXakU1YTFwWVRqQmhWelZvWkVkc2RtSm5RVUpCVVVWQlFVRkZRVUZSUVVGQlVVVkJPSFJ4ZW5GbmIwZFJRVVpKV2taQmVRJTNEJTNEmgIrYnJvd3NlLWZlZWRVQ09wTmNONDZVYlhWdHBLTXJtVTRBYmdnYW1lczIzNQ%3D%3D",
+                                    "request": "CONTINUATION_REQUEST_TYPE_BROWSE"
+                                }
+                            }
+                        }
+                    }
+                ],
+                "targetId": "browse-feedUCOpNcN46UbXVtpKMrmU4Abggames235"
+            }
+        }
+    ]
+}

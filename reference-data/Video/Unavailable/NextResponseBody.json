@@ -1,0 +1,1427 @@
+{
+    "responseContext": {
+        "serviceTrackingParams": [
+            {
+                "service": "CSI",
+                "params": [
+                    {
+                        "key": "c",
+                        "value": "WEB"
+                    },
+                    {
+                        "key": "cver",
+                        "value": "2.20230323.03.00"
+                    },
+                    {
+                        "key": "yt_li",
+                        "value": "0"
+                    },
+                    {
+                        "key": "GetWatchNext_rid",
+                        "value": "0xd24e8f0f8d547878"
+                    }
+                ]
+            },
+            {
+                "service": "GFEEDBACK",
+                "params": [
+                    {
+                        "key": "logged_in",
+                        "value": "0"
+                    },
+                    {
+                        "key": "e",
+                        "value": "1714257,9405994,23804281,23918597,23946420,23966208,23983296,23998056,24004644,24007246,24017848,24034168,24036948,24077241,24080738,24120819,24135310,24140247,24151681,24162920,24166867,24169501,24181174,24187043,24187377,24197450,24211178,24219713,24224266,24235780,24240252,24241378,24248091,24255543,24255545,24262346,24263796,24268142,24283093,24288047,24288419,24288664,24290971,24291857,24390675,24391539,24392526,24396645,24404640,24404908,24406363,24407191,24407444,24409417,24412855,24414717,24415864,24415866,24416291,24417875,24426636,24428902,24429092,24430079,24433679,24437577,24439361,24439483,24440132,24443594,24444320,24447993,24449113,24449516,24450367,24452377,24453129,24454095,24455284,24458317,24458324,24458329,24458839,24459435,24465011,24465097,24466371,24466456,24466828,24466859,24467896,24468724,24473424,24477512,24479962,24481771,24482081,24482433,24483503,24484079,24485239,24485421,24486580,24487928,24489232,24490469,24491072,24491532,24493736,24494066,24494077,24494198,24494313,24494988,24494993,24495060,24495841,24495958,24495971,24495984,24496316,24496739,24496968,24499276,24499293,24499306,24499568,24499577,24499792,24499874,24512687,24512929,24515366,24515424,24515707,24591058,39323074"
+                    }
+                ]
+            },
+            {
+                "service": "GUIDED_HELP",
+                "params": [
+                    {
+                        "key": "logged_in",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "service": "ECATCHER",
+                "params": [
+                    {
+                        "key": "client.version",
+                        "value": "2.20230323"
+                    },
+                    {
+                        "key": "client.name",
+                        "value": "WEB"
+                    },
+                    {
+                        "key": "client.fexp",
+                        "value": "24482433,24440132,24428902,24120819,24240252,24486580,24036948,24255545,24452377,24491072,24466371,24491532,24443594,24458329,24390675,24489232,24496968,24466859,24391539,24396645,24415864,24459435,24283093,24494313,24468724,24017848,24515424,24485239,24466828,24241378,24417875,24591058,24495971,24499293,24430079,24494988,24499874,24262346,24449516,24169501,24466456,24495841,24416291,24415866,1714257,24197450,24224266,24465097,24454095,24181174,24166867,24490469,24404640,24494198,24034168,24453129,24479962,24439483,24211178,24458839,24162920,24429092,24499276,24467896,24499568,24255543,24495958,24447993,24481771,24512687,24458317,24414717,24496316,24515707,24458324,24449113,24406363,24235780,24187043,24433679,24473424,24290971,24288664,24263796,24515366,9405994,24437577,24499792,24439361,24512929,24392526,24404908,24077241,23918597,24004644,24477512,24493736,24482081,24455284,24484079,24007246,24187377,24495060,24494993,24412855,24499577,24409417,24268142,24483503,23998056,24426636,24494066,23804281,24485421,24407191,24140247,24288419,24465011,24407444,24495984,24499306,23983296,24496739,24080738,24135310,24291857,24151681,24219713,23966208,39323074,24288047,24487928,24494077,24248091,23946420,24444320,24450367"
+                    }
+                ]
+            }
+        ],
+        "mainAppWebResponseContext": {
+            "loggedOut": true
+        },
+        "webResponseContextExtensionData": {
+            "webPrefetchData": {
+                "navigationEndpoints": [
+                    {
+                        "clickTrackingParams": "CAAQg2ciEwjOg_a0qfX9AhXy8GAKHeifA_8yCGF1dG9wbGF5SOOU6oKJhYvx5AGaAQUIEBD4HQ==",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "url": "/watch?v=50NRRzL-DXo&list=PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU&index=2&pp=QAFIAQ%3D%3D",
+                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                "rootVe": 3832
+                            }
+                        },
+                        "watchEndpoint": {
+                            "videoId": "50NRRzL-DXo",
+                            "playlistId": "PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU",
+                            "index": 1,
+                            "params": "EAEYATgBYgBoANoBAggB",
+                            "playerParams": "QAFIAQ%3D%3D",
+                            "loggingContext": {
+                                "vssLoggingContext": {
+                                    "serializedContextData": "GiJQTHc5aVdpYmpsaG54WUduU1N4dGpJZTJIVWRMYzlDbGlV"
+                                }
+                            },
+                            "watchEndpointSupportedPrefetchConfig": {
+                                "prefetchHintConfig": {
+                                    "prefetchPriority": 0,
+                                    "playbackRelativeSecondsPrefetchCondition": -3
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "clickTrackingParams": "CAAQg2ciEwjOg_a0qfX9AhXy8GAKHeifA_8yCGF1dG9wbGF5SOOU6oKJhYvx5AGaAQUIEBD4HQ==",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "url": "/watch?v=50NRRzL-DXo&list=PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU&index=2&pp=QAFIAQ%3D%3D",
+                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                "rootVe": 3832
+                            }
+                        },
+                        "watchEndpoint": {
+                            "videoId": "50NRRzL-DXo",
+                            "playlistId": "PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU",
+                            "index": 1,
+                            "params": "EAEYATgBYgBoANoBAggB",
+                            "playerParams": "QAFIAQ%3D%3D",
+                            "loggingContext": {
+                                "vssLoggingContext": {
+                                    "serializedContextData": "GiJQTHc5aVdpYmpsaG54WUduU1N4dGpJZTJIVWRMYzlDbGlV"
+                                }
+                            },
+                            "watchEndpointSupportedPrefetchConfig": {
+                                "prefetchHintConfig": {
+                                    "prefetchPriority": 0,
+                                    "playbackRelativeSecondsPrefetchCondition": -3
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "clickTrackingParams": "CAAQg2ciEwjOg_a0qfX9AhXy8GAKHeifA_8yCGF1dG9wbGF5SOOU6oKJhYvx5AGaAQUIEBD4HQ==",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "url": "/watch?v=50NRRzL-DXo&list=PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU&index=2&pp=QAFIAQ%3D%3D",
+                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                "rootVe": 3832
+                            }
+                        },
+                        "watchEndpoint": {
+                            "videoId": "50NRRzL-DXo",
+                            "playlistId": "PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU",
+                            "index": 1,
+                            "params": "EAEYATgBYgBoANoBAggB",
+                            "playerParams": "QAFIAQ%3D%3D",
+                            "loggingContext": {
+                                "vssLoggingContext": {
+                                    "serializedContextData": "GiJQTHc5aVdpYmpsaG54WUduU1N4dGpJZTJIVWRMYzlDbGlV"
+                                }
+                            },
+                            "watchEndpointSupportedPrefetchConfig": {
+                                "prefetchHintConfig": {
+                                    "prefetchPriority": 0,
+                                    "playbackRelativeSecondsPrefetchCondition": -3
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "clickTrackingParams": "CAAQg2ciEwjOg_a0qfX9AhXy8GAKHeifA_8yCGF1dG9wbGF5SOOU6oKJhYvx5AGaAQUIEBD4HQ==",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "url": "/watch?v=50NRRzL-DXo&list=PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU&index=2&pp=QAFIAQ%3D%3D",
+                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                "rootVe": 3832
+                            }
+                        },
+                        "watchEndpoint": {
+                            "videoId": "50NRRzL-DXo",
+                            "playlistId": "PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU",
+                            "index": 1,
+                            "params": "EAEYAzgBYgBoANoBAggB",
+                            "playerParams": "QAFIAQ%3D%3D",
+                            "loggingContext": {
+                                "vssLoggingContext": {
+                                    "serializedContextData": "GiJQTHc5aVdpYmpsaG54WUduU1N4dGpJZTJIVWRMYzlDbGlV"
+                                }
+                            },
+                            "watchEndpointSupportedPrefetchConfig": {
+                                "prefetchHintConfig": {
+                                    "prefetchPriority": 0,
+                                    "playbackRelativeSecondsPrefetchCondition": -3
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "clickTrackingParams": "CAAQg2ciEwjOg_a0qfX9AhXy8GAKHeifA_8yCGF1dG9wbGF5SOOU6oKJhYvx5AGaAQUIEBD4HQ==",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "url": "/watch?v=50NRRzL-DXo&list=PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU&index=2&pp=QAFIAQ%3D%3D",
+                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                "rootVe": 3832
+                            }
+                        },
+                        "watchEndpoint": {
+                            "videoId": "50NRRzL-DXo",
+                            "playlistId": "PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU",
+                            "index": 1,
+                            "params": "EAEYAzgBYgBoANoBAggB",
+                            "playerParams": "QAFIAQ%3D%3D",
+                            "loggingContext": {
+                                "vssLoggingContext": {
+                                    "serializedContextData": "GiJQTHc5aVdpYmpsaG54WUduU1N4dGpJZTJIVWRMYzlDbGlV"
+                                }
+                            },
+                            "watchEndpointSupportedPrefetchConfig": {
+                                "prefetchHintConfig": {
+                                    "prefetchPriority": 0,
+                                    "playbackRelativeSecondsPrefetchCondition": -3
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "clickTrackingParams": "CAAQg2ciEwjOg_a0qfX9AhXy8GAKHeifA_8yCGF1dG9wbGF5SOOU6oKJhYvx5AGaAQUIEBD4HQ==",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "url": "/watch?v=50NRRzL-DXo&list=PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU&index=2&pp=QAFIAQ%3D%3D",
+                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                "rootVe": 3832
+                            }
+                        },
+                        "watchEndpoint": {
+                            "videoId": "50NRRzL-DXo",
+                            "playlistId": "PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU",
+                            "index": 1,
+                            "params": "EAEYAzgBYgBoANoBAggB",
+                            "playerParams": "QAFIAQ%3D%3D",
+                            "loggingContext": {
+                                "vssLoggingContext": {
+                                    "serializedContextData": "GiJQTHc5aVdpYmpsaG54WUduU1N4dGpJZTJIVWRMYzlDbGlV"
+                                }
+                            },
+                            "watchEndpointSupportedPrefetchConfig": {
+                                "prefetchHintConfig": {
+                                    "prefetchPriority": 0,
+                                    "playbackRelativeSecondsPrefetchCondition": -3
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "clickTrackingParams": "CAAQg2ciEwjOg_a0qfX9AhXy8GAKHeifA_8yCGF1dG9wbGF5SOOU6oKJhYvx5AGaAQUIEBD4HQ==",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "url": "/watch?v=PEohTRTsI4w&list=PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU&index=19&pp=QAFIAQ%3D%3D",
+                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                "rootVe": 3832
+                            }
+                        },
+                        "watchEndpoint": {
+                            "videoId": "PEohTRTsI4w",
+                            "playlistId": "PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU",
+                            "index": 18,
+                            "params": "CO09EAEYAiAAOAFiAGgA2gECCAE%3D",
+                            "playerParams": "QAFIAQ%3D%3D",
+                            "loggingContext": {
+                                "vssLoggingContext": {
+                                    "serializedContextData": "GiJQTHc5aVdpYmpsaG54WUduU1N4dGpJZTJIVWRMYzlDbGlV"
+                                }
+                            },
+                            "watchEndpointSupportedPrefetchConfig": {
+                                "prefetchHintConfig": {
+                                    "prefetchPriority": 0,
+                                    "playbackRelativeSecondsPrefetchCondition": -3
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "clickTrackingParams": "CAAQg2ciEwjOg_a0qfX9AhXy8GAKHeifA_8yCGF1dG9wbGF5SOOU6oKJhYvx5AGaAQUIEBD4HQ==",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "url": "/watch?v=PEohTRTsI4w&list=PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU&index=19&pp=QAFIAQ%3D%3D",
+                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                "rootVe": 3832
+                            }
+                        },
+                        "watchEndpoint": {
+                            "videoId": "PEohTRTsI4w",
+                            "playlistId": "PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU",
+                            "index": 18,
+                            "params": "CO09EAEYAiAAOAFiAGgA2gECCAE%3D",
+                            "playerParams": "QAFIAQ%3D%3D",
+                            "loggingContext": {
+                                "vssLoggingContext": {
+                                    "serializedContextData": "GiJQTHc5aVdpYmpsaG54WUduU1N4dGpJZTJIVWRMYzlDbGlV"
+                                }
+                            },
+                            "watchEndpointSupportedPrefetchConfig": {
+                                "prefetchHintConfig": {
+                                    "prefetchPriority": 0,
+                                    "playbackRelativeSecondsPrefetchCondition": -3
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "clickTrackingParams": "CAAQg2ciEwjOg_a0qfX9AhXy8GAKHeifA_8yCGF1dG9wbGF5SOOU6oKJhYvx5AGaAQUIEBD4HQ==",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "url": "/watch?v=PEohTRTsI4w&list=PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU&index=19&pp=QAFIAQ%3D%3D",
+                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                "rootVe": 3832
+                            }
+                        },
+                        "watchEndpoint": {
+                            "videoId": "PEohTRTsI4w",
+                            "playlistId": "PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU",
+                            "index": 18,
+                            "params": "CO09EAEYAiAAOAFiAGgA2gECCAE%3D",
+                            "playerParams": "QAFIAQ%3D%3D",
+                            "loggingContext": {
+                                "vssLoggingContext": {
+                                    "serializedContextData": "GiJQTHc5aVdpYmpsaG54WUduU1N4dGpJZTJIVWRMYzlDbGlV"
+                                }
+                            },
+                            "watchEndpointSupportedPrefetchConfig": {
+                                "prefetchHintConfig": {
+                                    "prefetchPriority": 0,
+                                    "playbackRelativeSecondsPrefetchCondition": -3
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "clickTrackingParams": "CAAQg2ciEwjOg_a0qfX9AhXy8GAKHeifA_8yCGF1dG9wbGF5SOOU6oKJhYvx5AGaAQUIEBD4HQ==",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "url": "/watch?v=PEohTRTsI4w&list=PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU&index=19&pp=QAFIAQ%3D%3D",
+                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                "rootVe": 3832
+                            }
+                        },
+                        "watchEndpoint": {
+                            "videoId": "PEohTRTsI4w",
+                            "playlistId": "PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU",
+                            "index": 18,
+                            "params": "CO09EAEYBCAAOAFiAGgA2gECCAE%3D",
+                            "playerParams": "QAFIAQ%3D%3D",
+                            "loggingContext": {
+                                "vssLoggingContext": {
+                                    "serializedContextData": "GiJQTHc5aVdpYmpsaG54WUduU1N4dGpJZTJIVWRMYzlDbGlV"
+                                }
+                            },
+                            "watchEndpointSupportedPrefetchConfig": {
+                                "prefetchHintConfig": {
+                                    "prefetchPriority": 0,
+                                    "playbackRelativeSecondsPrefetchCondition": -3
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "clickTrackingParams": "CAAQg2ciEwjOg_a0qfX9AhXy8GAKHeifA_8yCGF1dG9wbGF5SOOU6oKJhYvx5AGaAQUIEBD4HQ==",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "url": "/watch?v=PEohTRTsI4w&list=PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU&index=19&pp=QAFIAQ%3D%3D",
+                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                "rootVe": 3832
+                            }
+                        },
+                        "watchEndpoint": {
+                            "videoId": "PEohTRTsI4w",
+                            "playlistId": "PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU",
+                            "index": 18,
+                            "params": "CO09EAEYBCAAOAFiAGgA2gECCAE%3D",
+                            "playerParams": "QAFIAQ%3D%3D",
+                            "loggingContext": {
+                                "vssLoggingContext": {
+                                    "serializedContextData": "GiJQTHc5aVdpYmpsaG54WUduU1N4dGpJZTJIVWRMYzlDbGlV"
+                                }
+                            },
+                            "watchEndpointSupportedPrefetchConfig": {
+                                "prefetchHintConfig": {
+                                    "prefetchPriority": 0,
+                                    "playbackRelativeSecondsPrefetchCondition": -3
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "clickTrackingParams": "CAAQg2ciEwjOg_a0qfX9AhXy8GAKHeifA_8yCGF1dG9wbGF5SOOU6oKJhYvx5AGaAQUIEBD4HQ==",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "url": "/watch?v=PEohTRTsI4w&list=PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU&index=19&pp=QAFIAQ%3D%3D",
+                                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                                "rootVe": 3832
+                            }
+                        },
+                        "watchEndpoint": {
+                            "videoId": "PEohTRTsI4w",
+                            "playlistId": "PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU",
+                            "index": 18,
+                            "params": "CO09EAEYBCAAOAFiAGgA2gECCAE%3D",
+                            "playerParams": "QAFIAQ%3D%3D",
+                            "loggingContext": {
+                                "vssLoggingContext": {
+                                    "serializedContextData": "GiJQTHc5aVdpYmpsaG54WUduU1N4dGpJZTJIVWRMYzlDbGlV"
+                                }
+                            },
+                            "watchEndpointSupportedPrefetchConfig": {
+                                "prefetchHintConfig": {
+                                    "prefetchPriority": 0,
+                                    "playbackRelativeSecondsPrefetchCondition": -3
+                                }
+                            }
+                        }
+                    }
+                ]
+            },
+            "hasDecorated": true
+        }
+    },
+    "contents": {
+        "twoColumnWatchNextResults": {
+            "results": {
+                "results": {
+                    "contents": [
+                        {
+                            "itemSectionRenderer": {
+                                "contents": [
+                                    {
+                                        "backgroundPromoRenderer": {
+                                            "title": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Video unavailable"
+                                                    }
+                                                ]
+                                            },
+                                            "bodyText": {
+                                                "runs": [
+                                                    {
+                                                        "text": "This video is no longer available because the YouTube account associated with this video has been terminated."
+                                                    }
+                                                ]
+                                            },
+                                            "trackingParams": "CG4Q92QYACITCM6D9rSp9f0CFfLwYAod6J8D_w==",
+                                            "thumbnail": {
+                                                "thumbnails": [
+                                                    {
+                                                        "url": "https://www.youtube.com/img/desktop/unavailable/unavailable_video_dark_theme.png",
+                                                        "width": 278,
+                                                        "height": 161
+                                                    }
+                                                ]
+                                            },
+                                            "ctaButton": {
+                                                "buttonRenderer": {
+                                                    "style": "STYLE_SUGGESTIVE",
+                                                    "size": "SIZE_SMALL",
+                                                    "text": {
+                                                        "simpleText": "GO TO HOME"
+                                                    },
+                                                    "navigationEndpoint": {
+                                                        "clickTrackingParams": "CG8Qup8IIhMIzoP2tKn1_QIV8vBgCh3onwP_",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/",
+                                                                "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                                                                "rootVe": 3854,
+                                                                "apiUrl": "/youtubei/v1/browse"
+                                                            }
+                                                        },
+                                                        "browseEndpoint": {
+                                                            "browseId": "FEwhat_to_watch"
+                                                        }
+                                                    },
+                                                    "trackingParams": "CG8Qup8IIhMIzoP2tKn1_QIV8vBgCh3onwP_"
+                                                }
+                                            },
+                                            "style": {
+                                                "value": "BACKGROUND_PROMO_STYLE_TYPE_FULL_HEIGHT"
+                                            }
+                                        }
+                                    }
+                                ],
+                                "trackingParams": "CG0Quy8YACITCM6D9rSp9f0CFfLwYAod6J8D_w=="
+                            }
+                        }
+                    ],
+                    "trackingParams": "CGwQui8iEwjOg_a0qfX9AhXy8GAKHeifA_8="
+                }
+            }
+        }
+    },
+    "currentVideoEndpoint": {
+        "clickTrackingParams": "CAAQg2ciEwjOg_a0qfX9AhXy8GAKHeifA_8=",
+        "commandMetadata": {
+            "webCommandMetadata": {
+                "url": "/watch?v=5OIsKJBaimM&list=PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU&index=1",
+                "webPageType": "WEB_PAGE_TYPE_WATCH",
+                "rootVe": 3832
+            }
+        },
+        "watchEndpoint": {
+            "videoId": "5OIsKJBaimM",
+            "playlistId": "PLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU",
+            "index": 0,
+            "loggingContext": {
+                "vssLoggingContext": {
+                    "serializedContextData": "GiJQTHc5aVdpYmpsaG54WUduU1N4dGpJZTJIVWRMYzlDbGlV"
+                }
+            },
+            "watchEndpointSupportedOnesieConfig": {
+                "html5PlaybackOnesieConfig": {
+                    "commonConfig": {
+                        "url": "https://rr4---sn-x5nuapo3-ti1z.googlevideo.com/initplayback?source=youtube&oeis=1&c=WEB&oad=3200&ovd=3200&oaad=11000&oavd=11000&ocs=700&oewis=1&oputc=1&ofpcc=1&msp=1&odepv=1&id=e4e22c28905a8a63&ip=[REDACTED]&initcwndbps=2176250&mt=1679686647&oweuc="
+                    }
+                }
+            }
+        }
+    },
+    "trackingParams": "CAAQg2ciEwjOg_a0qfX9AhXy8GAKHeifA_8=",
+    "onResponseReceivedEndpoints": [
+        {
+            "clickTrackingParams": "CAAQg2ciEwjOg_a0qfX9AhXy8GAKHeifA_8=",
+            "commandMetadata": {
+                "webCommandMetadata": {
+                    "sendPost": true
+                }
+            },
+            "signalServiceEndpoint": {
+                "signal": "CLIENT_SIGNAL",
+                "actions": [
+                    {
+                        "clickTrackingParams": "CAAQg2ciEwjOg_a0qfX9AhXy8GAKHeifA_8=",
+                        "signalAction": {
+                            "signal": "ENABLE_CHROME_NOTIFICATIONS"
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    "engagementPanels": [
+        {
+            "engagementPanelSectionListRenderer": {
+                "content": {
+                    "adsEngagementPanelContentRenderer": {
+                        "hack": true
+                    }
+                },
+                "targetId": "engagement-panel-ads",
+                "visibility": "ENGAGEMENT_PANEL_VISIBILITY_HIDDEN",
+                "loggingDirectives": {
+                    "trackingParams": "CBAQ040EGAEiEwjOg_a0qfX9AhXy8GAKHeifA_8=",
+                    "visibility": {
+                        "types": "12"
+                    },
+                    "enableDisplayloggerExperiment": true
+                }
+            }
+        }
+    ],
+    "topbar": {
+        "desktopTopbarRenderer": {
+            "logo": {
+                "topbarLogoRenderer": {
+                    "iconImage": {
+                        "iconType": "YOUTUBE_LOGO"
+                    },
+                    "tooltipText": {
+                        "runs": [
+                            {
+                                "text": "YouTube Home"
+                            }
+                        ]
+                    },
+                    "endpoint": {
+                        "clickTrackingParams": "CA8QsV4iEwjOg_a0qfX9AhXy8GAKHeifA_8=",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "url": "/",
+                                "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                                "rootVe": 3854,
+                                "apiUrl": "/youtubei/v1/browse"
+                            }
+                        },
+                        "browseEndpoint": {
+                            "browseId": "FEwhat_to_watch"
+                        }
+                    },
+                    "trackingParams": "CA8QsV4iEwjOg_a0qfX9AhXy8GAKHeifA_8=",
+                    "overrideEntityKey": "EgZ0b3BiYXIg9QEoAQ%3D%3D"
+                }
+            },
+            "searchbox": {
+                "fusionSearchboxRenderer": {
+                    "icon": {
+                        "iconType": "SEARCH"
+                    },
+                    "placeholderText": {
+                        "runs": [
+                            {
+                                "text": "Search"
+                            }
+                        ]
+                    },
+                    "config": {
+                        "webSearchboxConfig": {
+                            "requestLanguage": "en",
+                            "requestDomain": "ca",
+                            "hasOnscreenKeyboard": false,
+                            "focusSearchbox": true
+                        }
+                    },
+                    "trackingParams": "CA0Q7VAiEwjOg_a0qfX9AhXy8GAKHeifA_8=",
+                    "searchEndpoint": {
+                        "clickTrackingParams": "CA0Q7VAiEwjOg_a0qfX9AhXy8GAKHeifA_8=",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "url": "/results?search_query=",
+                                "webPageType": "WEB_PAGE_TYPE_SEARCH",
+                                "rootVe": 4724
+                            }
+                        },
+                        "searchEndpoint": {
+                            "query": ""
+                        }
+                    },
+                    "clearButton": {
+                        "buttonRenderer": {
+                            "style": "STYLE_DEFAULT",
+                            "size": "SIZE_DEFAULT",
+                            "isDisabled": false,
+                            "icon": {
+                                "iconType": "CLOSE"
+                            },
+                            "trackingParams": "CA4Q8FsiEwjOg_a0qfX9AhXy8GAKHeifA_8=",
+                            "accessibilityData": {
+                                "accessibilityData": {
+                                    "label": "Clear search query"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingParams": "CAEQq6wBIhMIzoP2tKn1_QIV8vBgCh3onwP_",
+            "countryCode": "CA",
+            "topbarButtons": [
+                {
+                    "topbarMenuButtonRenderer": {
+                        "icon": {
+                            "iconType": "MORE_VERT"
+                        },
+                        "menuRequest": {
+                            "clickTrackingParams": "CAsQ_qsBGAAiEwjOg_a0qfX9AhXy8GAKHeifA_8=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "sendPost": true,
+                                    "apiUrl": "/youtubei/v1/account/account_menu"
+                                }
+                            },
+                            "signalServiceEndpoint": {
+                                "signal": "GET_ACCOUNT_MENU",
+                                "actions": [
+                                    {
+                                        "clickTrackingParams": "CAsQ_qsBGAAiEwjOg_a0qfX9AhXy8GAKHeifA_8=",
+                                        "openPopupAction": {
+                                            "popup": {
+                                                "multiPageMenuRenderer": {
+                                                    "trackingParams": "CAwQ_6sBIhMIzoP2tKn1_QIV8vBgCh3onwP_",
+                                                    "style": "MULTI_PAGE_MENU_STYLE_TYPE_SYSTEM",
+                                                    "showLoadingSpinner": true
+                                                }
+                                            },
+                                            "popupType": "DROPDOWN",
+                                            "beReused": true
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        "trackingParams": "CAsQ_qsBGAAiEwjOg_a0qfX9AhXy8GAKHeifA_8=",
+                        "accessibility": {
+                            "accessibilityData": {
+                                "label": "Settings"
+                            }
+                        },
+                        "tooltip": "Settings",
+                        "style": "STYLE_DEFAULT"
+                    }
+                },
+                {
+                    "buttonRenderer": {
+                        "style": "STYLE_SUGGESTIVE",
+                        "size": "SIZE_SMALL",
+                        "text": {
+                            "runs": [
+                                {
+                                    "text": "Sign in"
+                                }
+                            ]
+                        },
+                        "icon": {
+                            "iconType": "AVATAR_LOGGED_OUT"
+                        },
+                        "navigationEndpoint": {
+                            "clickTrackingParams": "CAoQ1IAEGAEiEwjOg_a0qfX9AhXy8GAKHeifA_8=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fwatch%253Fv%253D5OIsKJBaimM%2526list%253DPLw9iWibjlhnxYGnSSxtjIe2HUdLc9CliU%2526index%253D10&hl=en&ec=65620",
+                                    "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                    "rootVe": 83769
+                                }
+                            },
+                            "signInEndpoint": {
+                                "idamTag": "65620"
+                            }
+                        },
+                        "trackingParams": "CAoQ1IAEGAEiEwjOg_a0qfX9AhXy8GAKHeifA_8=",
+                        "targetId": "topbar-signin"
+                    }
+                }
+            ],
+            "hotkeyDialog": {
+                "hotkeyDialogRenderer": {
+                    "title": {
+                        "runs": [
+                            {
+                                "text": "Keyboard shortcuts"
+                            }
+                        ]
+                    },
+                    "sections": [
+                        {
+                            "hotkeyDialogSectionRenderer": {
+                                "title": {
+                                    "runs": [
+                                        {
+                                            "text": "Playback"
+                                        }
+                                    ]
+                                },
+                                "options": [
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Toggle play/pause"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "k"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Rewind 10 seconds"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "j"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Fast forward 10 seconds"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "l"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Previous video"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "P (SHIFT+p)"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Next video"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "N (SHIFT+n)"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Previous frame (while paused)"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": ",",
+                                            "hotkeyAccessibilityLabel": {
+                                                "accessibilityData": {
+                                                    "label": "Comma"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Next frame (while paused)"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": ".",
+                                            "hotkeyAccessibilityLabel": {
+                                                "accessibilityData": {
+                                                    "label": "Period"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Decrease playback rate"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "\u003c (SHIFT+,)",
+                                            "hotkeyAccessibilityLabel": {
+                                                "accessibilityData": {
+                                                    "label": "Less than or SHIFT + comma"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Increase playback rate"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "\u003e (SHIFT+.)",
+                                            "hotkeyAccessibilityLabel": {
+                                                "accessibilityData": {
+                                                    "label": "Greater than or SHIFT + period"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Seek to specific point in the video (7 advances to 70% of duration)"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "0..9"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Seek to previous chapter"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "CONTROL + ←"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Seek to next chapter"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "CONTROL + →"
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "hotkeyDialogSectionRenderer": {
+                                "title": {
+                                    "runs": [
+                                        {
+                                            "text": "General"
+                                        }
+                                    ]
+                                },
+                                "options": [
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Toggle full screen"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "f"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Toggle theater mode"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "t"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Toggle miniplayer"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "i"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Close miniplayer or current dialog"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "ESCAPE"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Toggle mute"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "m"
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "hotkeyDialogSectionRenderer": {
+                                "title": {
+                                    "runs": [
+                                        {
+                                            "text": "Subtitles and closed captions"
+                                        }
+                                    ]
+                                },
+                                "options": [
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "If the video supports captions, toggle captions ON/OFF"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "c"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Rotate through different text opacity levels"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "o"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Rotate through different window opacity levels"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "w"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Rotate through font sizes (increasing)"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "+"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Rotate through font sizes (decreasing)"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "-",
+                                            "hotkeyAccessibilityLabel": {
+                                                "accessibilityData": {
+                                                    "label": "Minus"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "hotkeyDialogSectionRenderer": {
+                                "title": {
+                                    "runs": [
+                                        {
+                                            "text": "Spherical Videos"
+                                        }
+                                    ]
+                                },
+                                "options": [
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Pan up"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "w"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Pan left"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "a"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Pan down"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "s"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Pan right"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "d"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Zoom in"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "+ on numpad or ]",
+                                            "hotkeyAccessibilityLabel": {
+                                                "accessibilityData": {
+                                                    "label": "Plus on number pad or right bracket"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Zoom out"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "- on numpad or [",
+                                            "hotkeyAccessibilityLabel": {
+                                                "accessibilityData": {
+                                                    "label": "Minus on number pad or left bracket"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "dismissButton": {
+                        "buttonRenderer": {
+                            "style": "STYLE_BLUE_TEXT",
+                            "size": "SIZE_DEFAULT",
+                            "isDisabled": false,
+                            "text": {
+                                "runs": [
+                                    {
+                                        "text": "Dismiss"
+                                    }
+                                ]
+                            },
+                            "trackingParams": "CAkQ8FsiEwjOg_a0qfX9AhXy8GAKHeifA_8="
+                        }
+                    },
+                    "trackingParams": "CAgQteYDIhMIzoP2tKn1_QIV8vBgCh3onwP_"
+                }
+            },
+            "backButton": {
+                "buttonRenderer": {
+                    "trackingParams": "CAcQvIYDIhMIzoP2tKn1_QIV8vBgCh3onwP_",
+                    "command": {
+                        "clickTrackingParams": "CAcQvIYDIhMIzoP2tKn1_QIV8vBgCh3onwP_",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "sendPost": true
+                            }
+                        },
+                        "signalServiceEndpoint": {
+                            "signal": "CLIENT_SIGNAL",
+                            "actions": [
+                                {
+                                    "clickTrackingParams": "CAcQvIYDIhMIzoP2tKn1_QIV8vBgCh3onwP_",
+                                    "signalAction": {
+                                        "signal": "HISTORY_BACK"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "forwardButton": {
+                "buttonRenderer": {
+                    "trackingParams": "CAYQvYYDIhMIzoP2tKn1_QIV8vBgCh3onwP_",
+                    "command": {
+                        "clickTrackingParams": "CAYQvYYDIhMIzoP2tKn1_QIV8vBgCh3onwP_",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "sendPost": true
+                            }
+                        },
+                        "signalServiceEndpoint": {
+                            "signal": "CLIENT_SIGNAL",
+                            "actions": [
+                                {
+                                    "clickTrackingParams": "CAYQvYYDIhMIzoP2tKn1_QIV8vBgCh3onwP_",
+                                    "signalAction": {
+                                        "signal": "HISTORY_FORWARD"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "a11ySkipNavigationButton": {
+                "buttonRenderer": {
+                    "style": "STYLE_DEFAULT",
+                    "size": "SIZE_DEFAULT",
+                    "isDisabled": false,
+                    "text": {
+                        "runs": [
+                            {
+                                "text": "Skip navigation"
+                            }
+                        ]
+                    },
+                    "trackingParams": "CAUQ8FsiEwjOg_a0qfX9AhXy8GAKHeifA_8=",
+                    "command": {
+                        "clickTrackingParams": "CAUQ8FsiEwjOg_a0qfX9AhXy8GAKHeifA_8=",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "sendPost": true
+                            }
+                        },
+                        "signalServiceEndpoint": {
+                            "signal": "CLIENT_SIGNAL",
+                            "actions": [
+                                {
+                                    "clickTrackingParams": "CAUQ8FsiEwjOg_a0qfX9AhXy8GAKHeifA_8=",
+                                    "signalAction": {
+                                        "signal": "SKIP_NAVIGATION"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "voiceSearchButton": {
+                "buttonRenderer": {
+                    "style": "STYLE_DEFAULT",
+                    "size": "SIZE_DEFAULT",
+                    "isDisabled": false,
+                    "serviceEndpoint": {
+                        "clickTrackingParams": "CAIQ7a8FIhMIzoP2tKn1_QIV8vBgCh3onwP_",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "sendPost": true
+                            }
+                        },
+                        "signalServiceEndpoint": {
+                            "signal": "CLIENT_SIGNAL",
+                            "actions": [
+                                {
+                                    "clickTrackingParams": "CAIQ7a8FIhMIzoP2tKn1_QIV8vBgCh3onwP_",
+                                    "openPopupAction": {
+                                        "popup": {
+                                            "voiceSearchDialogRenderer": {
+                                                "placeholderHeader": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Listening..."
+                                                        }
+                                                    ]
+                                                },
+                                                "promptHeader": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Didn't hear that. Try again."
+                                                        }
+                                                    ]
+                                                },
+                                                "exampleQuery1": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "\"Play Dua Lipa\""
+                                                        }
+                                                    ]
+                                                },
+                                                "exampleQuery2": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "\"Show me my subscriptions\""
+                                                        }
+                                                    ]
+                                                },
+                                                "promptMicrophoneLabel": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Tap microphone to try again"
+                                                        }
+                                                    ]
+                                                },
+                                                "loadingHeader": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Working..."
+                                                        }
+                                                    ]
+                                                },
+                                                "connectionErrorHeader": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "No connection"
+                                                        }
+                                                    ]
+                                                },
+                                                "connectionErrorMicrophoneLabel": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Check your connection and try again"
+                                                        }
+                                                    ]
+                                                },
+                                                "permissionsHeader": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Waiting for permission"
+                                                        }
+                                                    ]
+                                                },
+                                                "permissionsSubtext": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Allow microphone access to search with voice"
+                                                        }
+                                                    ]
+                                                },
+                                                "disabledHeader": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Search with your voice"
+                                                        }
+                                                    ]
+                                                },
+                                                "disabledSubtext": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "To search by voice, go to your browser settings and allow access to microphone"
+                                                        }
+                                                    ]
+                                                },
+                                                "microphoneButtonAriaLabel": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Cancel"
+                                                        }
+                                                    ]
+                                                },
+                                                "exitButton": {
+                                                    "buttonRenderer": {
+                                                        "style": "STYLE_DEFAULT",
+                                                        "size": "SIZE_DEFAULT",
+                                                        "isDisabled": false,
+                                                        "icon": {
+                                                            "iconType": "CLOSE"
+                                                        },
+                                                        "trackingParams": "CAQQ0LEFIhMIzoP2tKn1_QIV8vBgCh3onwP_",
+                                                        "accessibilityData": {
+                                                            "accessibilityData": {
+                                                                "label": "Cancel"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "trackingParams": "CAMQ7q8FIhMIzoP2tKn1_QIV8vBgCh3onwP_",
+                                                "microphoneOffPromptHeader": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Microphone off. Try again."
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        },
+                                        "popupType": "TOP_ALIGNED_DIALOG"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "icon": {
+                        "iconType": "MICROPHONE_ON"
+                    },
+                    "tooltip": "Search with your voice",
+                    "trackingParams": "CAIQ7a8FIhMIzoP2tKn1_QIV8vBgCh3onwP_",
+                    "accessibilityData": {
+                        "accessibilityData": {
+                            "label": "Search with your voice"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "frameworkUpdates": {
+        "entityBatchUpdate": {
+            "mutations": [
+                {
+                    "entityKey": "EiJQTHc5aVdpYmpsaG54WUduU1N4dGpJZTJIVWRMYzlDbGlVIOICKAE%3D",
+                    "type": "ENTITY_MUTATION_TYPE_REPLACE",
+                    "payload": {
+                        "playlistLoopStateEntity": {
+                            "key": "EiJQTHc5aVdpYmpsaG54WUduU1N4dGpJZTJIVWRMYzlDbGlVIOICKAE%3D",
+                            "state": "PLAYLIST_LOOP_STATE_NONE"
+                        }
+                    }
+                }
+            ],
+            "timestamp": {
+                "seconds": "1679686927",
+                "nanos": 44747646
+            }
+        }
+    }
+}
