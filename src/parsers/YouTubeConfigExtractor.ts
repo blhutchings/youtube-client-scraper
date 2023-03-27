@@ -1,4 +1,4 @@
-import { YouTubeConfig } from "../interfaces/YouTubeConfig.js"
+import { YouTubeConfig } from "../types/YouTubeConfig.js"
 
 export default class YouTubeConfigExtractor {
     private constructor() {};
