@@ -1,16 +1,30 @@
 {
-  "name": "youtube-client-crawler",
+  "name": "youtube-client-scraper",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "module",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
+    "test": "jest",
     "compile": "tsc",
     "start": "node build/index.js",
     "prestart": "npm run compile"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blhutchings/youtube-client-scraper.git"
+  },
+  "keywords": [
+    "youtube"
+  ],
+  "author": "Ben Hutchings",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blhutchings/youtube-client-scraper/issues"
+  },
+  "homepage": "https://github.com/blhutchings/youtube-client-scraper#readme",
   "dependencies": {
     "agentkeepalive": "^4.3.0",
     "fingerprint-generator": "^2.1.17",
