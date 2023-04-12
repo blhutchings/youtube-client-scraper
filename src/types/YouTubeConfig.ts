@@ -1,9 +1,15 @@
 import { RecursivePartial } from "./RecursivePartial.js"
 
-// This was created by taking the initial data out of Chrome/111.0.0.0 and transforming it
+export type YouTubeConfigContext = {
+    INNERTUBE_API_VERSION: YouTubeConfig['INNERTUBE_API_VERSION'],
+    INNERTUBE_API_KEY: YouTubeConfig['INNERTUBE_API_KEY'],
+    INNERTUBE_CONTEXT: YouTubeConfig['INNERTUBE_CONTEXT']
+}
+
 export type YouTubeConfig = RecursivePartial<{
     GAPI_LOCALE: string;
-    INNERTUBE_API_KEY: string
+    INNERTUBE_API_VERSION: string;
+    INNERTUBE_API_KEY: string;
     INNERTUBE_CONTEXT: {
         client: {
             hl: string
@@ -44,3 +50,4 @@ export type YouTubeConfig = RecursivePartial<{
     INNERTUBE_CONTEXT_CLIENT_VERSION: string,
     LOGGED_IN: boolean,
 }>
+

@@ -1,53 +1,79 @@
-import YouTubeClientState from "./YouTubeClientState.js";
-import YouTubeHTTPClient from "./YouTubeHTTPClient.js";
-import YouTubeConfigExtractor from "./parsers/YouTubeConfigExtractor.js";
+import got, { Got, Options, Headers } from "got"
+import { CookieJar } from "tough-cookie"
+import YouTubeClientAgent from "./YouTubeClientAgent.js"
+import YouTubeConfigExtractor from "./util/YouTubeConfigExtractor.js"
+import { YouTubeConfig, YouTubeConfigContext } from "./types/YouTubeConfig.js"
 
 export default class YouTubeClient {
-    private httpClient: YouTubeHTTPClient
-    private state: YouTubeClientState
+    readonly got: Got
+    readonly config: YouTubeConfigContext
 
-    private constructor(httpClient: YouTubeHTTPClient, state: YouTubeClientState) {
-        this.httpClient = httpClient
-        this.state = state;
+    private constructor(got: Got, config: YouTubeConfigContext) {
+        this.got = got
+        this.config = config;
     }
 
-    static async createClient(): Promise<YouTubeClient> {
-        const httpClient = new YouTubeHTTPClient();
-        const homepage = await httpClient.get('');
-        const config = YouTubeConfigExtractor.extract(homepage.body)
+    static async createClient(headers?: Headers): Promise<YouTubeClient> {
 
-        const clientState = new YouTubeClientState(config)
+        const options = new Options({
+            prefixUrl: "https://www.youtube.com/",
+            http2: true,
+            agent: {
+                http2: new YouTubeClientAgent()
+            },
+            headers: headers ?? {},
+            cookieJar: new CookieJar()
+        })
 
-        return new YouTubeClient(httpClient, clientState);
+        let client = got.extend(options)
+
+        const homepage = await client.get('');
+
+        const ytcfg = YouTubeConfigExtractor.extract_ytcfg(homepage.body)
+        const defaultHeaders = YouTubeClient.createDefaultHeaders(ytcfg)
+        const config = YouTubeClient.createConfig(ytcfg)
+
+        // Override headers
+        client = client.extend({
+            headers: { ...defaultHeaders, ...headers }
+        })
+
+        return new YouTubeClient(client, config);
     }
 
 
-    async video(videoId: string) {
-        this.state.transition(`watch?v=${videoId}`)
-        //const res = this.httpClient.execute(new VideoNextRequest(this.httpClient, this.state))
+    private static createDefaultHeaders(ytcfg: YouTubeConfig): Headers {
+        // Define header order and replace any user defined defaults
+        return {
+            "accept-encoding": "gzip, deflate, br",
+            "accept-language": ytcfg.GAPI_LOCALE,
+            "cache-control": "no-cache",
+            "dnt": "1",
+            "origin": "https://www.youtube.com",
+            "pragma": "no-cache",
+            "referer": "https://www.youtube.com/",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-model": ytcfg.INNERTUBE_CONTEXT?.client?.deviceModel,
+            "sec-ch-ua-platform": ytcfg.INNERTUBE_CONTEXT?.client?.osName,
+            "sec-ch-ua-platform-version": ytcfg.INNERTUBE_CONTEXT?.client?.osVersion,
+            "sec-fetch-dest": "empty",
+            "sec-fetch-mode": "same-origin",
+            "sec-fetch-site": "same-origin",
+            "user-agent": ytcfg.INNERTUBE_CONTEXT?.client?.userAgent,
+            "x-goog-visitor-id": ytcfg.INNERTUBE_CONTEXT?.client?.visitorData,
+            "x-youtube-bootstrap-logged-in": ytcfg.LOGGED_IN?.toString(),
+            "x-youtube-client-name": ytcfg.INNERTUBE_CONTEXT_CLIENT_NAME?.toString(),
+            "x-youtube-client-version": ytcfg.INNERTUBE_CONTEXT_CLIENT_VERSION,
+        }
+
     }
 
-    async liveLive() {}
-    async liveUpcoming() {}
-    async liveRecent() {}
+    private static createConfig(ytcfg: YouTubeConfig): YouTubeConfigContext {
+        return {
+            INNERTUBE_API_VERSION: ytcfg?.INNERTUBE_API_VERSION || "v1",
+            INNERTUBE_API_KEY: ytcfg?.INNERTUBE_API_KEY || "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
+            INNERTUBE_CONTEXT: ytcfg?.INNERTUBE_CONTEXT || {},
+        }
+    }
 
-    async gamingGames() {}
-    async gamingTrending() {}
-
-    async gameLive(gameId: string) {}
-    async gameRecent(gameId: string) {}
-    async gamePlaylists(gameId: string) {}
-    async gameOfficial(gameId: string) {}
-    async gameAbout(gameId: string) {}
-
-    async channelVideos(channelId: string) {}
-    async channelShorts(channelId: string) {}
-    async channelLive(channelId: string) {}
-    async channelPodcasts(channelId: string) {}
-    async channelPlaylists(channelId: string) {}
-    async channelCommunity(channelId: string) {}
-    async channelStore(channelId: string) {}
-    async channelChannels(channelId: string) {}
-    async channelAbout(channelId: string) {}
-    async channelSearch(channelId: string, search: string) {}
 }
