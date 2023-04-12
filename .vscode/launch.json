@@ -13,35 +13,11 @@
             "sourceMaps": true,
             "smartStep": true,
             "internalConsoleOptions": "openOnSessionStart",
+            "showAsyncStacks": false,
             "skipFiles": [
                 "<node_internals>/**",
                 "node_modules/**"
             ]
-        },
-        {
-            "name": "Debug Current TS File",
-            "type": "node",
-            "request": "launch",
-            "args": [
-                "${relativeFile}"
-            ],
-            "runtimeArgs": [
-                "--nolazy",
-                "-r",
-                "ts-node/register"
-            ],
-            "preLaunchTask": "compile",
-            "sourceMaps": true,
-            "cwd": "${workspaceRoot}",
-        },
-        {
-            "name": "Debug Current JS File",
-            "type": "node",
-            "request": "launch",
-            "args": [
-                "${relativeFile}",
-            ], 
-            "cwd": "${workspaceRoot}",
         }
     ]
 }

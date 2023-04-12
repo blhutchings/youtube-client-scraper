@@ -1,17 +1,17 @@
 {
   "name": "youtube-client-scraper",
   "version": "1.0.0",
-  "description": "",
+  "description": "A library to scrape important information off YouTube",
   "main": "index.js",
   "type": "module",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "jest",
     "compile": "tsc",
     "start": "node build/index.js",
-    "prestart": "npm run compile"
+    "prestart": "npm run compile",
+    "prepublish": "node scripts\\PIISubstitution.js"
   },
   "repository": {
     "type": "git",
@@ -28,15 +28,21 @@
   ],
   "author": "Ben Hutchings",
   "license": "ISC",
+  "private": true,
   "bugs": {
     "url": "https://github.com/blhutchings/youtube-client-scraper/issues"
   },
   "homepage": "https://github.com/blhutchings/youtube-client-scraper#readme",
+  "dependencies": {
+    "got": "^12.6.0",
+    "got-fetch": "^5.1.4",
+    "http2-wrapper": "^2.2.0",
+    "tough-cookie": "^4.1.2"
+  },
   "devDependencies": {
     "@types/got": "^9.6.12",
     "@types/node": "^18.15.0",
     "@types/tough-cookie": "^4.0.2",
-    "ts-jest": "^29.0.5",
-    "typescript": "^4.9.5"
+    "typescript": "^5.0.4"
   }
 }
