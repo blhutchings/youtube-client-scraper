@@ -1,0 +1,2498 @@
+{
+    "responseContext": {
+        "serviceTrackingParams": [
+            {
+                "service": "GFEEDBACK",
+                "params": [
+                    {
+                        "key": "route",
+                        "value": "channel.channels"
+                    },
+                    {
+                        "key": "is_casual",
+                        "value": "false"
+                    },
+                    {
+                        "key": "is_owner",
+                        "value": "false"
+                    },
+                    {
+                        "key": "is_monetization_enabled",
+                        "value": "true"
+                    },
+                    {
+                        "key": "num_shelves",
+                        "value": "1"
+                    },
+                    {
+                        "key": "is_alc_surface",
+                        "value": "false"
+                    },
+                    {
+                        "key": "browse_id",
+                        "value": "UCsBjURrPoezykLs9EqgamOA"
+                    },
+                    {
+                        "key": "browse_id_prefix",
+                        "value": ""
+                    },
+                    {
+                        "key": "logged_in",
+                        "value": "0"
+                    },
+                    {
+                        "key": "e",
+                        "value": "1714246,23804281,23918597,23946420,23966208,23983296,23986027,23998056,24004644,24007246,24034168,24036948,24077241,24080738,24108447,24120819,24135310,24140247,24162920,24166867,24169501,24181174,24187043,24187377,24211178,24219713,24224266,24235780,24241378,24255543,24255545,24262346,24263796,24268142,24283093,24288043,24288664,24290971,24291857,24390675,24391537,24396565,24396645,24404640,24407191,24409417,24414718,24415864,24415866,24420728,24426636,24428638,24428902,24429095,24430079,24433679,24437577,24439361,24439483,24440132,24440517,24443595,24447673,24449113,24449915,24450367,24451319,24451437,24451939,24453129,24453990,24455284,24456681,24457854,24458839,24465011,24465095,24465640,24466259,24466371,24466454,24467760,24468614,24468691,24468724,24471752,24473426,24474986,24477227,24482081,24483009,24483504,24484079,24485239,24485421,24486578,24488188,24490462,24490472,24490538,24491070,24494083,24494198,24494988,24494993,24495060,24495907,24495962,24495969,24495990,24496739,24496968,24497230,24498732,24499287,24499302,24499474,24499532,24499570,24499575,24499792,24512413,24515366,24516017,24516157,24518452,24519079,24519102,24519142,24519223,24519610,24530194,24530296,24530334,24530441,24531153,24531268,24532148,24532175,24534542,39323074,39323338,39323456,39323492,39323565,39323572,39323579,39323665,39323675,39323679,45686551"
+                    }
+                ]
+            },
+            {
+                "service": "GOOGLE_HELP",
+                "params": [
+                    {
+                        "key": "browse_id",
+                        "value": "UCsBjURrPoezykLs9EqgamOA"
+                    },
+                    {
+                        "key": "browse_id_prefix",
+                        "value": ""
+                    }
+                ]
+            },
+            {
+                "service": "CSI",
+                "params": [
+                    {
+                        "key": "c",
+                        "value": "WEB"
+                    },
+                    {
+                        "key": "cver",
+                        "value": "2.20230331.00.00"
+                    },
+                    {
+                        "key": "yt_li",
+                        "value": "0"
+                    },
+                    {
+                        "key": "GetChannelPage_rid",
+                        "value": "0x4de8279383b8e48d"
+                    }
+                ]
+            },
+            {
+                "service": "GUIDED_HELP",
+                "params": [
+                    {
+                        "key": "logged_in",
+                        "value": "0"
+                    }
+                ]
+            },
+            {
+                "service": "ECATCHER",
+                "params": [
+                    {
+                        "key": "client.version",
+                        "value": "2.20230331"
+                    },
+                    {
+                        "key": "client.name",
+                        "value": "WEB"
+                    },
+                    {
+                        "key": "client.fexp",
+                        "value": "24499792,24404640,24283093,24471752,24515366,24414718,24494198,24451437,24429095,24440132,24490472,24453990,24530334,24512413,24499532,24494988,24499575,24451939,24169501,24499287,24531268,24428902,24519223,24519079,24120819,24498732,24474986,24490462,24034168,24181174,24443595,24486578,24519142,24224266,24108447,24485239,23918597,24468724,39323456,45686551,24453129,24458839,24496968,1714246,24162920,24415864,24499570,24534542,24396645,24439483,24080738,24166867,24483504,24430079,24466259,24490538,24532175,24483009,24290971,24409417,23986027,24531153,24530296,24036948,24255545,24268142,24420728,24288664,24530194,24466371,24473426,39323572,39323579,24390675,24433679,24519610,39323565,24449915,39323492,24396565,39323074,24532148,24437577,23966208,24439361,24488188,24465640,24187377,24519102,24004644,24077241,24482081,24495060,24255543,24499302,24495907,24530441,24140247,24455284,24288043,24007246,39323675,24465011,24219713,24451319,24291857,23983296,24485421,24468614,24496739,24518452,24440517,23946420,24407191,23804281,39323679,24457854,24211178,39323665,24495990,24467760,24456681,24135310,24516157,23998056,24491070,24494083,24450367,24241378,24465095,24466454,24468691,39323338,24426636,24235780,24499474,24449113,24477227,24262346,24494993,24497230,24516017,24484079,24447673,24391537,24263796,24187043,24415866,24428638,24495969,24495962"
+                    }
+                ]
+            }
+        ],
+        "maxAgeSeconds": 300,
+        "mainAppWebResponseContext": {
+            "loggedOut": true
+        },
+        "webResponseContextExtensionData": {
+            "hasDecorated": true
+        }
+    },
+    "contents": {
+        "twoColumnBrowseResultsRenderer": {
+            "tabs": [
+                {
+                    "tabRenderer": {
+                        "endpoint": {
+                            "clickTrackingParams": "CCQQ8JMBGAUiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "url": "/@Fireship/featured",
+                                    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                    "rootVe": 3611,
+                                    "apiUrl": "/youtubei/v1/browse"
+                                }
+                            },
+                            "browseEndpoint": {
+                                "browseId": "UCsBjURrPoezykLs9EqgamOA",
+                                "params": "EghmZWF0dXJlZPIGBAoCMgA%3D",
+                                "canonicalBaseUrl": "/@Fireship"
+                            }
+                        },
+                        "title": "Home",
+                        "trackingParams": "CCQQ8JMBGAUiEwj9sbzTy5b-AhWX2ZwKHVBqBeo="
+                    }
+                },
+                {
+                    "tabRenderer": {
+                        "endpoint": {
+                            "clickTrackingParams": "CCMQ8JMBGAYiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "url": "/@Fireship/videos",
+                                    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                    "rootVe": 3611,
+                                    "apiUrl": "/youtubei/v1/browse"
+                                }
+                            },
+                            "browseEndpoint": {
+                                "browseId": "UCsBjURrPoezykLs9EqgamOA",
+                                "params": "EgZ2aWRlb3PyBgQKAjoA",
+                                "canonicalBaseUrl": "/@Fireship"
+                            }
+                        },
+                        "title": "Videos",
+                        "trackingParams": "CCMQ8JMBGAYiEwj9sbzTy5b-AhWX2ZwKHVBqBeo="
+                    }
+                },
+                {
+                    "tabRenderer": {
+                        "endpoint": {
+                            "clickTrackingParams": "CCIQ8JMBGAciEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "url": "/@Fireship/shorts",
+                                    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                    "rootVe": 3611,
+                                    "apiUrl": "/youtubei/v1/browse"
+                                }
+                            },
+                            "browseEndpoint": {
+                                "browseId": "UCsBjURrPoezykLs9EqgamOA",
+                                "params": "EgZzaG9ydHPyBgUKA5oBAA%3D%3D",
+                                "canonicalBaseUrl": "/@Fireship"
+                            }
+                        },
+                        "title": "Shorts",
+                        "trackingParams": "CCIQ8JMBGAciEwj9sbzTy5b-AhWX2ZwKHVBqBeo="
+                    }
+                },
+                {
+                    "tabRenderer": {
+                        "endpoint": {
+                            "clickTrackingParams": "CCEQ8JMBGAgiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "url": "/@Fireship/streams",
+                                    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                    "rootVe": 3611,
+                                    "apiUrl": "/youtubei/v1/browse"
+                                }
+                            },
+                            "browseEndpoint": {
+                                "browseId": "UCsBjURrPoezykLs9EqgamOA",
+                                "params": "EgdzdHJlYW1z8gYECgJ6AA%3D%3D",
+                                "canonicalBaseUrl": "/@Fireship"
+                            }
+                        },
+                        "title": "Live",
+                        "trackingParams": "CCEQ8JMBGAgiEwj9sbzTy5b-AhWX2ZwKHVBqBeo="
+                    }
+                },
+                {
+                    "tabRenderer": {
+                        "endpoint": {
+                            "clickTrackingParams": "CCAQ8JMBGAkiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "url": "/@Fireship/playlists",
+                                    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                    "rootVe": 3611,
+                                    "apiUrl": "/youtubei/v1/browse"
+                                }
+                            },
+                            "browseEndpoint": {
+                                "browseId": "UCsBjURrPoezykLs9EqgamOA",
+                                "params": "EglwbGF5bGlzdHPyBgQKAkIA",
+                                "canonicalBaseUrl": "/@Fireship"
+                            }
+                        },
+                        "title": "Playlists",
+                        "trackingParams": "CCAQ8JMBGAkiEwj9sbzTy5b-AhWX2ZwKHVBqBeo="
+                    }
+                },
+                {
+                    "tabRenderer": {
+                        "endpoint": {
+                            "clickTrackingParams": "CB8Q8JMBGAoiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "url": "/@Fireship/community",
+                                    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                    "rootVe": 3611,
+                                    "apiUrl": "/youtubei/v1/browse"
+                                }
+                            },
+                            "browseEndpoint": {
+                                "browseId": "UCsBjURrPoezykLs9EqgamOA",
+                                "params": "Egljb21tdW5pdHnyBgQKAkoA",
+                                "canonicalBaseUrl": "/@Fireship"
+                            }
+                        },
+                        "title": "Community",
+                        "trackingParams": "CB8Q8JMBGAoiEwj9sbzTy5b-AhWX2ZwKHVBqBeo="
+                    }
+                },
+                {
+                    "tabRenderer": {
+                        "endpoint": {
+                            "clickTrackingParams": "CB4Q8JMBGAsiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "url": "/@Fireship/store",
+                                    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                    "rootVe": 3611,
+                                    "apiUrl": "/youtubei/v1/browse"
+                                }
+                            },
+                            "browseEndpoint": {
+                                "browseId": "UCsBjURrPoezykLs9EqgamOA",
+                                "params": "EgVzdG9yZfIGBAoCGgA%3D",
+                                "canonicalBaseUrl": "/@Fireship"
+                            }
+                        },
+                        "title": "Store",
+                        "trackingParams": "CB4Q8JMBGAsiEwj9sbzTy5b-AhWX2ZwKHVBqBeo="
+                    }
+                },
+                {
+                    "tabRenderer": {
+                        "endpoint": {
+                            "clickTrackingParams": "CBQQ8JMBGAwiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "url": "/@Fireship/channels",
+                                    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                    "rootVe": 3611,
+                                    "apiUrl": "/youtubei/v1/browse"
+                                }
+                            },
+                            "browseEndpoint": {
+                                "browseId": "UCsBjURrPoezykLs9EqgamOA",
+                                "params": "EghjaGFubmVsc_IGBAoCUgA%3D",
+                                "canonicalBaseUrl": "/@Fireship"
+                            }
+                        },
+                        "title": "Channels",
+                        "selected": true,
+                        "content": {
+                            "sectionListRenderer": {
+                                "contents": [
+                                    {
+                                        "itemSectionRenderer": {
+                                            "contents": [
+                                                {
+                                                    "gridRenderer": {
+                                                        "items": [
+                                                            {
+                                                                "gridChannelRenderer": {
+                                                                    "channelId": "UC2Xd-TjJByJyK2w1zNwY0zQ",
+                                                                    "thumbnail": {
+                                                                        "thumbnails": [
+                                                                            {
+                                                                                "url": "//yt3.googleusercontent.com/3MC9XX7rtxeS55uoOQG2nvJ7zaBd17r8Uh0yk_R3KyKjAK_u4RlHhZcTCkx4yym0guGWdefD5Q=s48-c-k-c0x00ffffff-no-rj-mo",
+                                                                                "width": 48,
+                                                                                "height": 48
+                                                                            },
+                                                                            {
+                                                                                "url": "//yt3.googleusercontent.com/3MC9XX7rtxeS55uoOQG2nvJ7zaBd17r8Uh0yk_R3KyKjAK_u4RlHhZcTCkx4yym0guGWdefD5Q=s88-c-k-c0x00ffffff-no-rj-mo",
+                                                                                "width": 88,
+                                                                                "height": 88
+                                                                            },
+                                                                            {
+                                                                                "url": "//yt3.googleusercontent.com/3MC9XX7rtxeS55uoOQG2nvJ7zaBd17r8Uh0yk_R3KyKjAK_u4RlHhZcTCkx4yym0guGWdefD5Q=s176-c-k-c0x00ffffff-no-rj-mo",
+                                                                                "width": 176,
+                                                                                "height": 176
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    "videoCountText": {
+                                                                        "runs": [
+                                                                            {
+                                                                                "text": "22"
+                                                                            },
+                                                                            {
+                                                                                "text": " videos"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    "subscriberCountText": {
+                                                                        "accessibility": {
+                                                                            "accessibilityData": {
+                                                                                "label": "198K subscribers"
+                                                                            }
+                                                                        },
+                                                                        "simpleText": "198K subscribers"
+                                                                    },
+                                                                    "navigationEndpoint": {
+                                                                        "clickTrackingParams": "CBsQlTUYACITCP2xvNPLlv4CFZfZnAodUGoF6g==",
+                                                                        "commandMetadata": {
+                                                                            "webCommandMetadata": {
+                                                                                "url": "/@beyondfireship",
+                                                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                                                "rootVe": 3611,
+                                                                                "apiUrl": "/youtubei/v1/browse"
+                                                                            }
+                                                                        },
+                                                                        "browseEndpoint": {
+                                                                            "browseId": "UC2Xd-TjJByJyK2w1zNwY0zQ",
+                                                                            "canonicalBaseUrl": "/@beyondfireship"
+                                                                        }
+                                                                    },
+                                                                    "title": {
+                                                                        "simpleText": "Beyond Fireship"
+                                                                    },
+                                                                    "subscribeButton": {
+                                                                        "buttonRenderer": {
+                                                                            "style": "STYLE_COMPACT_GRAY",
+                                                                            "size": "SIZE_DEFAULT",
+                                                                            "isDisabled": false,
+                                                                            "text": {
+                                                                                "runs": [
+                                                                                    {
+                                                                                        "text": "Subscribe"
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "navigationEndpoint": {
+                                                                                "clickTrackingParams": "CBwQmysiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                                                                                "commandMetadata": {
+                                                                                    "webCommandMetadata": {
+                                                                                        "ignoreNavigation": true
+                                                                                    }
+                                                                                },
+                                                                                "modalEndpoint": {
+                                                                                    "modal": {
+                                                                                        "modalWithTitleAndButtonRenderer": {
+                                                                                            "title": {
+                                                                                                "simpleText": "Want to subscribe to this channel?"
+                                                                                            },
+                                                                                            "content": {
+                                                                                                "simpleText": "Sign in to subscribe to this channel."
+                                                                                            },
+                                                                                            "button": {
+                                                                                                "buttonRenderer": {
+                                                                                                    "style": "STYLE_BLUE_TEXT",
+                                                                                                    "size": "SIZE_DEFAULT",
+                                                                                                    "isDisabled": false,
+                                                                                                    "text": {
+                                                                                                        "simpleText": "Sign in"
+                                                                                                    },
+                                                                                                    "navigationEndpoint": {
+                                                                                                        "clickTrackingParams": "CB0Q_YYEIhMI_bG808uW_gIVl9mcCh1QagXqMglzdWJzY3JpYmU=",
+                                                                                                        "commandMetadata": {
+                                                                                                            "webCommandMetadata": {
+                                                                                                                "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F%2540beyondfireship%26continue_action%3DQUFFLUhqbnNrNlNZYkJaXzhFZ1d4NFBzQUVLUFpsQndDQXxBQ3Jtc0tsNXV3Rnd5NURXU1p6X0ZHb0U0U1BfOFY1Z3BRX3RLSlcxbW9hakV4U2ZQU3pUTFNHTExva2NmMGJuNmxZTVZSbTVVZVVsZ2ozSkN0enZZRHZvcWhyUC1kcWtwOVFWTEplQkdhUlBuWE9nbzBGTHVqbE5HdFFybHk5M0VTMGFOMlJUZEc0RUVrenQzSnQ2MWN1dXl5ZDZqQ210Q2l3c0RRd3BMckh0M3ppTlVDRHVoRExOaDJaemJFcl80SWh3Ti1Ta2FHdEc&hl=en&ec=66429",
+                                                                                                                "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                                                                                "rootVe": 83769
+                                                                                                            }
+                                                                                                        },
+                                                                                                        "signInEndpoint": {
+                                                                                                            "nextEndpoint": {
+                                                                                                                "clickTrackingParams": "CB0Q_YYEIhMI_bG808uW_gIVl9mcCh1QagXq",
+                                                                                                                "commandMetadata": {
+                                                                                                                    "webCommandMetadata": {
+                                                                                                                        "url": "/@beyondfireship",
+                                                                                                                        "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                                                                                        "rootVe": 3611,
+                                                                                                                        "apiUrl": "/youtubei/v1/browse"
+                                                                                                                    }
+                                                                                                                },
+                                                                                                                "browseEndpoint": {
+                                                                                                                    "browseId": "UC2Xd-TjJByJyK2w1zNwY0zQ",
+                                                                                                                    "canonicalBaseUrl": "/@beyondfireship"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            "continueAction": "QUFFLUhqbnNrNlNZYkJaXzhFZ1d4NFBzQUVLUFpsQndDQXxBQ3Jtc0tsNXV3Rnd5NURXU1p6X0ZHb0U0U1BfOFY1Z3BRX3RLSlcxbW9hakV4U2ZQU3pUTFNHTExva2NmMGJuNmxZTVZSbTVVZVVsZ2ozSkN0enZZRHZvcWhyUC1kcWtwOVFWTEplQkdhUlBuWE9nbzBGTHVqbE5HdFFybHk5M0VTMGFOMlJUZEc0RUVrenQzSnQ2MWN1dXl5ZDZqQ210Q2l3c0RRd3BMckh0M3ppTlVDRHVoRExOaDJaemJFcl80SWh3Ti1Ta2FHdEc",
+                                                                                                            "idamTag": "66429"
+                                                                                                        }
+                                                                                                    },
+                                                                                                    "trackingParams": "CB0Q_YYEIhMI_bG808uW_gIVl9mcCh1QagXq"
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            },
+                                                                            "trackingParams": "CBwQmysiEwj9sbzTy5b-AhWX2ZwKHVBqBeo="
+                                                                        }
+                                                                    },
+                                                                    "trackingParams": "CBsQlTUYACITCP2xvNPLlv4CFZfZnAodUGoF6g=="
+                                                                }
+                                                            },
+                                                            {
+                                                                "gridChannelRenderer": {
+                                                                    "channelId": "UCee3jrGUdb2ovrE7v4ncH3Q",
+                                                                    "thumbnail": {
+                                                                        "thumbnails": [
+                                                                            {
+                                                                                "url": "//yt3.googleusercontent.com/ytc/AL5GRJUA9q9xYIlamPSDTm03EMp_sOiODf5TMSAmGPUduX4=s48-c-k-c0x00ffffff-no-rj-mo",
+                                                                                "width": 48,
+                                                                                "height": 48
+                                                                            },
+                                                                            {
+                                                                                "url": "//yt3.googleusercontent.com/ytc/AL5GRJUA9q9xYIlamPSDTm03EMp_sOiODf5TMSAmGPUduX4=s88-c-k-c0x00ffffff-no-rj-mo",
+                                                                                "width": 88,
+                                                                                "height": 88
+                                                                            },
+                                                                            {
+                                                                                "url": "//yt3.googleusercontent.com/ytc/AL5GRJUA9q9xYIlamPSDTm03EMp_sOiODf5TMSAmGPUduX4=s176-c-k-c0x00ffffff-no-rj-mo",
+                                                                                "width": 176,
+                                                                                "height": 176
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    "videoCountText": {
+                                                                        "runs": [
+                                                                            {
+                                                                                "text": "2"
+                                                                            },
+                                                                            {
+                                                                                "text": " videos"
+                                                                            }
+                                                                        ]
+                                                                    },
+                                                                    "subscriberCountText": {
+                                                                        "accessibility": {
+                                                                            "accessibilityData": {
+                                                                                "label": "30K subscribers"
+                                                                            }
+                                                                        },
+                                                                        "simpleText": "30K subscribers"
+                                                                    },
+                                                                    "navigationEndpoint": {
+                                                                        "clickTrackingParams": "CBgQlTUYASITCP2xvNPLlv4CFZfZnAodUGoF6g==",
+                                                                        "commandMetadata": {
+                                                                            "webCommandMetadata": {
+                                                                                "url": "/@jeffdelaney",
+                                                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                                                "rootVe": 3611,
+                                                                                "apiUrl": "/youtubei/v1/browse"
+                                                                            }
+                                                                        },
+                                                                        "browseEndpoint": {
+                                                                            "browseId": "UCee3jrGUdb2ovrE7v4ncH3Q",
+                                                                            "canonicalBaseUrl": "/@jeffdelaney"
+                                                                        }
+                                                                    },
+                                                                    "title": {
+                                                                        "simpleText": "Jeff Delaney"
+                                                                    },
+                                                                    "subscribeButton": {
+                                                                        "buttonRenderer": {
+                                                                            "style": "STYLE_COMPACT_GRAY",
+                                                                            "size": "SIZE_DEFAULT",
+                                                                            "isDisabled": false,
+                                                                            "text": {
+                                                                                "runs": [
+                                                                                    {
+                                                                                        "text": "Subscribe"
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            "navigationEndpoint": {
+                                                                                "clickTrackingParams": "CBkQmysiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                                                                                "commandMetadata": {
+                                                                                    "webCommandMetadata": {
+                                                                                        "ignoreNavigation": true
+                                                                                    }
+                                                                                },
+                                                                                "modalEndpoint": {
+                                                                                    "modal": {
+                                                                                        "modalWithTitleAndButtonRenderer": {
+                                                                                            "title": {
+                                                                                                "simpleText": "Want to subscribe to this channel?"
+                                                                                            },
+                                                                                            "content": {
+                                                                                                "simpleText": "Sign in to subscribe to this channel."
+                                                                                            },
+                                                                                            "button": {
+                                                                                                "buttonRenderer": {
+                                                                                                    "style": "STYLE_BLUE_TEXT",
+                                                                                                    "size": "SIZE_DEFAULT",
+                                                                                                    "isDisabled": false,
+                                                                                                    "text": {
+                                                                                                        "simpleText": "Sign in"
+                                                                                                    },
+                                                                                                    "navigationEndpoint": {
+                                                                                                        "clickTrackingParams": "CBoQ_YYEIhMI_bG808uW_gIVl9mcCh1QagXqMglzdWJzY3JpYmU=",
+                                                                                                        "commandMetadata": {
+                                                                                                            "webCommandMetadata": {
+                                                                                                                "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F%2540jeffdelaney%26continue_action%3DQUFFLUhqa3Q3Y1NxOERKMUlBaGpxMjA4N25PZDFGR3hCd3xBQ3Jtc0ttM05JWVFKRDRNZ3E3TUdmQ0x1dC1qRmFIOHc0c0pGTGZuZkRIaTZ3ampfV3ZjMjA1SG5BSzVOcVpMNGczTVllUVMyM0VUWlZwdjZfMWVPc2ZpbUg1cFB6OFF0aFV4bmpoS0tsYWZNT3hwTnJ6MTl4TC13cXhEOE5lVGVudHA3eEd6Zm9GTE5LVnduUXdGTDZmdnJ0dzVqbXo0SmR3OXNxX1lyUTNiQWtGN2RsZEFLcWtpeVRyeE15M05ETnF5U180YXd4Nk8&hl=en&ec=66429",
+                                                                                                                "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                                                                                "rootVe": 83769
+                                                                                                            }
+                                                                                                        },
+                                                                                                        "signInEndpoint": {
+                                                                                                            "nextEndpoint": {
+                                                                                                                "clickTrackingParams": "CBoQ_YYEIhMI_bG808uW_gIVl9mcCh1QagXq",
+                                                                                                                "commandMetadata": {
+                                                                                                                    "webCommandMetadata": {
+                                                                                                                        "url": "/@jeffdelaney",
+                                                                                                                        "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                                                                                        "rootVe": 3611,
+                                                                                                                        "apiUrl": "/youtubei/v1/browse"
+                                                                                                                    }
+                                                                                                                },
+                                                                                                                "browseEndpoint": {
+                                                                                                                    "browseId": "UCee3jrGUdb2ovrE7v4ncH3Q",
+                                                                                                                    "canonicalBaseUrl": "/@jeffdelaney"
+                                                                                                                }
+                                                                                                            },
+                                                                                                            "continueAction": "QUFFLUhqa3Q3Y1NxOERKMUlBaGpxMjA4N25PZDFGR3hCd3xBQ3Jtc0ttM05JWVFKRDRNZ3E3TUdmQ0x1dC1qRmFIOHc0c0pGTGZuZkRIaTZ3ampfV3ZjMjA1SG5BSzVOcVpMNGczTVllUVMyM0VUWlZwdjZfMWVPc2ZpbUg1cFB6OFF0aFV4bmpoS0tsYWZNT3hwTnJ6MTl4TC13cXhEOE5lVGVudHA3eEd6Zm9GTE5LVnduUXdGTDZmdnJ0dzVqbXo0SmR3OXNxX1lyUTNiQWtGN2RsZEFLcWtpeVRyeE15M05ETnF5U180YXd4Nk8",
+                                                                                                            "idamTag": "66429"
+                                                                                                        }
+                                                                                                    },
+                                                                                                    "trackingParams": "CBoQ_YYEIhMI_bG808uW_gIVl9mcCh1QagXq"
+                                                                                                }
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            },
+                                                                            "trackingParams": "CBkQmysiEwj9sbzTy5b-AhWX2ZwKHVBqBeo="
+                                                                        }
+                                                                    },
+                                                                    "trackingParams": "CBgQlTUYASITCP2xvNPLlv4CFZfZnAodUGoF6g=="
+                                                                }
+                                                            }
+                                                        ],
+                                                        "trackingParams": "CBcQ6IsCGAAiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                                                        "targetId": "browse-feedUCsBjURrPoezykLs9EqgamOAchannels139"
+                                                    }
+                                                }
+                                            ],
+                                            "trackingParams": "CBYQuy8YACITCP2xvNPLlv4CFZfZnAodUGoF6g=="
+                                        }
+                                    }
+                                ],
+                                "trackingParams": "CBUQui8iEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                                "subMenu": {
+                                    "channelSubMenuRenderer": {
+                                        "contentTypeSubMenuItems": [
+                                            {
+                                                "endpoint": {
+                                                    "clickTrackingParams": "CBUQui8iEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                                                    "commandMetadata": {
+                                                        "webCommandMetadata": {
+                                                            "url": "/@Fireship/channels?view=49&flow=grid&shelf_id=4",
+                                                            "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                            "rootVe": 3611,
+                                                            "apiUrl": "/youtubei/v1/browse"
+                                                        }
+                                                    },
+                                                    "browseEndpoint": {
+                                                        "browseId": "UCsBjURrPoezykLs9EqgamOA",
+                                                        "params": "EghjaGFubmVscyAxMAFwBA%3D%3D",
+                                                        "canonicalBaseUrl": "/@Fireship"
+                                                    }
+                                                },
+                                                "title": "Featured channels",
+                                                "selected": true
+                                            }
+                                        ]
+                                    }
+                                },
+                                "targetId": "browse-feedUCsBjURrPoezykLs9EqgamOAchannels",
+                                "disablePullToRefresh": true
+                            }
+                        },
+                        "trackingParams": "CBQQ8JMBGAwiEwj9sbzTy5b-AhWX2ZwKHVBqBeo="
+                    }
+                },
+                {
+                    "tabRenderer": {
+                        "endpoint": {
+                            "clickTrackingParams": "CBMQ8JMBGA0iEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "url": "/@Fireship/about",
+                                    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                    "rootVe": 3611,
+                                    "apiUrl": "/youtubei/v1/browse"
+                                }
+                            },
+                            "browseEndpoint": {
+                                "browseId": "UCsBjURrPoezykLs9EqgamOA",
+                                "params": "EgVhYm91dPIGBAoCEgA%3D",
+                                "canonicalBaseUrl": "/@Fireship"
+                            }
+                        },
+                        "title": "About",
+                        "trackingParams": "CBMQ8JMBGA0iEwj9sbzTy5b-AhWX2ZwKHVBqBeo="
+                    }
+                },
+                {
+                    "expandableTabRenderer": {
+                        "endpoint": {
+                            "clickTrackingParams": "CAAQhGciEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "url": "/@Fireship/search",
+                                    "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                    "rootVe": 3611,
+                                    "apiUrl": "/youtubei/v1/browse"
+                                }
+                            },
+                            "browseEndpoint": {
+                                "browseId": "UCsBjURrPoezykLs9EqgamOA",
+                                "params": "EgZzZWFyY2jyBgQKAloA",
+                                "canonicalBaseUrl": "/@Fireship"
+                            }
+                        },
+                        "title": "Search",
+                        "selected": false
+                    }
+                }
+            ]
+        }
+    },
+    "header": {
+        "c4TabbedHeaderRenderer": {
+            "channelId": "UCsBjURrPoezykLs9EqgamOA",
+            "title": "Fireship",
+            "navigationEndpoint": {
+                "clickTrackingParams": "CBAQ8DsiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                "commandMetadata": {
+                    "webCommandMetadata": {
+                        "url": "/@Fireship",
+                        "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                        "rootVe": 3611,
+                        "apiUrl": "/youtubei/v1/browse"
+                    }
+                },
+                "browseEndpoint": {
+                    "browseId": "UCsBjURrPoezykLs9EqgamOA",
+                    "canonicalBaseUrl": "/@Fireship"
+                }
+            },
+            "avatar": {
+                "thumbnails": [
+                    {
+                        "url": "https://yt3.googleusercontent.com/ytc/AL5GRJUEZDXANi-9AD9yJzNTU1R0_cA1Brd6nLXLZaG31g=s48-c-k-c0x00ffffff-no-rj",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://yt3.googleusercontent.com/ytc/AL5GRJUEZDXANi-9AD9yJzNTU1R0_cA1Brd6nLXLZaG31g=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    {
+                        "url": "https://yt3.googleusercontent.com/ytc/AL5GRJUEZDXANi-9AD9yJzNTU1R0_cA1Brd6nLXLZaG31g=s176-c-k-c0x00ffffff-no-rj",
+                        "width": 176,
+                        "height": 176
+                    }
+                ]
+            },
+            "banner": {
+                "thumbnails": [
+                    {
+                        "url": "https://yt3.googleusercontent.com/nQxZwEfVWgF8zhdqc3gWTFmnDY21uPt6KMxw0m0-pRgW_lOt8jjAAfmFsC6ZRkMjZO-MeCxN6Q=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+                        "width": 1060,
+                        "height": 175
+                    },
+                    {
+                        "url": "https://yt3.googleusercontent.com/nQxZwEfVWgF8zhdqc3gWTFmnDY21uPt6KMxw0m0-pRgW_lOt8jjAAfmFsC6ZRkMjZO-MeCxN6Q=w1138-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+                        "width": 1138,
+                        "height": 188
+                    },
+                    {
+                        "url": "https://yt3.googleusercontent.com/nQxZwEfVWgF8zhdqc3gWTFmnDY21uPt6KMxw0m0-pRgW_lOt8jjAAfmFsC6ZRkMjZO-MeCxN6Q=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+                        "width": 1707,
+                        "height": 283
+                    },
+                    {
+                        "url": "https://yt3.googleusercontent.com/nQxZwEfVWgF8zhdqc3gWTFmnDY21uPt6KMxw0m0-pRgW_lOt8jjAAfmFsC6ZRkMjZO-MeCxN6Q=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+                        "width": 2120,
+                        "height": 351
+                    },
+                    {
+                        "url": "https://yt3.googleusercontent.com/nQxZwEfVWgF8zhdqc3gWTFmnDY21uPt6KMxw0m0-pRgW_lOt8jjAAfmFsC6ZRkMjZO-MeCxN6Q=w2276-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+                        "width": 2276,
+                        "height": 377
+                    },
+                    {
+                        "url": "https://yt3.googleusercontent.com/nQxZwEfVWgF8zhdqc3gWTFmnDY21uPt6KMxw0m0-pRgW_lOt8jjAAfmFsC6ZRkMjZO-MeCxN6Q=w2560-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj",
+                        "width": 2560,
+                        "height": 424
+                    }
+                ]
+            },
+            "badges": [
+                {
+                    "metadataBadgeRenderer": {
+                        "icon": {
+                            "iconType": "CHECK_CIRCLE_THICK"
+                        },
+                        "style": "BADGE_STYLE_TYPE_VERIFIED",
+                        "tooltip": "Verified",
+                        "trackingParams": "CBAQ8DsiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                        "accessibilityData": {
+                            "label": "Verified"
+                        }
+                    }
+                }
+            ],
+            "headerLinks": {
+                "channelHeaderLinksRenderer": {
+                    "primaryLinks": [
+                        {
+                            "navigationEndpoint": {
+                                "clickTrackingParams": "CBAQ8DsiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                                "commandMetadata": {
+                                    "webCommandMetadata": {
+                                        "url": "https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqblNsQnVIcTNydW5IYWVrVlBaTFpDOGQtajhXd3xBQ3Jtc0trOWp1b25WTW5XSTFxQnRjazlxM1VqQi1iWGdKNG12dmRUQkUzMzl4cTVUUjQzbXEtbUdTR1FVSE9sUndDWlZwVFpvZnpVT2JyWXg2SkdYeHV4cElUVEdEMTdvczdGclZRYi0tRFRKSU9lcVRYS3B1bw&q=https%3A%2F%2Ffireship.io",
+                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                        "rootVe": 83769
+                                    }
+                                },
+                                "urlEndpoint": {
+                                    "url": "https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqblNsQnVIcTNydW5IYWVrVlBaTFpDOGQtajhXd3xBQ3Jtc0trOWp1b25WTW5XSTFxQnRjazlxM1VqQi1iWGdKNG12dmRUQkUzMzl4cTVUUjQzbXEtbUdTR1FVSE9sUndDWlZwVFpvZnpVT2JyWXg2SkdYeHV4cElUVEdEMTdvczdGclZRYi0tRFRKSU9lcVRYS3B1bw&q=https%3A%2F%2Ffireship.io",
+                                    "target": "TARGET_NEW_WINDOW",
+                                    "nofollow": true
+                                }
+                            },
+                            "icon": {
+                                "thumbnails": [
+                                    {
+                                        "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcRB_FKxI-iuScCb9MWEnjOLHsGtqsJE3AgflsjMKoAXT80O29t_brfSoe_YpszCqNU4W2cNcYCphmBtqRXPoWEGW6RIGjMg3MBJdtgEtx9ixw"
+                                    }
+                                ]
+                            },
+                            "title": {
+                                "simpleText": "Fireship.io"
+                            }
+                        }
+                    ],
+                    "secondaryLinks": [
+                        {
+                            "navigationEndpoint": {
+                                "clickTrackingParams": "CBAQ8DsiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                                "commandMetadata": {
+                                    "webCommandMetadata": {
+                                        "url": "https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqbjhpZ3lqaF9Sc2R4eDh5WmF4Y25ndXZvTlc5QXxBQ3Jtc0tuX21xZDctQ0hnS1ZhVVIwaGtwcWFLRFdWU1J1YlZ0aTFSUlJRaVplZXJEbXZmRXVfaWtjcDBDVS1Db2EwcUZuWTVFNmxhWExCM3JGX1gtYWxieWY0eTdKM1pYWVdoeDdPSEhIVXZ0WUhCTy1tWkhwNA&q=https%3A%2F%2Ftwitter.com%2Ffireship_dev",
+                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                        "rootVe": 83769
+                                    }
+                                },
+                                "urlEndpoint": {
+                                    "url": "https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqbjhpZ3lqaF9Sc2R4eDh5WmF4Y25ndXZvTlc5QXxBQ3Jtc0tuX21xZDctQ0hnS1ZhVVIwaGtwcWFLRFdWU1J1YlZ0aTFSUlJRaVplZXJEbXZmRXVfaWtjcDBDVS1Db2EwcUZuWTVFNmxhWExCM3JGX1gtYWxieWY0eTdKM1pYWVdoeDdPSEhIVXZ0WUhCTy1tWkhwNA&q=https%3A%2F%2Ftwitter.com%2Ffireship_dev",
+                                    "target": "TARGET_NEW_WINDOW",
+                                    "nofollow": true
+                                }
+                            },
+                            "icon": {
+                                "thumbnails": [
+                                    {
+                                        "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcR3iqklaOtk_2Tks6Fp78jzdlSWb2dc3v92FHhyc99Yz7tDHOkg62CoNEO1Mden-xjYCq7TQLjXfILWh8tjYFDXosrGXktdMY1GIadRgIMCdg"
+                                    }
+                                ]
+                            },
+                            "title": {
+                                "simpleText": "Twitter"
+                            }
+                        },
+                        {
+                            "navigationEndpoint": {
+                                "clickTrackingParams": "CBAQ8DsiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                                "commandMetadata": {
+                                    "webCommandMetadata": {
+                                        "url": "https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqa1Q1MzNMWU1fTWMtWlhWWENEWkRlOWVBODNyZ3xBQ3Jtc0tuSnZGZVBfd2o4aFlaY2poR0kzOXpxdlhKV0xkVHZiWFBxQ2RlUGFRU0pITWJOYlVzV0ljamhRMHlNdDI3VURKd3pFalpUbU1pOHFyaWF1NXdmSGFrU29MRnVtQkRMZG5qMTBxSkhnOFhlVzQyc0thaw&q=https%3A%2F%2Fdiscord.com%2Finvite%2Ffireship",
+                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                        "rootVe": 83769
+                                    }
+                                },
+                                "urlEndpoint": {
+                                    "url": "https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqa1Q1MzNMWU1fTWMtWlhWWENEWkRlOWVBODNyZ3xBQ3Jtc0tuSnZGZVBfd2o4aFlaY2poR0kzOXpxdlhKV0xkVHZiWFBxQ2RlUGFRU0pITWJOYlVzV0ljamhRMHlNdDI3VURKd3pFalpUbU1pOHFyaWF1NXdmSGFrU29MRnVtQkRMZG5qMTBxSkhnOFhlVzQyc0thaw&q=https%3A%2F%2Fdiscord.com%2Finvite%2Ffireship",
+                                    "target": "TARGET_NEW_WINDOW",
+                                    "nofollow": true
+                                }
+                            },
+                            "icon": {
+                                "thumbnails": [
+                                    {
+                                        "url": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn:ANd9GcRzqdfVvhiIq4T7CMhemgmP5rGxn7q1a1PeMdkpEMlSQqI6ZHUf8_3N-QstyCPy4Tenzq1N8ZyIeE0bUO_T1U_udqpS4n7bN5ftx4yg1SQcrA"
+                                    }
+                                ]
+                            },
+                            "title": {
+                                "simpleText": "Discord"
+                            }
+                        },
+                        {
+                            "navigationEndpoint": {
+                                "clickTrackingParams": "CBAQ8DsiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                                "commandMetadata": {
+                                    "webCommandMetadata": {
+                                        "url": "https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqblBBTkw2ZTZpMnU1OWdRWExDdGpEU1o0bnppZ3xBQ3Jtc0tuUW0waF9QWFdsYTA2ZGJvc2hJN2hmQlNzVUxfbVBKZmV1TUMtWGcxWkM0b2tsRHlhZXlPRkJVLU9CSm1BZm02NzExOEN1cGllNE96cXpxaENXNkhUZ3JPOXpkdHhVXzRDRzRtLVNlRV9qSl9ydktwRQ&q=https%3A%2F%2Fwww.tiktok.com%2F%40fireship_dev",
+                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                        "rootVe": 83769
+                                    }
+                                },
+                                "urlEndpoint": {
+                                    "url": "https://www.youtube.com/redirect?event=channel_banner&redir_token=QUFFLUhqblBBTkw2ZTZpMnU1OWdRWExDdGpEU1o0bnppZ3xBQ3Jtc0tuUW0waF9QWFdsYTA2ZGJvc2hJN2hmQlNzVUxfbVBKZmV1TUMtWGcxWkM0b2tsRHlhZXlPRkJVLU9CSm1BZm02NzExOEN1cGllNE96cXpxaENXNkhUZ3JPOXpkdHhVXzRDRzRtLVNlRV9qSl9ydktwRQ&q=https%3A%2F%2Fwww.tiktok.com%2F%40fireship_dev",
+                                    "target": "TARGET_NEW_WINDOW",
+                                    "nofollow": true
+                                }
+                            },
+                            "icon": {
+                                "thumbnails": [
+                                    {
+                                        "url": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn:ANd9GcSB7x8f7V_no9YlxuDhndIg8mwX-knqygDJUH-13iwIQhHTsRDr0m9Mb2YsxsQCvozhM-TqXEfuhIMZLT7lkJJZuzNm20LDfRPF4-0TUzOvlvLeow"
+                                    }
+                                ]
+                            },
+                            "title": {
+                                "simpleText": "TikTok"
+                            }
+                        }
+                    ]
+                }
+            },
+            "subscribeButton": {
+                "buttonRenderer": {
+                    "style": "STYLE_DESTRUCTIVE",
+                    "size": "SIZE_DEFAULT",
+                    "isDisabled": false,
+                    "text": {
+                        "runs": [
+                            {
+                                "text": "Subscribe"
+                            }
+                        ]
+                    },
+                    "navigationEndpoint": {
+                        "clickTrackingParams": "CBEQ8FsiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "ignoreNavigation": true
+                            }
+                        },
+                        "modalEndpoint": {
+                            "modal": {
+                                "modalWithTitleAndButtonRenderer": {
+                                    "title": {
+                                        "simpleText": "Want to subscribe to this channel?"
+                                    },
+                                    "content": {
+                                        "simpleText": "Sign in to subscribe to this channel."
+                                    },
+                                    "button": {
+                                        "buttonRenderer": {
+                                            "style": "STYLE_BLUE_TEXT",
+                                            "size": "SIZE_DEFAULT",
+                                            "isDisabled": false,
+                                            "text": {
+                                                "simpleText": "Sign in"
+                                            },
+                                            "navigationEndpoint": {
+                                                "clickTrackingParams": "CBIQ_YYEIhMI_bG808uW_gIVl9mcCh1QagXqMglzdWJzY3JpYmU=",
+                                                "commandMetadata": {
+                                                    "webCommandMetadata": {
+                                                        "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F%2540Fireship%252Fchannels%26continue_action%3DQUFFLUhqbUhwRVhPLXlBQTRTNmlXa1dGajBreEx3TXVjUXxBQ3Jtc0tsZ0VPZW1IODNibnF5R3lLR1NOODExcnNzeGFGa19iT2ZHVmhyRWE0WWlTdjJSekhRb2EyUjhlUDRwMnhhNDVfWU13MTY4a0Nod2w5X3BBQWZVRG83ekcxUzgxRkRGMjIza0gta2tURk1ySW83MEFTWnBBNWZDUUFzOHd1ZVhLaGRxSHh6T2RNZlN3VE5WNDFqanVaX2V3LVBlSFN5eDRIRzdOVGdwSFdhOFpJQWFpZXlWYTFEd013dlNUYjBSOFBoYnRaWlc&hl=en&ec=66429",
+                                                        "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                                        "rootVe": 83769
+                                                    }
+                                                },
+                                                "signInEndpoint": {
+                                                    "nextEndpoint": {
+                                                        "clickTrackingParams": "CBIQ_YYEIhMI_bG808uW_gIVl9mcCh1QagXq",
+                                                        "commandMetadata": {
+                                                            "webCommandMetadata": {
+                                                                "url": "/@Fireship/channels",
+                                                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                                                "rootVe": 3611,
+                                                                "apiUrl": "/youtubei/v1/browse"
+                                                            }
+                                                        },
+                                                        "browseEndpoint": {
+                                                            "browseId": "UCsBjURrPoezykLs9EqgamOA",
+                                                            "params": "EghjaGFubmVscw%3D%3D",
+                                                            "canonicalBaseUrl": "/@Fireship"
+                                                        }
+                                                    },
+                                                    "continueAction": "QUFFLUhqbUhwRVhPLXlBQTRTNmlXa1dGajBreEx3TXVjUXxBQ3Jtc0tsZ0VPZW1IODNibnF5R3lLR1NOODExcnNzeGFGa19iT2ZHVmhyRWE0WWlTdjJSekhRb2EyUjhlUDRwMnhhNDVfWU13MTY4a0Nod2w5X3BBQWZVRG83ekcxUzgxRkRGMjIza0gta2tURk1ySW83MEFTWnBBNWZDUUFzOHd1ZVhLaGRxSHh6T2RNZlN3VE5WNDFqanVaX2V3LVBlSFN5eDRIRzdOVGdwSFdhOFpJQWFpZXlWYTFEd013dlNUYjBSOFBoYnRaWlc",
+                                                    "idamTag": "66429"
+                                                }
+                                            },
+                                            "trackingParams": "CBIQ_YYEIhMI_bG808uW_gIVl9mcCh1QagXq"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "trackingParams": "CBEQ8FsiEwj9sbzTy5b-AhWX2ZwKHVBqBeo="
+                }
+            },
+            "visitTracking": {
+                "remarketingPing": "https://www.youtube.com/pagead/viewthroughconversion/962985656/?backend=innertube&cname=1&cver=2_20230331_00_00&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20230331_00_00%3Bptype%3Dcview%3Btype%3Dcview%3Butuid%3DsBjURrPoezykLs9EqgamOA&foc_id=sBjURrPoezykLs9EqgamOA&label=followon_cvisit&ptype=cview&utuid=sBjURrPoezykLs9EqgamOA"
+            },
+            "subscriberCountText": {
+                "accessibility": {
+                    "accessibilityData": {
+                        "label": "2.02 million subscribers"
+                    }
+                },
+                "simpleText": "2.02M subscribers"
+            },
+            "tvBanner": {
+                "thumbnails": [
+                    {
+                        "url": "https://yt3.googleusercontent.com/nQxZwEfVWgF8zhdqc3gWTFmnDY21uPt6KMxw0m0-pRgW_lOt8jjAAfmFsC6ZRkMjZO-MeCxN6Q=w320-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+                        "width": 320,
+                        "height": 180
+                    },
+                    {
+                        "url": "https://yt3.googleusercontent.com/nQxZwEfVWgF8zhdqc3gWTFmnDY21uPt6KMxw0m0-pRgW_lOt8jjAAfmFsC6ZRkMjZO-MeCxN6Q=w854-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+                        "width": 854,
+                        "height": 480
+                    },
+                    {
+                        "url": "https://yt3.googleusercontent.com/nQxZwEfVWgF8zhdqc3gWTFmnDY21uPt6KMxw0m0-pRgW_lOt8jjAAfmFsC6ZRkMjZO-MeCxN6Q=w1280-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+                        "width": 1280,
+                        "height": 720
+                    },
+                    {
+                        "url": "https://yt3.googleusercontent.com/nQxZwEfVWgF8zhdqc3gWTFmnDY21uPt6KMxw0m0-pRgW_lOt8jjAAfmFsC6ZRkMjZO-MeCxN6Q=w1920-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    {
+                        "url": "https://yt3.googleusercontent.com/nQxZwEfVWgF8zhdqc3gWTFmnDY21uPt6KMxw0m0-pRgW_lOt8jjAAfmFsC6ZRkMjZO-MeCxN6Q=w2120-fcrop64=1,00000000ffffffff-k-c0xffffffff-no-nd-rj",
+                        "width": 2120,
+                        "height": 1192
+                    }
+                ]
+            },
+            "mobileBanner": {
+                "thumbnails": [
+                    {
+                        "url": "https://yt3.googleusercontent.com/nQxZwEfVWgF8zhdqc3gWTFmnDY21uPt6KMxw0m0-pRgW_lOt8jjAAfmFsC6ZRkMjZO-MeCxN6Q=w320-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+                        "width": 320,
+                        "height": 88
+                    },
+                    {
+                        "url": "https://yt3.googleusercontent.com/nQxZwEfVWgF8zhdqc3gWTFmnDY21uPt6KMxw0m0-pRgW_lOt8jjAAfmFsC6ZRkMjZO-MeCxN6Q=w640-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+                        "width": 640,
+                        "height": 175
+                    },
+                    {
+                        "url": "https://yt3.googleusercontent.com/nQxZwEfVWgF8zhdqc3gWTFmnDY21uPt6KMxw0m0-pRgW_lOt8jjAAfmFsC6ZRkMjZO-MeCxN6Q=w960-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+                        "width": 960,
+                        "height": 263
+                    },
+                    {
+                        "url": "https://yt3.googleusercontent.com/nQxZwEfVWgF8zhdqc3gWTFmnDY21uPt6KMxw0m0-pRgW_lOt8jjAAfmFsC6ZRkMjZO-MeCxN6Q=w1280-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+                        "width": 1280,
+                        "height": 351
+                    },
+                    {
+                        "url": "https://yt3.googleusercontent.com/nQxZwEfVWgF8zhdqc3gWTFmnDY21uPt6KMxw0m0-pRgW_lOt8jjAAfmFsC6ZRkMjZO-MeCxN6Q=w1440-fcrop64=1,32b75a57cd48a5a8-k-c0xffffffff-no-nd-rj",
+                        "width": 1440,
+                        "height": 395
+                    }
+                ]
+            },
+            "trackingParams": "CBAQ8DsiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+            "channelHandleText": {
+                "runs": [
+                    {
+                        "text": "@Fireship"
+                    }
+                ]
+            },
+            "style": "C4_TABBED_HEADER_RENDERER_STYLE_MODERN",
+            "videosCountText": {
+                "runs": [
+                    {
+                        "text": "535"
+                    },
+                    {
+                        "text": " videos"
+                    }
+                ]
+            },
+            "tagline": {
+                "channelTaglineRenderer": {
+                    "content": "High-intensity ⚡ code tutorials to help you build & ship your app faster. Subscribe for new videos every week covering intermediate to advanced lessons about JavaScript, Flutter, Firebase, and modern app development.",
+                    "maxLines": 1,
+                    "moreLabel": "... more",
+                    "moreEndpoint": {
+                        "clickTrackingParams": "CBAQ8DsiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "url": "/@Fireship/about",
+                                "webPageType": "WEB_PAGE_TYPE_CHANNEL",
+                                "rootVe": 3611,
+                                "apiUrl": "/youtubei/v1/browse"
+                            }
+                        },
+                        "browseEndpoint": {
+                            "browseId": "UCsBjURrPoezykLs9EqgamOA",
+                            "params": "EgVhYm91dPIGBAoCEgA%3D",
+                            "canonicalBaseUrl": "/@Fireship"
+                        }
+                    },
+                    "moreIcon": {
+                        "iconType": "CHEVRON_RIGHT"
+                    }
+                }
+            }
+        }
+    },
+    "metadata": {
+        "channelMetadataRenderer": {
+            "title": "Fireship",
+            "description": "High-intensity ⚡ code tutorials to help you build & ship your app faster. Subscribe for new videos every week covering intermediate to advanced lessons about JavaScript, Flutter, Firebase, and modern app development.\n\nThe original home of #100SecondsOfCode and #CodeThisNotThat. Created by Jeff Delaney. \n\nBuilding an app? Get project support, advanced full courses, and more at https://fireship.io",
+            "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsBjURrPoezykLs9EqgamOA",
+            "channelConversionUrl": "https://www.youtube.com/pagead/viewthroughconversion/962985656/?backend=innertube&cname=1&cver=2_20230331_00_00&data=backend%3Dinnertube%3Bcname%3D1%3Bcver%3D2_20230331_00_00%3Bptype%3Dcview%3Btype%3Dcview%3Butuid%3DsBjURrPoezykLs9EqgamOA&foc_id=sBjURrPoezykLs9EqgamOA&label=followon_cvisit&ptype=cview&utuid=sBjURrPoezykLs9EqgamOA",
+            "externalId": "UCsBjURrPoezykLs9EqgamOA",
+            "keywords": "angular firebase web development javascript typescript",
+            "ownerUrls": [
+                "http://www.youtube.com/@Fireship"
+            ],
+            "avatar": {
+                "thumbnails": [
+                    {
+                        "url": "https://yt3.googleusercontent.com/ytc/AL5GRJUEZDXANi-9AD9yJzNTU1R0_cA1Brd6nLXLZaG31g=s900-c-k-c0x00ffffff-no-rj",
+                        "width": 900,
+                        "height": 900
+                    }
+                ]
+            },
+            "channelUrl": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA",
+            "isFamilySafe": true,
+            "availableCountryCodes": [
+                "BD",
+                "GD",
+                "BI",
+                "VI",
+                "VU",
+                "YE",
+                "ZM",
+                "IS",
+                "BW",
+                "BE",
+                "AD",
+                "CG",
+                "KN",
+                "EE",
+                "UG",
+                "IE",
+                "QA",
+                "CY",
+                "GA",
+                "JE",
+                "KR",
+                "ES",
+                "FK",
+                "TH",
+                "ID",
+                "TT",
+                "BG",
+                "BZ",
+                "GR",
+                "IQ",
+                "MW",
+                "MP",
+                "PN",
+                "HU",
+                "LA",
+                "SG",
+                "TG",
+                "TV",
+                "GQ",
+                "ET",
+                "PK",
+                "TZ",
+                "MX",
+                "VA",
+                "GT",
+                "SA",
+                "LR",
+                "PH",
+                "SO",
+                "DZ",
+                "SH",
+                "CM",
+                "GY",
+                "DM",
+                "LI",
+                "FJ",
+                "GG",
+                "CR",
+                "MT",
+                "CV",
+                "BY",
+                "RE",
+                "PW",
+                "SC",
+                "SJ",
+                "ZW",
+                "KI",
+                "PM",
+                "AF",
+                "MN",
+                "KY",
+                "ME",
+                "ER",
+                "RS",
+                "UM",
+                "CF",
+                "UY",
+                "KP",
+                "BO",
+                "CZ",
+                "NG",
+                "CD",
+                "NE",
+                "NP",
+                "AO",
+                "NA",
+                "AL",
+                "LY",
+                "WF",
+                "SX",
+                "MA",
+                "LV",
+                "PT",
+                "UZ",
+                "GI",
+                "KZ",
+                "GB",
+                "SL",
+                "GF",
+                "MZ",
+                "VE",
+                "RO",
+                "SD",
+                "SE",
+                "OM",
+                "AS",
+                "MM",
+                "SI",
+                "JO",
+                "LU",
+                "HM",
+                "BM",
+                "PL",
+                "HR",
+                "BT",
+                "GL",
+                "NR",
+                "TM",
+                "CK",
+                "EG",
+                "SY",
+                "PR",
+                "BR",
+                "GE",
+                "SM",
+                "VG",
+                "GN",
+                "MK",
+                "UA",
+                "KE",
+                "MY",
+                "CO",
+                "DK",
+                "KG",
+                "DE",
+                "TD",
+                "SZ",
+                "MO",
+                "LS",
+                "KW",
+                "NO",
+                "SS",
+                "KH",
+                "TO",
+                "PA",
+                "BA",
+                "WS",
+                "EH",
+                "IN",
+                "TN",
+                "MG",
+                "TJ",
+                "BS",
+                "AG",
+                "DJ",
+                "FR",
+                "PF",
+                "SB",
+                "BF",
+                "MV",
+                "GP",
+                "GS",
+                "GW",
+                "CW",
+                "MQ",
+                "SV",
+                "AU",
+                "VN",
+                "SR",
+                "CN",
+                "DO",
+                "GH",
+                "ML",
+                "GM",
+                "CI",
+                "AM",
+                "IO",
+                "AI",
+                "NU",
+                "BB",
+                "IM",
+                "RU",
+                "AZ",
+                "CA",
+                "AQ",
+                "US",
+                "NF",
+                "BH",
+                "MC",
+                "MD",
+                "MR",
+                "CU",
+                "GU",
+                "FO",
+                "PS",
+                "IT",
+                "LC",
+                "LK",
+                "PG",
+                "AR",
+                "NI",
+                "FI",
+                "KM",
+                "ST",
+                "TF",
+                "TW",
+                "EC",
+                "BJ",
+                "LT",
+                "CH",
+                "ZA",
+                "RW",
+                "JM",
+                "PE",
+                "CL",
+                "NL",
+                "HK",
+                "TR",
+                "CX",
+                "AX",
+                "AE",
+                "AT",
+                "MS",
+                "BV",
+                "MF",
+                "MU",
+                "HT",
+                "NZ",
+                "VC",
+                "SN",
+                "YT",
+                "SK",
+                "TC",
+                "BQ",
+                "IL",
+                "MH",
+                "TL",
+                "FM",
+                "AW",
+                "JP",
+                "CC",
+                "IR",
+                "LB",
+                "TK",
+                "BL",
+                "NC",
+                "BN",
+                "HN",
+                "PY"
+            ],
+            "androidDeepLink": "android-app://com.google.android.youtube/http/www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA",
+            "androidAppindexingLink": "android-app://com.google.android.youtube/http/www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA",
+            "iosAppindexingLink": "ios-app://544007664/vnd.youtube/www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA",
+            "vanityChannelUrl": "http://www.youtube.com/@Fireship"
+        }
+    },
+    "trackingParams": "CAAQhGciEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+    "topbar": {
+        "desktopTopbarRenderer": {
+            "logo": {
+                "topbarLogoRenderer": {
+                    "iconImage": {
+                        "iconType": "YOUTUBE_LOGO"
+                    },
+                    "tooltipText": {
+                        "runs": [
+                            {
+                                "text": "YouTube Home"
+                            }
+                        ]
+                    },
+                    "endpoint": {
+                        "clickTrackingParams": "CA8QsV4iEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "url": "/",
+                                "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                                "rootVe": 3854,
+                                "apiUrl": "/youtubei/v1/browse"
+                            }
+                        },
+                        "browseEndpoint": {
+                            "browseId": "FEwhat_to_watch"
+                        }
+                    },
+                    "trackingParams": "CA8QsV4iEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                    "overrideEntityKey": "EgZ0b3BiYXIg9QEoAQ%3D%3D"
+                }
+            },
+            "searchbox": {
+                "fusionSearchboxRenderer": {
+                    "icon": {
+                        "iconType": "SEARCH"
+                    },
+                    "placeholderText": {
+                        "runs": [
+                            {
+                                "text": "Search"
+                            }
+                        ]
+                    },
+                    "config": {
+                        "webSearchboxConfig": {
+                            "requestLanguage": "en",
+                            "requestDomain": "ca",
+                            "hasOnscreenKeyboard": false,
+                            "focusSearchbox": true
+                        }
+                    },
+                    "trackingParams": "CA0Q7VAiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                    "searchEndpoint": {
+                        "clickTrackingParams": "CA0Q7VAiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "url": "/results?search_query=",
+                                "webPageType": "WEB_PAGE_TYPE_SEARCH",
+                                "rootVe": 4724
+                            }
+                        },
+                        "searchEndpoint": {
+                            "query": ""
+                        }
+                    },
+                    "clearButton": {
+                        "buttonRenderer": {
+                            "style": "STYLE_DEFAULT",
+                            "size": "SIZE_DEFAULT",
+                            "isDisabled": false,
+                            "icon": {
+                                "iconType": "CLOSE"
+                            },
+                            "trackingParams": "CA4Q8FsiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                            "accessibilityData": {
+                                "accessibilityData": {
+                                    "label": "Clear search query"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "trackingParams": "CAEQq6wBIhMI_bG808uW_gIVl9mcCh1QagXq",
+            "countryCode": "CA",
+            "topbarButtons": [
+                {
+                    "topbarMenuButtonRenderer": {
+                        "icon": {
+                            "iconType": "MORE_VERT"
+                        },
+                        "menuRequest": {
+                            "clickTrackingParams": "CAsQ_qsBGAAiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "sendPost": true,
+                                    "apiUrl": "/youtubei/v1/account/account_menu"
+                                }
+                            },
+                            "signalServiceEndpoint": {
+                                "signal": "GET_ACCOUNT_MENU",
+                                "actions": [
+                                    {
+                                        "clickTrackingParams": "CAsQ_qsBGAAiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                                        "openPopupAction": {
+                                            "popup": {
+                                                "multiPageMenuRenderer": {
+                                                    "trackingParams": "CAwQ_6sBIhMI_bG808uW_gIVl9mcCh1QagXq",
+                                                    "style": "MULTI_PAGE_MENU_STYLE_TYPE_SYSTEM",
+                                                    "showLoadingSpinner": true
+                                                }
+                                            },
+                                            "popupType": "DROPDOWN",
+                                            "beReused": true
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        "trackingParams": "CAsQ_qsBGAAiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                        "accessibility": {
+                            "accessibilityData": {
+                                "label": "Settings"
+                            }
+                        },
+                        "tooltip": "Settings",
+                        "style": "STYLE_DEFAULT"
+                    }
+                },
+                {
+                    "buttonRenderer": {
+                        "style": "STYLE_SUGGESTIVE",
+                        "size": "SIZE_SMALL",
+                        "text": {
+                            "runs": [
+                                {
+                                    "text": "Sign in"
+                                }
+                            ]
+                        },
+                        "icon": {
+                            "iconType": "AVATAR_LOGGED_OUT"
+                        },
+                        "navigationEndpoint": {
+                            "clickTrackingParams": "CAoQ1IAEGAEiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                            "commandMetadata": {
+                                "webCommandMetadata": {
+                                    "url": "https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252F%2540Fireship%252Fchannels&hl=en&ec=65620",
+                                    "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                    "rootVe": 83769
+                                }
+                            },
+                            "signInEndpoint": {
+                                "idamTag": "65620"
+                            }
+                        },
+                        "trackingParams": "CAoQ1IAEGAEiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                        "targetId": "topbar-signin"
+                    }
+                }
+            ],
+            "hotkeyDialog": {
+                "hotkeyDialogRenderer": {
+                    "title": {
+                        "runs": [
+                            {
+                                "text": "Keyboard shortcuts"
+                            }
+                        ]
+                    },
+                    "sections": [
+                        {
+                            "hotkeyDialogSectionRenderer": {
+                                "title": {
+                                    "runs": [
+                                        {
+                                            "text": "Playback"
+                                        }
+                                    ]
+                                },
+                                "options": [
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Toggle play/pause"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "k"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Rewind 10 seconds"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "j"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Fast forward 10 seconds"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "l"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Previous video"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "P (SHIFT+p)"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Next video"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "N (SHIFT+n)"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Previous frame (while paused)"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": ",",
+                                            "hotkeyAccessibilityLabel": {
+                                                "accessibilityData": {
+                                                    "label": "Comma"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Next frame (while paused)"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": ".",
+                                            "hotkeyAccessibilityLabel": {
+                                                "accessibilityData": {
+                                                    "label": "Period"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Decrease playback rate"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "\u003c (SHIFT+,)",
+                                            "hotkeyAccessibilityLabel": {
+                                                "accessibilityData": {
+                                                    "label": "Less than or SHIFT + comma"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Increase playback rate"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "\u003e (SHIFT+.)",
+                                            "hotkeyAccessibilityLabel": {
+                                                "accessibilityData": {
+                                                    "label": "Greater than or SHIFT + period"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Seek to specific point in the video (7 advances to 70% of duration)"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "0..9"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Seek to previous chapter"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "CONTROL + ←"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Seek to next chapter"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "CONTROL + →"
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "hotkeyDialogSectionRenderer": {
+                                "title": {
+                                    "runs": [
+                                        {
+                                            "text": "General"
+                                        }
+                                    ]
+                                },
+                                "options": [
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Toggle full screen"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "f"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Toggle theater mode"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "t"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Toggle miniplayer"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "i"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Close miniplayer or current dialog"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "ESCAPE"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Toggle mute"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "m"
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "hotkeyDialogSectionRenderer": {
+                                "title": {
+                                    "runs": [
+                                        {
+                                            "text": "Subtitles and closed captions"
+                                        }
+                                    ]
+                                },
+                                "options": [
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "If the video supports captions, toggle captions ON/OFF"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "c"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Rotate through different text opacity levels"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "o"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Rotate through different window opacity levels"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "w"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Rotate through font sizes (increasing)"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "+"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Rotate through font sizes (decreasing)"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "-",
+                                            "hotkeyAccessibilityLabel": {
+                                                "accessibilityData": {
+                                                    "label": "Minus"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "hotkeyDialogSectionRenderer": {
+                                "title": {
+                                    "runs": [
+                                        {
+                                            "text": "Spherical Videos"
+                                        }
+                                    ]
+                                },
+                                "options": [
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Pan up"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "w"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Pan left"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "a"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Pan down"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "s"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Pan right"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "d"
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Zoom in"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "+ on numpad or ]",
+                                            "hotkeyAccessibilityLabel": {
+                                                "accessibilityData": {
+                                                    "label": "Plus on number pad or right bracket"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    {
+                                        "hotkeyDialogSectionOptionRenderer": {
+                                            "label": {
+                                                "runs": [
+                                                    {
+                                                        "text": "Zoom out"
+                                                    }
+                                                ]
+                                            },
+                                            "hotkey": "- on numpad or [",
+                                            "hotkeyAccessibilityLabel": {
+                                                "accessibilityData": {
+                                                    "label": "Minus on number pad or left bracket"
+                                                }
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "dismissButton": {
+                        "buttonRenderer": {
+                            "style": "STYLE_BLUE_TEXT",
+                            "size": "SIZE_DEFAULT",
+                            "isDisabled": false,
+                            "text": {
+                                "runs": [
+                                    {
+                                        "text": "Dismiss"
+                                    }
+                                ]
+                            },
+                            "trackingParams": "CAkQ8FsiEwj9sbzTy5b-AhWX2ZwKHVBqBeo="
+                        }
+                    },
+                    "trackingParams": "CAgQteYDIhMI_bG808uW_gIVl9mcCh1QagXq"
+                }
+            },
+            "backButton": {
+                "buttonRenderer": {
+                    "trackingParams": "CAcQvIYDIhMI_bG808uW_gIVl9mcCh1QagXq",
+                    "command": {
+                        "clickTrackingParams": "CAcQvIYDIhMI_bG808uW_gIVl9mcCh1QagXq",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "sendPost": true
+                            }
+                        },
+                        "signalServiceEndpoint": {
+                            "signal": "CLIENT_SIGNAL",
+                            "actions": [
+                                {
+                                    "clickTrackingParams": "CAcQvIYDIhMI_bG808uW_gIVl9mcCh1QagXq",
+                                    "signalAction": {
+                                        "signal": "HISTORY_BACK"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "forwardButton": {
+                "buttonRenderer": {
+                    "trackingParams": "CAYQvYYDIhMI_bG808uW_gIVl9mcCh1QagXq",
+                    "command": {
+                        "clickTrackingParams": "CAYQvYYDIhMI_bG808uW_gIVl9mcCh1QagXq",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "sendPost": true
+                            }
+                        },
+                        "signalServiceEndpoint": {
+                            "signal": "CLIENT_SIGNAL",
+                            "actions": [
+                                {
+                                    "clickTrackingParams": "CAYQvYYDIhMI_bG808uW_gIVl9mcCh1QagXq",
+                                    "signalAction": {
+                                        "signal": "HISTORY_FORWARD"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "a11ySkipNavigationButton": {
+                "buttonRenderer": {
+                    "style": "STYLE_DEFAULT",
+                    "size": "SIZE_DEFAULT",
+                    "isDisabled": false,
+                    "text": {
+                        "runs": [
+                            {
+                                "text": "Skip navigation"
+                            }
+                        ]
+                    },
+                    "trackingParams": "CAUQ8FsiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                    "command": {
+                        "clickTrackingParams": "CAUQ8FsiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "sendPost": true
+                            }
+                        },
+                        "signalServiceEndpoint": {
+                            "signal": "CLIENT_SIGNAL",
+                            "actions": [
+                                {
+                                    "clickTrackingParams": "CAUQ8FsiEwj9sbzTy5b-AhWX2ZwKHVBqBeo=",
+                                    "signalAction": {
+                                        "signal": "SKIP_NAVIGATION"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            "voiceSearchButton": {
+                "buttonRenderer": {
+                    "style": "STYLE_DEFAULT",
+                    "size": "SIZE_DEFAULT",
+                    "isDisabled": false,
+                    "serviceEndpoint": {
+                        "clickTrackingParams": "CAIQ7a8FIhMI_bG808uW_gIVl9mcCh1QagXq",
+                        "commandMetadata": {
+                            "webCommandMetadata": {
+                                "sendPost": true
+                            }
+                        },
+                        "signalServiceEndpoint": {
+                            "signal": "CLIENT_SIGNAL",
+                            "actions": [
+                                {
+                                    "clickTrackingParams": "CAIQ7a8FIhMI_bG808uW_gIVl9mcCh1QagXq",
+                                    "openPopupAction": {
+                                        "popup": {
+                                            "voiceSearchDialogRenderer": {
+                                                "placeholderHeader": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Listening..."
+                                                        }
+                                                    ]
+                                                },
+                                                "promptHeader": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Didn't hear that. Try again."
+                                                        }
+                                                    ]
+                                                },
+                                                "exampleQuery1": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "\"Play Dua Lipa\""
+                                                        }
+                                                    ]
+                                                },
+                                                "exampleQuery2": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "\"Show me my subscriptions\""
+                                                        }
+                                                    ]
+                                                },
+                                                "promptMicrophoneLabel": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Tap microphone to try again"
+                                                        }
+                                                    ]
+                                                },
+                                                "loadingHeader": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Working..."
+                                                        }
+                                                    ]
+                                                },
+                                                "connectionErrorHeader": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "No connection"
+                                                        }
+                                                    ]
+                                                },
+                                                "connectionErrorMicrophoneLabel": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Check your connection and try again"
+                                                        }
+                                                    ]
+                                                },
+                                                "permissionsHeader": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Waiting for permission"
+                                                        }
+                                                    ]
+                                                },
+                                                "permissionsSubtext": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Allow microphone access to search with voice"
+                                                        }
+                                                    ]
+                                                },
+                                                "disabledHeader": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Search with your voice"
+                                                        }
+                                                    ]
+                                                },
+                                                "disabledSubtext": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "To search by voice, go to your browser settings and allow access to microphone"
+                                                        }
+                                                    ]
+                                                },
+                                                "microphoneButtonAriaLabel": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Cancel"
+                                                        }
+                                                    ]
+                                                },
+                                                "exitButton": {
+                                                    "buttonRenderer": {
+                                                        "style": "STYLE_DEFAULT",
+                                                        "size": "SIZE_DEFAULT",
+                                                        "isDisabled": false,
+                                                        "icon": {
+                                                            "iconType": "CLOSE"
+                                                        },
+                                                        "trackingParams": "CAQQ0LEFIhMI_bG808uW_gIVl9mcCh1QagXq",
+                                                        "accessibilityData": {
+                                                            "accessibilityData": {
+                                                                "label": "Cancel"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "trackingParams": "CAMQ7q8FIhMI_bG808uW_gIVl9mcCh1QagXq",
+                                                "microphoneOffPromptHeader": {
+                                                    "runs": [
+                                                        {
+                                                            "text": "Microphone off. Try again."
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        },
+                                        "popupType": "TOP_ALIGNED_DIALOG"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    "icon": {
+                        "iconType": "MICROPHONE_ON"
+                    },
+                    "tooltip": "Search with your voice",
+                    "trackingParams": "CAIQ7a8FIhMI_bG808uW_gIVl9mcCh1QagXq",
+                    "accessibilityData": {
+                        "accessibilityData": {
+                            "label": "Search with your voice"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "microformat": {
+        "microformatDataRenderer": {
+            "urlCanonical": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA",
+            "title": "Fireship",
+            "description": "High-intensity ⚡ code tutorials to help you build & ship your app faster. Subscribe for new videos every week covering intermediate to advanced lessons about...",
+            "thumbnail": {
+                "thumbnails": [
+                    {
+                        "url": "https://yt3.googleusercontent.com/ytc/AL5GRJUEZDXANi-9AD9yJzNTU1R0_cA1Brd6nLXLZaG31g=s200-c-k-c0x00ffffff-no-rj?days_since_epoch=19454",
+                        "width": 200,
+                        "height": 200
+                    }
+                ]
+            },
+            "siteName": "YouTube",
+            "appName": "YouTube",
+            "androidPackage": "com.google.android.youtube",
+            "iosAppStoreId": "544007664",
+            "iosAppArguments": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA",
+            "ogType": "yt-fb-app:channel",
+            "urlApplinksWeb": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA?feature=applinks",
+            "urlApplinksIos": "vnd.youtube://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA?feature=applinks",
+            "urlApplinksAndroid": "vnd.youtube://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA?feature=applinks",
+            "urlTwitterIos": "vnd.youtube://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA?feature=twitter-deep-link",
+            "urlTwitterAndroid": "vnd.youtube://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA?feature=twitter-deep-link",
+            "twitterCardType": "summary",
+            "twitterSiteHandle": "@YouTube",
+            "schemaDotOrgType": "http://schema.org/http://schema.org/YoutubeChannelV2",
+            "noindex": false,
+            "unlisted": false,
+            "familySafe": true,
+            "tags": [
+                "angular",
+                "firebase",
+                "web",
+                "development",
+                "javascript",
+                "typescript"
+            ],
+            "availableCountries": [
+                "BD",
+                "GD",
+                "BI",
+                "VI",
+                "VU",
+                "YE",
+                "ZM",
+                "IS",
+                "BW",
+                "BE",
+                "AD",
+                "CG",
+                "KN",
+                "EE",
+                "UG",
+                "IE",
+                "QA",
+                "CY",
+                "GA",
+                "JE",
+                "KR",
+                "ES",
+                "FK",
+                "TH",
+                "ID",
+                "TT",
+                "BG",
+                "BZ",
+                "GR",
+                "IQ",
+                "MW",
+                "MP",
+                "PN",
+                "HU",
+                "LA",
+                "SG",
+                "TG",
+                "TV",
+                "GQ",
+                "ET",
+                "PK",
+                "TZ",
+                "MX",
+                "VA",
+                "GT",
+                "SA",
+                "LR",
+                "PH",
+                "SO",
+                "DZ",
+                "SH",
+                "CM",
+                "GY",
+                "DM",
+                "LI",
+                "FJ",
+                "GG",
+                "CR",
+                "MT",
+                "CV",
+                "BY",
+                "RE",
+                "PW",
+                "SC",
+                "SJ",
+                "ZW",
+                "KI",
+                "PM",
+                "AF",
+                "MN",
+                "KY",
+                "ME",
+                "ER",
+                "RS",
+                "UM",
+                "CF",
+                "UY",
+                "KP",
+                "BO",
+                "CZ",
+                "NG",
+                "CD",
+                "NE",
+                "NP",
+                "AO",
+                "NA",
+                "AL",
+                "LY",
+                "WF",
+                "SX",
+                "MA",
+                "LV",
+                "PT",
+                "UZ",
+                "GI",
+                "KZ",
+                "GB",
+                "SL",
+                "GF",
+                "MZ",
+                "VE",
+                "RO",
+                "SD",
+                "SE",
+                "OM",
+                "AS",
+                "MM",
+                "SI",
+                "JO",
+                "LU",
+                "HM",
+                "BM",
+                "PL",
+                "HR",
+                "BT",
+                "GL",
+                "NR",
+                "TM",
+                "CK",
+                "EG",
+                "SY",
+                "PR",
+                "BR",
+                "GE",
+                "SM",
+                "VG",
+                "GN",
+                "MK",
+                "UA",
+                "KE",
+                "MY",
+                "CO",
+                "DK",
+                "KG",
+                "DE",
+                "TD",
+                "SZ",
+                "MO",
+                "LS",
+                "KW",
+                "NO",
+                "SS",
+                "KH",
+                "TO",
+                "PA",
+                "BA",
+                "WS",
+                "EH",
+                "IN",
+                "TN",
+                "MG",
+                "TJ",
+                "BS",
+                "AG",
+                "DJ",
+                "FR",
+                "PF",
+                "SB",
+                "BF",
+                "MV",
+                "GP",
+                "GS",
+                "GW",
+                "CW",
+                "MQ",
+                "SV",
+                "AU",
+                "VN",
+                "SR",
+                "CN",
+                "DO",
+                "GH",
+                "ML",
+                "GM",
+                "CI",
+                "AM",
+                "IO",
+                "AI",
+                "NU",
+                "BB",
+                "IM",
+                "RU",
+                "AZ",
+                "CA",
+                "AQ",
+                "US",
+                "NF",
+                "BH",
+                "MC",
+                "MD",
+                "MR",
+                "CU",
+                "GU",
+                "FO",
+                "PS",
+                "IT",
+                "LC",
+                "LK",
+                "PG",
+                "AR",
+                "NI",
+                "FI",
+                "KM",
+                "ST",
+                "TF",
+                "TW",
+                "EC",
+                "BJ",
+                "LT",
+                "CH",
+                "ZA",
+                "RW",
+                "JM",
+                "PE",
+                "CL",
+                "NL",
+                "HK",
+                "TR",
+                "CX",
+                "AX",
+                "AE",
+                "AT",
+                "MS",
+                "BV",
+                "MF",
+                "MU",
+                "HT",
+                "NZ",
+                "VC",
+                "SN",
+                "YT",
+                "SK",
+                "TC",
+                "BQ",
+                "IL",
+                "MH",
+                "TL",
+                "FM",
+                "AW",
+                "JP",
+                "CC",
+                "IR",
+                "LB",
+                "TK",
+                "BL",
+                "NC",
+                "BN",
+                "HN",
+                "PY"
+            ],
+            "linkAlternates": [
+                {
+                    "hrefUrl": "https://m.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA"
+                },
+                {
+                    "hrefUrl": "android-app://com.google.android.youtube/http/youtube.com/channel/UCsBjURrPoezykLs9EqgamOA"
+                },
+                {
+                    "hrefUrl": "ios-app://544007664/http/youtube.com/channel/UCsBjURrPoezykLs9EqgamOA"
+                }
+            ]
+        }
+    }
+}

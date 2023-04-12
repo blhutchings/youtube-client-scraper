@@ -1,0 +1,125 @@
+{
+    "context": {
+        "client": {
+            "hl": "en",
+            "gl": "CA",
+            "remoteHost": "[REDACTED]",
+            "deviceMake": "",
+            "deviceModel": "",
+            "visitorData": "Cgs0SXB0M3c0MlJrUSipi9WhBg%3D%3D",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED] Safari/537.36,gzip(gfe)",
+            "clientName": "WEB",
+            "clientVersion": "2.20230331.00.00",
+            "osName": "Windows",
+            "osVersion": "10.0",
+            "originalUrl": "https://www.youtube.com/channel/UCOquqcRMJmURiGfEnaitptg",
+            "screenPixelDensity": 1,
+            "platform": "DESKTOP",
+            "clientFormFactor": "UNKNOWN_FORM_FACTOR",
+            "configInfo": {
+                "appInstallData": "CKmL1aEGENf_rgUQi-quBRDM9a4FEO2GrwUQouyuBRC4i64FEI73rgUQ5_euBRDj3a4FEOSz_hIQ4tSuBRDM364FELjUrgUQ1u6uBRDloP4SEKC3_hIQpZmvBRDnrf4SEInorgUQt5GvBRCvn68FEIKdrwUQzK7-EhCFg68FEO65_hI%3D"
+            },
+            "screenDensityFloat": 1.25,
+            "userInterfaceTheme": "USER_INTERFACE_THEME_DARK",
+            "browserName": "Chrome",
+            "browserVersion": "[REDACTED]",
+            "acceptHeader": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+            "deviceExperimentId": "ChxOekl5TURjMU5ERTNNRGs0TkRZM05UZzVOdz09EKmL1aEGGKmL1aEG",
+            "screenWidthPoints": 1202,
+            "screenHeightPoints": 1010,
+            "utcOffsetMinutes": -180,
+            "memoryTotalKbytes": "8000000",
+            "mainAppWebInfo": {
+                "graftUrl": "/channel/UCOquqcRMJmURiGfEnaitptg",
+                "pwaInstallabilityStatus": "PWA_INSTALLABILITY_STATUS_UNKNOWN",
+                "webDisplayMode": "WEB_DISPLAY_MODE_BROWSER",
+                "isWebNativeShareAvailable": true
+            },
+            "timeZone": "America/Halifax"
+        },
+        "user": {
+            "lockedSafetyMode": false
+        },
+        "request": {
+            "useSsl": true,
+            "internalExperimentFlags": [],
+            "consistencyTokenJars": []
+        },
+        "clickTracking": {
+            "clickTrackingParams": "CBoQpawBIhMIo8K49t2h_gIVNvbBCh3FYwPL"
+        },
+        "adSignalsInfo": {
+            "params": [
+                {
+                    "key": "dt",
+                    "value": "1681212842280"
+                },
+                {
+                    "key": "flash",
+                    "value": "0"
+                },
+                {
+                    "key": "frm",
+                    "value": "0"
+                },
+                {
+                    "key": "u_tz",
+                    "value": "-180"
+                },
+                {
+                    "key": "u_his",
+                    "value": "3"
+                },
+                {
+                    "key": "u_h",
+                    "value": "1152"
+                },
+                {
+                    "key": "u_w",
+                    "value": "2048"
+                },
+                {
+                    "key": "u_ah",
+                    "value": "1112"
+                },
+                {
+                    "key": "u_aw",
+                    "value": "2048"
+                },
+                {
+                    "key": "u_cd",
+                    "value": "24"
+                },
+                {
+                    "key": "bc",
+                    "value": "31"
+                },
+                {
+                    "key": "bih",
+                    "value": "1010"
+                },
+                {
+                    "key": "biw",
+                    "value": "1186"
+                },
+                {
+                    "key": "brdim",
+                    "value": "0,0,0,0,2048,0,2048,1112,1202,1010"
+                },
+                {
+                    "key": "vis",
+                    "value": "1"
+                },
+                {
+                    "key": "wgl",
+                    "value": "true"
+                },
+                {
+                    "key": "ca_type",
+                    "value": "image"
+                }
+            ]
+        }
+    },
+    "browseId": "UCOquqcRMJmURiGfEnaitptg"
+}

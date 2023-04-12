@@ -1,0 +1,3 @@
+Depending on index, there are 25 videos before current and 25 videos after.
+Meaning if your at index 0, there are 25 videos infront.
+If you go to index 25, there are 25 new vidoes infront, but the previous 25 are the same as at index 0
