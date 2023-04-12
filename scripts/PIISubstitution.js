@@ -1,6 +1,6 @@
 import fs from "fs";
 
-// Currently just used to remove ipv4 like strings to make sure I don't dox myself
+// Used to remove ipv4 like strings to make sure I don't dox myself
 const ipRE = new RegExp(/(\b25[0-5]|\b2[0-4][0-9]|\b[01]?[0-9][0-9]?)(\.(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}/, 'gim')
 const regexes = [ipRE]
 
