@@ -1,7 +1,5 @@
-import { ClientType } from "./ClientType.js";
-import stringSimilarity from "string-similarity";
 
-
+/*
 //https://api.ssllabs.com/api/v3/getClients
 export class UserAgentTLSMatcher {
     userAgents: string[] = []
@@ -22,3 +20,4 @@ export class UserAgentTLSMatcher {
         return this.suiteNames[ratings.bestMatchIndex].join(':')
     }
 }
+*/
