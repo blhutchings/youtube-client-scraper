@@ -5,13 +5,15 @@ import { Map$Account } from "./Account.js";
 
 export interface Schema$AccountLive {
     results?: Schema$RichItemRenderer[];
-    continue?: () => Promise<any>;
+    continue: () => Promise<Schema$RichItemRenderer | undefined>;
 }
 
 export default class Resource$AccountLive {
 
     static parse(data: Map$Account, client: YouTubeClient, context: YouTubeContext): Schema$AccountLive {
-        let AccountLive : Schema$AccountLive = {};
+        let AccountLive : Schema$AccountLive = {
+            continue: async () => { return undefined }
+        };
 
         AccountLive ['results'] = data?.live.contents.flatMap((content: any) => {
             if (content.richItemRenderer?.content.videoRenderer) {
@@ -21,7 +23,7 @@ export default class Resource$AccountLive {
             }
         })
 
-        AccountLive ['continue'] = async () => {}
+        // AccountLive ['continue'] = async () => {}
 
         return AccountLive ;
     }
