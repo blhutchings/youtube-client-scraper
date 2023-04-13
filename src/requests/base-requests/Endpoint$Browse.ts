@@ -12,7 +12,7 @@ export default class Endpoint$Browse  {
                 referer: context.referer
             },
             body: body,
-            parseJson: text => JSON.parse(text)
+            parseJson: (text: string) => JSON.parse(text)
         })
 
         return response.json<T>();
