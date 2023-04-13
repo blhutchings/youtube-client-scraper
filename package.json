@@ -4,9 +4,9 @@
   "description": "A library to scrape important information off YouTube",
   "main": "index.js",
   "type": "module",
-  "directories": {
-    "test": "test"
-  },
+  "files": [
+    "build"
+  ],
   "scripts": {
     "compile": "tsc",
     "start": "node build/index.js",
