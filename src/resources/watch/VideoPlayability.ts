@@ -1,4 +1,4 @@
-import YouTubeClient from "../../YouTubeClient.js";
+import YouTubeClient from "../../clients/YouTubeClient.js";
 import YouTubeContext from "../../YouTubeContext.js";
 import Resource$Video, { Schema$Video, Data$Video } from "./Video.js";
 

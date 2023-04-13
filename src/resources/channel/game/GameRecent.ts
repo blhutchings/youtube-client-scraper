@@ -3,7 +3,7 @@ import { Map$Game } from "./Game.js";
 
 export interface Schema$GameRecent {
     results?: Schema$RichItemRenderer[];
-    continue?: () => Promise<any>
+    continue?: () => Promise<Schema$RichItemRenderer | undefined>
 }
 
 

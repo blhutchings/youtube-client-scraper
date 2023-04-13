@@ -1,7 +1,8 @@
-import YouTubeClient from "../YouTubeClient.js";
+import YouTubeClient from "../clients/YouTubeClient.js";
 import YouTubeContext from "../YouTubeContext.js";
 import { Resource$Gaming } from "../resources/channel/gaming/Gaming.js";
 import { YouTubeConfigContext } from "../types/YouTubeConfig.js";
+import ResourceParseError from "../util/ParserError.js";
 import Endpoint$Browse from "./base-requests/Endpoint$Browse.js";
 
 const tabParams = {
@@ -22,7 +23,11 @@ export async function Request$Gaming(searchParams: SearchParams$Gaming, client: 
     context.currentUrl = urlMap[searchParams.tab]
     const body = JSON.stringify(new Body$Gaming(searchParams, client.config))
     const data = await Endpoint$Browse.post(body, client, context)
-    return Resource$Gaming.parse(data, client, context);
+    try {
+        return Resource$Gaming.parse(data, client, context);
+    } catch (err) {
+        throw new ResourceParseError(JSON.stringify(data), context)
+    }
 }
 
 export class Body$Gaming {

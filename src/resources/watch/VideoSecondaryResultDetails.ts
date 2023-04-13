@@ -1,4 +1,4 @@
-import YouTubeClient from "../../YouTubeClient.js";
+import YouTubeClient from "../../clients/YouTubeClient.js";
 import YouTubeContext from "../../YouTubeContext.js";
 import { Body$Continuation } from "../../requests/Continuation.js";
 import Endpoint$Next from "../../requests/base-requests/Endpoint$Next.js";

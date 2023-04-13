@@ -1,4 +1,4 @@
-import YouTubeClient from "../../YouTubeClient.js";
+import YouTubeClient from "../../clients/YouTubeClient.js";
 import YouTubeContext from "../../YouTubeContext.js";
 
 export default class Endpoint$Next {

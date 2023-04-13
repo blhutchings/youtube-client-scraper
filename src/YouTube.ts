@@ -1,4 +1,4 @@
-import YouTubeClient from "./YouTubeClient.js";
+import YouTubeClient from "./clients/YouTubeClient.js";
 import YouTubeContext from "./YouTubeContext.js";
 import { SearchParams$Account, Request$Account } from "./requests/Request$Account.js";
 import { SearchParams$Game, Request$Game } from "./requests/Request$Game.js";

@@ -1,7 +1,8 @@
-import YouTubeClient from "../YouTubeClient.js"
+import YouTubeClient from "../clients/YouTubeClient.js"
 import YouTubeContext from "../YouTubeContext.js"
 import Resource$Video from "../resources/watch/Video.js"
 import { YouTubeConfigContext } from "../types/YouTubeConfig.js"
+import ResourceParseError from "../util/ParserError.js"
 import Endpoint$Next from "./base-requests/Endpoint$Next.js"
 import Endpoint$Player from "./base-requests/Endpoint$Player.js"
 
@@ -25,8 +26,11 @@ export async function Request$Video(searchParams: SearchParams$Video, client: Yo
         next: await next,
         player: await player
     }
-    const res = Resource$Video.parse(data, client, context);
-    return res;
+    try {
+        return Resource$Video.parse(data, client, context);
+    } catch (err) {
+        throw new ResourceParseError(JSON.stringify(data), context)
+    }
 }
 
 class Body$NextVideo {

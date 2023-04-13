@@ -1,4 +1,4 @@
-import YouTubeClient from "../../../YouTubeClient.js";
+import YouTubeClient from "../../../clients/YouTubeClient.js";
 import YouTubeContext from "../../../YouTubeContext.js";
 import { Resource$ThumbnailDetails, Schema$Thumbnail } from "../../common/ThumbnailDetails.js";
 import { getNumber, hmsToSeconds, getChannelHandle } from "../../../util/ParserUtils.js";

@@ -1,4 +1,4 @@
-import YouTubeClient from "../../../YouTubeClient.js";
+import YouTubeClient from "../../../clients/YouTubeClient.js";
 import YouTubeContext from "../../../YouTubeContext.js";
 import { Schema$GamingLive, Resource$GamingLive } from "./GamingLive.js";
 import { Schema$GamingSnippet, Resource$GamingSnippet } from "./GamingSnippet.js";

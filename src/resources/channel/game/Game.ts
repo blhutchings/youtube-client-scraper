@@ -1,6 +1,5 @@
-import YouTubeClient from "../../../YouTubeClient.js";
+import YouTubeClient from "../../../clients/YouTubeClient.js";
 import YouTubeContext from "../../../YouTubeContext.js";
-import { Map$Account } from "../account/Account.js";
 import { Schema$GameAbout, Resource$GameAbout } from "./GameAbout.js";
 import { Schema$GameLive, Resource$GameLive } from "./GameLive.js";
 import { Schema$GameRecent, Resource$GameRecent } from "./GameRecent.js";

@@ -1,10 +1,11 @@
 import got, { Got, Options, Headers } from "got"
 import { CookieJar } from "tough-cookie"
-import YouTubeClientAgent from "./YouTubeClientAgent.js"
-import YouTubeConfigExtractor from "./util/YouTubeConfigExtractor.js"
-import { YouTubeConfig, YouTubeConfigContext } from "./types/YouTubeConfig.js"
+import YouTubeClientAgent from "../YouTubeClientAgent.js"
+import YouTubeConfigExtractor from "../util/YouTubeConfigExtractor.js"
+import { YouTubeConfig, YouTubeConfigContext } from "../types/YouTubeConfig.js"
+import YouTubeClient from "./YouTubeClient.js"
 
-export default class YouTubeClient {
+export default class NodeYouTubeClient implements YouTubeClient {
     readonly got: Got
     readonly config: YouTubeConfigContext
 
@@ -14,7 +15,6 @@ export default class YouTubeClient {
     }
 
     static async createClient(headers?: Headers): Promise<YouTubeClient> {
-
         const options = new Options({
             prefixUrl: "https://www.youtube.com/",
             http2: true,
@@ -30,17 +30,16 @@ export default class YouTubeClient {
         const homepage = await client.get('');
 
         const ytcfg = YouTubeConfigExtractor.extract_ytcfg(homepage.body)
-        const defaultHeaders = YouTubeClient.createDefaultHeaders(ytcfg)
-        const config = YouTubeClient.createConfig(ytcfg)
+        const defaultHeaders = NodeYouTubeClient.createDefaultHeaders(ytcfg)
+        const config = NodeYouTubeClient.createConfig(ytcfg)
 
         // Override headers
         client = client.extend({
             headers: { ...defaultHeaders, ...headers }
         })
 
-        return new YouTubeClient(client, config);
+        return new NodeYouTubeClient(client, config);
     }
-
 
     private static createDefaultHeaders(ytcfg: YouTubeConfig): Headers {
         // Define header order and replace any user defined defaults
