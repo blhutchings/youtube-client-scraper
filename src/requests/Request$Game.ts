@@ -21,12 +21,12 @@ const urlMap = {
 
 export type SearchParams$Game = {
     browseId: string,
-    tab: keyof typeof tabParams
+    tab: keyof typeof tabParams 
 }
 
 export async function Request$Game(searchParams: SearchParams$Game, client: YouTubeClient, context: YouTubeContext) {
     context.currentUrl = urlMap[searchParams.tab](searchParams.browseId)
-    const body = JSON.stringify(new Body$Account(searchParams, client.config))
+    const body = JSON.stringify(new Body$Game(searchParams, client.config))
     const data = await Endpoint$Browse.post(body, client, context)
     try {
         return Resource$Game.parse(data, client, context);
@@ -35,7 +35,7 @@ export async function Request$Game(searchParams: SearchParams$Game, client: YouT
     }
 }
 
-export class Body$Account {
+export class Body$Game {
     context: YouTubeConfigContext['INNERTUBE_CONTEXT'];
     browseId: string;
     params: string;
