@@ -2,7 +2,7 @@ import YouTubeClient from "../clients/YouTubeClient.js"
 import YouTubeContext from "../YouTubeContext.js"
 import { Resource$Search } from "../resources/search/Search.js"
 import { YouTubeConfigContext } from "../types/YouTubeConfig.js"
-import ResourceParseError from "../util/ParserError.js"
+import ResourceParseError from "../util/ResourceParseError.js"
 import Endpoint$Search from "./base-requests/Endpoint$Search.js"
 
 const urlMap = (query: string) => {
@@ -20,8 +20,8 @@ export async function Request$Search(searchParams: SearchParams$Search, client: 
 
     try {
         return Resource$Search.parse(data, client, context);
-    } catch (err) {
-        throw new ResourceParseError(JSON.stringify(data), context)
+    } catch (err: any) {
+        throw new ResourceParseError(err.message, JSON.stringify(data), context)
     }
 }
 
