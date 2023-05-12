@@ -33,6 +33,7 @@ export default class Resource$VideoSecondaryResultDetails {
         });
 
         const token = data?.secondaryResults?.findLast((item: any) => item?.continuationItemRenderer)?.continuationItemRenderer.continuationEndpoint.continuationCommand.token
+        
         if (token) {
             VideoSecondaryResultDetails['continue'] = async () => {
                 const continuationContext = {

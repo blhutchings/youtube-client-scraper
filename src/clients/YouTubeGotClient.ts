@@ -5,7 +5,7 @@ import YouTubeConfigExtractor from "../util/YouTubeConfigExtractor.js"
 import { YouTubeConfig, YouTubeConfigContext } from "../types/YouTubeConfig.js"
 import YouTubeClient from "./YouTubeClient.js"
 
-export default class NodeYouTubeClient implements YouTubeClient {
+export default class YouTubeGotClient implements YouTubeClient {
     readonly got: Got
     readonly config: YouTubeConfigContext
 
@@ -14,31 +14,34 @@ export default class NodeYouTubeClient implements YouTubeClient {
         this.config = config;
     }
 
-    static async createClient(headers?: Headers): Promise<YouTubeClient> {
-        const options = new Options({
+    static async createClient(options?: Options): Promise<YouTubeClient> {
+        const defaultOptions = new Options(options, {
             prefixUrl: "https://www.youtube.com/",
             http2: true,
             agent: {
                 http2: new YouTubeClientAgent()
             },
-            headers: headers ?? {},
             cookieJar: new CookieJar()
         })
 
-        let client = got.extend(options)
+        let client = got.extend(defaultOptions)
 
         const homepage = await client.get('');
 
         const ytcfg = YouTubeConfigExtractor.extract_ytcfg(homepage.body)
-        const defaultHeaders = NodeYouTubeClient.createDefaultHeaders(ytcfg)
-        const config = NodeYouTubeClient.createConfig(ytcfg)
+        const defaultHeaders = YouTubeGotClient.createDefaultHeaders(ytcfg)
+        const config = YouTubeGotClient.createConfig(ytcfg)
+
+        if (!config.INNERTUBE_CONTEXT?.client?.hl?.toLowerCase().includes("en")) {
+            console.log(`YouTube localization is set to '${config.INNERTUBE_CONTEXT?.client?.hl}' and not an english varient, some properties may be undefined.`)
+        }
 
         // Override headers
         client = client.extend({
-            headers: { ...defaultHeaders, ...headers }
+            headers: { ...defaultHeaders }
         })
 
-        return new NodeYouTubeClient(client, config);
+        return new YouTubeGotClient(client, config);
     }
 
     private static createDefaultHeaders(ytcfg: YouTubeConfig): Headers {

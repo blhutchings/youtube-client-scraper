@@ -1,3 +1,3 @@
 import YouTube from "./YouTube.js";
-import YouTubeClient from "./clients/NodeYouTubeClient.js";
-export { YouTube, YouTubeClient as YouTubeClient }
+import YouTubeGotClient from "./clients/YouTubeGotClient.js";
+export { YouTube, YouTubeGotClient }

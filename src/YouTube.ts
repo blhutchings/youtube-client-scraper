@@ -8,6 +8,7 @@ import { SearchParams$Video, Request$Video } from "./requests/Request$Video.js";
 
 export default class YouTube {
     private client: YouTubeClient;
+    
     private readonly context: YouTubeContext = {
         referer: "https://www.youtube.com/",
         currentUrl: "/"

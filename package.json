@@ -10,8 +10,7 @@
   "scripts": {
     "compile": "tsc",
     "start": "node build/index.js",
-    "prestart": "npm run compile",
-    "prepublish": "node scripts\\PIISubstitution.js"
+    "prestart": "npm run compile"
   },
   "repository": {
     "type": "git",
