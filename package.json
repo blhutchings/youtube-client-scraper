@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "A library to scrape important information off YouTube",
   "main": "index.js",
-  "types": "build/index.d.ts",
+  "types": "lib/index.d.ts",
   "type": "module",
   "files": [
-    "dist"
+    "lib/**/*"
   ],
   "scripts": {
     "dist": "npm run clean && tsc",
