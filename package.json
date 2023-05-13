@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "install": "npm run dist",
-    "dist": "npm run clean && tsc",
+    "dist": "tsc",
     "prestart": "tsc --sourceMap true",
     "start": "node ./lib/index.js",
     "clean": "node ./scripts/Clean.js"
