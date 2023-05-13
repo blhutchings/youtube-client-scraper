@@ -3,14 +3,16 @@
   "version": "1.0.0",
   "description": "A library to scrape important information off YouTube",
   "main": "index.js",
+  "types": "build/index.d.ts",
   "type": "module",
   "files": [
-    "build"
+    "dist"
   ],
   "scripts": {
-    "compile": "tsc",
-    "start": "node build/index.js",
-    "prestart": "npm run compile"
+    "dist": "npm run clean && tsc",
+    "prestart": "tsc --sourceMap true",
+    "start": "node ./lib/index.js",
+    "clean": "node ./scripts/Clean.js"
   },
   "repository": {
     "type": "git",
@@ -33,15 +35,14 @@
   },
   "homepage": "https://github.com/blhutchings/youtube-client-scraper#readme",
   "dependencies": {
+    "@types/got": "^9.6.12",
+    "@types/tough-cookie": "^4.0.2",
     "got": "^12.6.0",
-    "got-fetch": "^5.1.4",
     "http2-wrapper": "^2.2.0",
     "tough-cookie": "^4.1.2"
   },
   "devDependencies": {
-    "@types/got": "^9.6.12",
     "@types/node": "^18.15.0",
-    "@types/tough-cookie": "^4.0.2",
     "typescript": "^5.0.4"
   }
 }
