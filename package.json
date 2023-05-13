@@ -3,13 +3,17 @@
   "version": "1.0.0",
   "description": "A library to scrape important information off YouTube",
   "main": "index.js",
-  "types": "lib/index.d.ts",
   "type": "module",
+  "exports": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "engines": {
+    "node": ">=18.16"
+  },
   "files": [
-    "lib/**/*"
+    "lib"
   ],
   "scripts": {
-    "dist": "tsc",
+    "build": "npm run clean && tsc",
     "prestart": "tsc --sourceMap true",
     "start": "node ./lib/index.js",
     "clean": "node ./scripts/Clean.js"
