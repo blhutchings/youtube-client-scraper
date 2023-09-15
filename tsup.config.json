@@ -1,0 +1,7 @@
+{
+    "entry": ["src/index.ts"],
+    "dts": true,
+    "clean": true,
+    "format": ["esm", "cjs"],
+    "outDir": "dist"
+  }

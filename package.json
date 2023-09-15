@@ -2,15 +2,20 @@
   "name": "youtube-client-scraper",
   "version": "1.0.0",
   "description": "A library to scrape important information off YouTube",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
   "type": "module",
   "files": [
-    "build"
+    "dist/**/*"
   ],
   "scripts": {
     "compile": "tsc",
-    "start": "node build/index.js",
     "prestart": "npm run compile",
+    "start": "node build/index.js",
+    "build": "tsup",
+    "prepare": "tsup",
+    "prepublishOnly": "npm run lint:fix && npm run build",
     "prepublish": "node scripts\\PIISubstitution.js"
   },
   "repository": {
@@ -37,7 +42,8 @@
     "got": "^12.6.0",
     "got-fetch": "^5.1.4",
     "http2-wrapper": "^2.2.0",
-    "tough-cookie": "^4.1.2"
+    "tough-cookie": "^4.1.2",
+    "tsup": "^7.2.0"
   },
   "devDependencies": {
     "@types/got": "^9.6.12",
