@@ -5,6 +5,7 @@ import { SearchParams$Game, Request$Game } from "./requests/Request$Game.js";
 import { SearchParams$Gaming, Request$Gaming } from "./requests/Request$Gaming.js";
 import { SearchParams$Search, Request$Search } from "./requests/Request$Search.js";
 import { SearchParams$Video, Request$Video } from "./requests/Request$Video.js";
+import { Request$GameTitle, SearchParams$GameTitle } from "./requests/Request$GameTitle.js";
 
 export default class YouTube {
     private client: YouTubeClient;
@@ -35,6 +36,10 @@ export default class YouTube {
 
     gaming(searchParams: SearchParams$Gaming) {
         return Request$Gaming(searchParams, this.client, { ...this.context });
+    }
+
+    gameTitle(searchParams: SearchParams$GameTitle) {
+        return Request$GameTitle(searchParams, this.client, { ...this.context });
     }
 
 }
