@@ -7,6 +7,10 @@ export default class YouTubeConfigExtractor {
     static extract_ytcfg(html: string): YouTubeConfig {
         let match = html.match(YouTubeConfigExtractor.re_ytcfg)
         if (!match) throw Error("Could not extract ytcfg")
-        return JSON.parse(match[1]) as YouTubeConfig
+
+        const matched = match[1]
+        if (!matched) throw Error("matched is undefined")
+
+        return JSON.parse(matched) as YouTubeConfig
     }
 }

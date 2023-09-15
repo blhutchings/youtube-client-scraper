@@ -28,6 +28,9 @@ export interface Schema$CompactRenderer {
 export default class Resource$CompactRenderer {
     static parse(compactUnknownRenderer: any, client: YouTubeClient, context: YouTubeContext) {
         const key = Object.keys(compactUnknownRenderer)[0];
+        if (!key) {
+            throw Error("key is undefined")
+        }
         const renderer = compactUnknownRenderer[key];
 
         let CompactRenderer: Schema$CompactRenderer = {};

@@ -21,7 +21,11 @@ export default class Resource$CompactRendererPlaylist {
             type: "playlist"
         }
         const key = Object.keys(compactPlaylistOrRadioRenderer)[0];
+        if (!key) {
+            throw Error("key is undefined")
+        }
         const renderer = compactPlaylistOrRadioRenderer[key];
+        
 
         CompactPlaylistRenderer['playlistId'] = renderer?.playlistId;
         CompactPlaylistRenderer['videoCount'] = getNumber(renderer?.videoCountShortText?.simpleText);
