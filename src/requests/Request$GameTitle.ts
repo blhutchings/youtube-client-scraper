@@ -1,8 +1,8 @@
 import YouTubeContext from "../YouTubeContext.js";
-import { YouTubeClient } from "../index.js";
+import YouTubeClient from "../clients/YouTubeClient.js";
 import { Resource$GameTitle } from "../resources/gaming/GameTitle.js";
 import { YouTubeConfigContext } from "../types/YouTubeConfig.js";
-import ResourceParseError from "../util/ParserError.js";
+import ResourceParseError from "../util/ResourceParseError.js";
 import Endpoint$GameTitle from "./base-requests/Endpoint$GameTitle.js";
 
 export type SearchParams$GameTitle = {
@@ -14,8 +14,8 @@ export async function Request$GameTitle(searchParams: SearchParams$GameTitle, cl
     const data = await Endpoint$GameTitle.post(body, client, context)
     try {
         return Resource$GameTitle.parse(data);
-    } catch (err) {
-        throw new ResourceParseError(JSON.stringify(data), context)
+    } catch (err: any) {
+        throw new ResourceParseError(err.message, JSON.stringify(data), context)
     }
 }
 

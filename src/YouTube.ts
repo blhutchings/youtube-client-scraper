@@ -9,6 +9,7 @@ import { Request$GameTitle, SearchParams$GameTitle } from "./requests/Request$Ga
 
 export default class YouTube {
     private client: YouTubeClient;
+    
     private readonly context: YouTubeContext = {
         referer: "https://www.youtube.com/",
         currentUrl: "/"

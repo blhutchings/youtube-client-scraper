@@ -2,7 +2,7 @@ import YouTubeClient from "../clients/YouTubeClient.js"
 import YouTubeContext from "../YouTubeContext.js"
 import Resource$Video from "../resources/watch/Video.js"
 import { YouTubeConfigContext } from "../types/YouTubeConfig.js"
-import ResourceParseError from "../util/ParserError.js"
+import ResourceParseError from "../util/ResourceParseError.js"
 import Endpoint$Next from "./base-requests/Endpoint$Next.js"
 import Endpoint$Player from "./base-requests/Endpoint$Player.js"
 
@@ -28,8 +28,8 @@ export async function Request$Video(searchParams: SearchParams$Video, client: Yo
     }
     try {
         return Resource$Video.parse(data, client, context);
-    } catch (err) {
-        throw new ResourceParseError(JSON.stringify(data), context)
+    } catch (err: any) {
+        throw new ResourceParseError(err.message, JSON.stringify(data), context)
     }
 }
 

@@ -1,8 +1,9 @@
 import YouTubeContext from "../YouTubeContext.js";
 
 export default class ResourceParseError extends Error {
-    constructor(data: string, context: YouTubeContext) {
+    constructor(message: string, data: string, context: YouTubeContext) {
         super();
+        this.message = message;
         this.cause = {
             context: context,
             data: data
