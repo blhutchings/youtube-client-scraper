@@ -1,16 +1,10 @@
 {
-    "files.exclude": {
-        "**/.git": true,
-        "**/.svn": true,
-        "**/.hg": true,
-        "**/CVS": true,
-        "**/.DS_Store": true,
-        "**/Thumbs.db": true,
-        "**/node_modules": false
-    },
-    "files.associations": {
-        "iostream": "cpp"
-    },
-    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
-    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,  
-}
+    "files.eol": "\n",
+    "files.encoding": "utf8",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false,
+    "editor.detectIndentation": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  }

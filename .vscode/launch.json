@@ -12,11 +12,12 @@
             "preLaunchTask": "compile",
             "sourceMaps": true,
             "smartStep": true,
+            "console": "integratedTerminal",
             "internalConsoleOptions": "openOnSessionStart",
             "showAsyncStacks": false,
             "skipFiles": [
-                "<node_internals>/**",
-                "node_modules/**"
+				"node_modules/**/*.js",
+				"build/**/*.js"
             ]
         }
     ]
