@@ -1,9 +1,8 @@
-import { Schema$Thumbnail } from "../../common/ThumbnailDetails.js";
 import { Map$Game } from "./Game.js";
 
 export interface Schema$GameSnippet {
     title?: string;
-    description?: string;
+    simpleDescription?: string;
     metadata?: string[];
     badges?: string[];
     boxart?: URL;
@@ -16,12 +15,12 @@ export class Resource$GameSnippet {
         let GameSnippet: Schema$GameSnippet = {};
 
         GameSnippet['title'] = data?.header?.title?.simpleText;
-        GameSnippet['description'] = data?.header?.description?.simpleText;
+        GameSnippet['simpleDescription'] = data?.header?.description?.simpleText;
         GameSnippet['metadata'] = data?.header?.metadata?.runs?.filter((run: any) => !run.text.includes('•')).map((run: any) => run.text);
         GameSnippet['badges'] = data?.header?.badges?.map((item: any) => item.metadataBadgeRenderer?.label);
         GameSnippet['boxart'] = new URL(data?.header?.boxArt?.thumbnails[0].url.split('=')[0])
         GameSnippet['banner'] = new URL(data?.header?.banner?.thumbnails[0].url.split('=')[0])
-        
+    
         return GameSnippet;
     }
 }
