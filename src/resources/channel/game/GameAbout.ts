@@ -5,30 +5,29 @@ export interface Schema$GameAbout {
     publishedAt?: string;
     links?: {
         title?: string;
-        icon?: string;
-        url?: string;
+        url?: URL;
     }[]
 }
 
 export class Resource$GameAbout {
     static parse(data: Map$Game): Schema$GameAbout {
         let GameAbout: Schema$GameAbout = {};
+		
+        GameAbout['description'] = data?.about?.description?.simpleText
+        GameAbout['publishedAt'] = data?.about?.joinedDateText?.runs?.[1]?.text;
+		GameAbout['links'] = undefined;
+        const links: any[] | undefined = data.about.links;
 
-        GameAbout['description'] = data?.about?.description?.simpleText;
-        GameAbout['publishedAt'] = data?.about?.joinedDateText?.runs?.[1]?.text
-
-        const primaryLinks: any[] | undefined = data?.about?.primaryLinks
-        if (primaryLinks && primaryLinks.length > 0) {
+		if (links && links.length > 0) {
             GameAbout['links'] = [];
-            primaryLinks.forEach((link: any) => {
-                const title = link?.title?.simpleText;
-                const icon = link?.icon?.thumbnails?.[0]?.url
-                const url = link?.navigationEndpoint?.urlEndpoint?.url?.split('q=')?.[1]
+            links.forEach((link: any) => {
+				const innerLink = link.channelExternalLinkViewModel
+                const title = innerLink.title.content;
+                const url = "https://" + innerLink.link.content;
 
                 GameAbout['links']?.push({
                     title: title,
-                    icon: icon,
-                    url: (url !== 'undefined') ? decodeURIComponent(url) : undefined
+                    url: new URL(url)
                 })
             })
         }
