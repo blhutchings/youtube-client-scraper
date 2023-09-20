@@ -33,7 +33,7 @@ export default class YouTubeGotClient implements YouTubeClient {
         const config = YouTubeGotClient.createConfig(ytcfg)
 
         if (!config.INNERTUBE_CONTEXT?.client?.hl?.toLowerCase().includes("en")) {
-            console.log(`YouTube localization is set to '${config.INNERTUBE_CONTEXT?.client?.hl}' and not an english varient, some properties may be undefined.`)
+            console.warn(`YouTube localization is set to '${config.INNERTUBE_CONTEXT?.client?.hl}' and not an english varient, some properties may be undefined.`)
         }
 
         // Override headers
