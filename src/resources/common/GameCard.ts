@@ -6,6 +6,9 @@ export interface Schema$GameCard {
     isOfficialBoxArt?: boolean;
 }
 
+/**
+ * Resource$GameCard is a Video Game Display Card
+ */
 export class Resource$GameCard {
     static parse(gameDetailsRenderer: any) {
         let GamingGameCard: Schema$GameCard = {};

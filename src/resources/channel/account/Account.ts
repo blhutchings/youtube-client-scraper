@@ -1,5 +1,5 @@
 import YouTubeClient from "../../../clients/YouTubeClient.js";
-import YouTubeContext from "../../../YouTubeContext.js";
+import YouTubeContext from "../../../clients/YouTubeContext.js";
 import Resource$AccountAbout, { Schema$AccountAbout } from "./AccountAbout.js";
 import Resource$AccountLive, { Schema$AccountLive } from "./AccountLive.js";
 import Resource$AccountSnippet, { Schema$AccountSnippet } from "./AccountSnippet.js";

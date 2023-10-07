@@ -1,3 +1,4 @@
+import { VocabularyMap } from "../../VocabularyMap.js";
 import { getChannelHandle, getFirstNumberInRuns, getNumber, hmsToSeconds } from "../../util/ParserUtils.js";
 import { Resource$ThumbnailDetails, Schema$ThumbnailDetails } from "./ThumbnailDetails.js";
 
@@ -23,6 +24,7 @@ export interface Schema$RichItemRenderer {
 }
 
 export default class Resource$RichItemRenderer {
+
     // Need to specifiy what tab as alone you can't tell the difference between an upcoming premiere and upcoming stream 
     static parse(videoRenderer: any, channelTab?: string): Schema$RichItemRenderer {
         let RichItemRenderer: Schema$RichItemRenderer = {};
@@ -46,10 +48,9 @@ export default class Resource$RichItemRenderer {
             videoRenderer.badge?.some((badge: any) => badge.metadataBadgeRenderer.label === "LIVE")) { // Game
             RichItemRenderer['isLive'] = true;
         }
+		
         // Need to check if premiere 
-        
-
-        const wasStreamed = videoRenderer.publishedTimeText?.simpleText.includes("Streamed");
+        const wasStreamed = videoRenderer.publishedTimeText?.simpleText.includes(VocabularyMap.STREAMED);
         if (wasStreamed) {
             RichItemRenderer['isLive'] = false;
         };
