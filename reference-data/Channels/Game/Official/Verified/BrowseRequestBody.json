@@ -1,0 +1,78 @@
+{
+  "context": {
+    "client": {
+      "hl": "en",
+      "gl": "CA",
+      "remoteHost": "[REDACTED]",
+      "deviceMake": "",
+      "deviceModel": "",
+      "visitorData": "Cgs2UTZxVi10SGpmWSiRr4CpBjIICgJDQRICGgA%3D",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/[REDACTED] Safari/537.36,gzip(gfe)",
+      "clientName": "WEB",
+      "clientVersion": "2.20231003.02.01",
+      "osName": "Windows",
+      "osVersion": "10.0",
+      "originalUrl": "https://www.youtube.com/channel/UCQvWX73GQygcwXOTSf_VDVg/official",
+      "platform": "DESKTOP",
+      "clientFormFactor": "UNKNOWN_FORM_FACTOR",
+      "configInfo": {
+        "appInstallData": "CJGvgKkGEOLUrgUQ1KGvBRDrk64FEPX5rwUQt--vBRDd6P4SEOrDrwUQ6ej-EhDnuq8FEI75rwUQ7qKvBRCf468FEIPfrwUQ2e6vBRC8-a8FENPhrwUQpcL-EhCU2f4SEMP3rwUQ4_KvBRC0ya8FENuvrwUQieiuBRDMrv4SELiLrgUQtaavBRDyqK8FELj7rwUQpPivBRDc2K8FENfprwUQ2cmvBRDr6P4SEJfn_hIQvOuvBRD6vq8FEL75rwUQ5LP-EhDB6q8FEKn3rwUQmvCvBRCk3q8FEK76rwUQp_evBRDM364FEKbs_hIQrLevBRDV5a8FEL22rgUQp-r-EhCI468FELvSrwUQxfuvBRD28a8FENDlrwUQkfH-EhDC6q8F"
+      },
+      "userInterfaceTheme": "USER_INTERFACE_THEME_DARK",
+      "timeZone": "America/Halifax",
+      "browserName": "Chrome",
+      "browserVersion": "[REDACTED]",
+      "acceptHeader": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+      "deviceExperimentId": "ChxOekk0TmpnMU1ERXhNRFV6TWpnM05URTFPUT09EJGvgKkGGJGvgKkG",
+      "screenWidthPoints": 801,
+      "screenHeightPoints": 931,
+      "screenPixelDensity": 1,
+      "screenDensityFloat": 1,
+      "utcOffsetMinutes": -180,
+      "memoryTotalKbytes": "8000000",
+      "mainAppWebInfo": {
+        "graftUrl": "/channel/UCQvWX73GQygcwXOTSf_VDVg/official",
+        "pwaInstallabilityStatus": "PWA_INSTALLABILITY_STATUS_CAN_BE_INSTALLED",
+        "webDisplayMode": "WEB_DISPLAY_MODE_BROWSER",
+        "isWebNativeShareAvailable": true
+      }
+    },
+    "user": { "lockedSafetyMode": false },
+    "request": {
+      "useSsl": true,
+      "internalExperimentFlags": [
+        { "key": "force_enter_once_in_webview", "value": "true" }
+      ],
+      "consistencyTokenJars": []
+    },
+    "clickTracking": {
+      "clickTrackingParams": "CB0Q8JMBGC0iEwjQu479zuGBAxURxz8EHa6uD1I="
+    },
+    "adSignalsInfo": {
+      "params": [
+        { "key": "dt", "value": "1696602002398" },
+        { "key": "flash", "value": "0" },
+        { "key": "frm", "value": "0" },
+        { "key": "u_tz", "value": "-180" },
+        { "key": "u_his", "value": "16" },
+        { "key": "u_h", "value": "1080" },
+        { "key": "u_w", "value": "1920" },
+        { "key": "u_ah", "value": "1040" },
+        { "key": "u_aw", "value": "1920" },
+        { "key": "u_cd", "value": "24" },
+        { "key": "bc", "value": "31" },
+        { "key": "bih", "value": "931" },
+        { "key": "biw", "value": "784" },
+        {
+          "key": "brdim",
+          "value": "2049,196,2049,196,1920,195,1918,1038,801,931"
+        },
+        { "key": "vis", "value": "1" },
+        { "key": "wgl", "value": "true" },
+        { "key": "ca_type", "value": "image" }
+      ]
+    }
+  },
+  "browseId": "UCQvWX73GQygcwXOTSf_VDVg",
+  "params": "EghvZmZpY2lhbA%3D%3D"
+}
