@@ -12,21 +12,28 @@ export type SearchParams$Video = {
     videoId: string,
     playlistId?: string,
     index?: number,
-    params?: string
+    params?: string,
+	next?: boolean,
+	player?: boolean
 }
 
 export async function Request$Video(searchParams: SearchParams$Video, client: YouTubeClient, context: YouTubeContext) {
+	let next = undefined
+	if (searchParams.next === undefined || searchParams.next === true) {
+		const videoNextBody = JSON.stringify(new Body$NextVideo(searchParams, client.config, context))
+		next = Endpoint$Next.post(videoNextBody, client, context)
+	}
 
-    const videoNextBody = JSON.stringify(new Body$NextVideo(searchParams, client.config, context))
-    const next = Endpoint$Next.post(videoNextBody, client, context)
-
-    const videoPlayerBody = JSON.stringify(new Body$PlayerVideo(searchParams, client.config, context))
-    const player = Endpoint$Player.post(videoPlayerBody, client, context)
-
+	let player = undefined
+	if (searchParams.player === undefined || searchParams.player === true) {
+		const videoPlayerBody = JSON.stringify(new Body$PlayerVideo(searchParams, client.config, context))
+		player = Endpoint$Player.post(videoPlayerBody, client, context)
+	}
     const data = {
         next: await next,
         player: await player
     }
+
     try {
         return Resource$Video.parse(data, client, context);
     } catch (err: any) {
