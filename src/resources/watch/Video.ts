@@ -1,5 +1,5 @@
 import YouTubeClient from "../../clients/YouTubeClient.js";
-import YouTubeContext from "../../YouTubeContext.js";
+import YouTubeContext from "../../clients/YouTubeContext.js";
 import Resource$VideoLiveStreamingDetails, { Schema$VideoLiveStreamingDetails } from "./VideoLiveStreamingDetails.js";
 import Resource$VideoMetadata, { Schema$VideoMetadata } from "./VideoMetadata.js";
 import Resource$VideoPlayability, { Schema$VideoPlayability } from "./VideoPlayability.js";

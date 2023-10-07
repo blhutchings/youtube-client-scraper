@@ -1,5 +1,5 @@
 import YouTubeClient from "../../clients/YouTubeClient.js";
-import YouTubeContext from "../../YouTubeContext.js";
+import YouTubeContext from "../../clients/YouTubeContext.js";
 import Resource$Video, { Schema$Video, Data$Video } from "./Video.js";
 
 export interface Schema$VideoPlayability {

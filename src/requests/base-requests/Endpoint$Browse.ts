@@ -1,5 +1,5 @@
 import YouTubeClient from "../../clients/YouTubeClient.js";
-import YouTubeContext from "../../YouTubeContext.js";
+import YouTubeContext from "../../clients/YouTubeContext.js";
 
 export default class Endpoint$Browse  {
     static post<T = any>(body: string, client: YouTubeClient, context: YouTubeContext) {

@@ -1,6 +1,6 @@
 import got, { Got, Options, Headers } from "got"
 import { CookieJar } from "tough-cookie"
-import YouTubeClientAgent from "../YouTubeClientAgent.js"
+import YouTubeClientAgent from "./YouTubeClientAgent.js"
 import YouTubeConfigExtractor from "../util/YouTubeConfigExtractor.js"
 import { YouTubeConfig, YouTubeConfigContext } from "../types/YouTubeConfig.js"
 import YouTubeClient from "./YouTubeClient.js"

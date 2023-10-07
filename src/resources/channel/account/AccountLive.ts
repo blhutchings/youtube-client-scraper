@@ -1,5 +1,5 @@
 import YouTubeClient from "../../../clients/YouTubeClient.js";
-import YouTubeContext from "../../../YouTubeContext.js";
+import YouTubeContext from "../../../clients/YouTubeContext.js";
 import Resource$RichItemRenderer, { Schema$RichItemRenderer } from "../../common/RichItemRenderer.js";
 import { Map$Account } from "./Account.js";
 

@@ -1,5 +1,5 @@
 import YouTubeClient from "../../clients/YouTubeClient.js";
-import YouTubeContext from "../../YouTubeContext.js";
+import YouTubeContext from "../../clients/YouTubeContext.js";
 import { getNumber } from "../../util/ParserUtils.js";
 import { Resource$SearchGame, Schema$SearchGame } from "./SearchGame.js";
 import { Resource$SearchResults, Schema$SearchResults } from "./SearchResults.js";

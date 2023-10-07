@@ -1,5 +1,5 @@
 import YouTubeClient from "../../clients/YouTubeClient.js";
-import YouTubeContext from "../../YouTubeContext.js";
+import YouTubeContext from "../../clients/YouTubeContext.js";
 import { Body$Continuation } from "../../requests/Continuation.js";
 import Endpoint$Next from "../../requests/base-requests/Endpoint$Next.js";
 import { Map$Video } from "./Video.js";

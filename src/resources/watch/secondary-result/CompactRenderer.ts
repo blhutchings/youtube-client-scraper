@@ -1,5 +1,5 @@
 import YouTubeClient from "../../../clients/YouTubeClient.js";
-import YouTubeContext from "../../../YouTubeContext.js";
+import YouTubeContext from "../../../clients/YouTubeContext.js";
 import { Resource$ThumbnailDetails, Schema$Thumbnail } from "../../common/ThumbnailDetails.js";
 import { getNumber, hmsToSeconds, getChannelHandle } from "../../../util/ParserUtils.js";
 import Resource$CompactRendererMovie from "./CompactRendererMovie.js";
