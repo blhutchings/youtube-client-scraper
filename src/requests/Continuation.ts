@@ -1,13 +1,13 @@
-import { YouTubeConfigContext } from "../types/YouTubeConfig.js";
+import { YouTubeConfig } from "../types/YouTubeConfig.js";
 
 export type SearchParams$Continuation = {
     continuation: string
 }
 
 export class Body$Continuation {
-    context: YouTubeConfigContext['INNERTUBE_CONTEXT'];
+    context: YouTubeConfig['INNERTUBE_CONTEXT'];
     continuation: string;
-    constructor(params: SearchParams$Continuation, config: YouTubeConfigContext) {
+    constructor(params: SearchParams$Continuation, config: YouTubeConfig) {
         this.context = config.INNERTUBE_CONTEXT;
         this.continuation = params.continuation;
     }

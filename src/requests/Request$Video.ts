@@ -1,7 +1,7 @@
 import YouTubeClient from "../clients/YouTubeClient.js"
 import YouTubeContext from "../clients/YouTubeContext.js"
 import Resource$Video from "../resources/watch/Video.js"
-import { YouTubeConfigContext } from "../types/YouTubeConfig.js"
+import { YouTubeConfig } from "../types/YouTubeConfig.js"
 import ResourceParseError from "../util/ResourceParseError.js"
 import { YouTubeClientScraperError } from "../util/YouTubeClientScraperError.js"
 import Endpoint$Next from "./base-requests/Endpoint$Next.js"
@@ -45,7 +45,7 @@ export async function Request$Video(searchParams: SearchParams$Video, client: Yo
 }
 
 class Body$NextVideo {
-    context: YouTubeConfigContext['INNERTUBE_CONTEXT']
+    context: YouTubeConfig['INNERTUBE_CONTEXT']
     videoId: string;
     playlistId?: string;
     index?: number;
@@ -59,7 +59,7 @@ class Body$NextVideo {
     }
     captionsRequested = false;
 
-    constructor(params: SearchParams$Video, config: YouTubeConfigContext, context: YouTubeContext) {
+    constructor(params: SearchParams$Video, config: YouTubeConfig, context: YouTubeContext) {
         this.context = config.INNERTUBE_CONTEXT;
         this.videoId = params.videoId;
         this.playlistId = params.playlistId;
@@ -68,7 +68,7 @@ class Body$NextVideo {
 }
 
 class Body$PlayerVideo {
-    context: YouTubeConfigContext['INNERTUBE_CONTEXT']
+    context: YouTubeConfig['INNERTUBE_CONTEXT']
     videoId: string;
     playlistId?: string;
     index?: number;
@@ -78,7 +78,7 @@ class Body$PlayerVideo {
         contentPlaybackContext: any
     }
 
-    constructor(params: SearchParams$Video, config: YouTubeConfigContext, context: YouTubeContext) {
+    constructor(params: SearchParams$Video, config: YouTubeConfig, context: YouTubeContext) {
         this.context = config.INNERTUBE_CONTEXT;
         this.videoId = params.videoId;
         this.playlistId = params.playlistId;

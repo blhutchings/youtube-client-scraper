@@ -1,7 +1,7 @@
 import YouTubeClient from "../clients/YouTubeClient.js";
 import YouTubeContext from "../clients/YouTubeContext.js";
 import { Resource$Game } from "../resources/channel/game/Game.js";
-import { YouTubeConfigContext } from "../types/YouTubeConfig.js";
+import { YouTubeConfig } from "../types/YouTubeConfig.js";
 import ResourceParseError from "../util/ResourceParseError.js";
 import { YouTubeClientScraperError } from "../util/YouTubeClientScraperError.js";
 import Endpoint$Browse from "./base-requests/Endpoint$Browse.js";
@@ -42,11 +42,11 @@ export async function Request$Game(searchParams: SearchParams$Game, client: YouT
 }
 
 export class Body$Game {
-    context: YouTubeConfigContext['INNERTUBE_CONTEXT'];
+    context: YouTubeConfig['INNERTUBE_CONTEXT'];
     browseId: string;
     params: string;
 
-    constructor(params: SearchParams$Game, config: YouTubeConfigContext) {
+    constructor(params: SearchParams$Game, config: YouTubeConfig) {
         this.context = config.INNERTUBE_CONTEXT;
         this.browseId = params.browseId;
         this.params = tabParams[params.tab];

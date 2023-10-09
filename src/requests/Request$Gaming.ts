@@ -1,7 +1,7 @@
 import YouTubeClient from "../clients/YouTubeClient.js";
 import YouTubeContext from "../clients/YouTubeContext.js";
 import { Resource$Gaming } from "../resources/channel/gaming/Gaming.js";
-import { YouTubeConfigContext } from "../types/YouTubeConfig.js";
+import { YouTubeConfig } from "../types/YouTubeConfig.js";
 import ResourceParseError from "../util/ResourceParseError.js";
 import { YouTubeClientScraperError } from "../util/YouTubeClientScraperError.js";
 import Endpoint$Browse from "./base-requests/Endpoint$Browse.js";
@@ -35,11 +35,11 @@ export async function Request$Gaming(searchParams: SearchParams$Gaming, client: 
 }
 
 export class Body$Gaming {
-    context: YouTubeConfigContext['INNERTUBE_CONTEXT'];
+    context: YouTubeConfig['INNERTUBE_CONTEXT'];
     browseId = "UCOpNcN46UbXVtpKMrmU4Abg";
     params: string;
 
-    constructor(params: SearchParams$Gaming, config: YouTubeConfigContext) {
+    constructor(params: SearchParams$Gaming, config: YouTubeConfig) {
         this.context = config.INNERTUBE_CONTEXT;
         this.params = tabParams[params.tab];
     }

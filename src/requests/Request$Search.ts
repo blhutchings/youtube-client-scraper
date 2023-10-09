@@ -1,7 +1,7 @@
 import YouTubeClient from "../clients/YouTubeClient.js"
 import YouTubeContext from "../clients/YouTubeContext.js"
 import { Resource$Search } from "../resources/search/Search.js"
-import { YouTubeConfigContext } from "../types/YouTubeConfig.js"
+import { YouTubeConfig } from "../types/YouTubeConfig.js"
 import ResourceParseError from "../util/ResourceParseError.js"
 import { YouTubeClientScraperError } from "../util/YouTubeClientScraperError.js"
 import Endpoint$Search from "./base-requests/Endpoint$Search.js"
@@ -30,10 +30,10 @@ export async function Request$Search(searchParams: SearchParams$Search, client: 
 }
 
 export class Body$Search  {
-    context: YouTubeConfigContext['INNERTUBE_CONTEXT'];
+    context: YouTubeConfig['INNERTUBE_CONTEXT'];
     query: string;
 
-    constructor(params: SearchParams$Search, config: YouTubeConfigContext) {
+    constructor(params: SearchParams$Search, config: YouTubeConfig) {
         this.context = config.INNERTUBE_CONTEXT;
         this.query = params.query;
     }

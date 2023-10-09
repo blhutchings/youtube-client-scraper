@@ -1,10 +1,10 @@
 import YouTubeContext from "../clients/YouTubeContext.js";
 import YouTubeClient from "../clients/YouTubeClient.js";
 import { Resource$GameTitle } from "../resources/gaming/GameTitle.js";
-import { YouTubeConfigContext } from "../types/YouTubeConfig.js";
 import ResourceParseError from "../util/ResourceParseError.js";
 import Endpoint$GameTitle from "./base-requests/Endpoint$GameTitle.js";
 import { YouTubeClientScraperError } from "../util/YouTubeClientScraperError.js";
+import { YouTubeConfig } from "../types/YouTubeConfig.js";
 
 export type SearchParams$GameTitle = {
     query: string
@@ -24,10 +24,10 @@ export async function Request$GameTitle(searchParams: SearchParams$GameTitle, cl
 }
 
 export class Body$GameTitle {
-    context: YouTubeConfigContext['INNERTUBE_CONTEXT'];
+    context: YouTubeConfig['INNERTUBE_CONTEXT'];
     userInput: string;
 
-    constructor(params: SearchParams$GameTitle, config: YouTubeConfigContext) {
+    constructor(params: SearchParams$GameTitle, config: YouTubeConfig) {
         this.context = config.INNERTUBE_CONTEXT;
         this.userInput = params.query;
     }
