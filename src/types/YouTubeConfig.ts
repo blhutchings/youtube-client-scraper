@@ -1,10 +1,5 @@
 import { RecursivePartial } from "./RecursivePartial.js"
 
-export type YouTubeConfigContext = {
-    INNERTUBE_API_VERSION: YouTubeConfig['INNERTUBE_API_VERSION'],
-    INNERTUBE_API_KEY: YouTubeConfig['INNERTUBE_API_KEY'],
-    INNERTUBE_CONTEXT: YouTubeConfig['INNERTUBE_CONTEXT']
-}
 
 export type YouTubeConfig = RecursivePartial<{
     GAPI_LOCALE: string;
@@ -45,7 +40,8 @@ export type YouTubeConfig = RecursivePartial<{
         clickTracking: {
             clickTrackingParams: string
         }
-    }
+    },
+	DELEGATED_SESSION_ID: string,
     INNERTUBE_CONTEXT_CLIENT_NAME: number,
     INNERTUBE_CONTEXT_CLIENT_VERSION: string,
     LOGGED_IN: boolean,
