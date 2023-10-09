@@ -6,6 +6,7 @@ import { SearchParams$Gaming, Request$Gaming } from "../requests/Request$Gaming.
 import { SearchParams$Search, Request$Search } from "../requests/Request$Search.js";
 import { SearchParams$Video, Request$Video } from "../requests/Request$Video.js";
 import { Request$GameTitle, SearchParams$GameTitle } from "../requests/Request$GameTitle.js";
+import { YouTubeConfig } from "../types/YouTubeConfig.js";
 
 export default class YouTube {
     private client: YouTubeClient;
@@ -18,6 +19,10 @@ export default class YouTube {
     constructor(client: YouTubeClient) {
         this.client = client;
     }
+
+	getConfig(): YouTubeConfig {
+		return this.client.config
+	}
 
     search(searchParams: SearchParams$Search, part?: string[]) {
         return Request$Search(searchParams, this.client, { part, ...this.context })

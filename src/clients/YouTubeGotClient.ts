@@ -2,14 +2,14 @@ import got, { Got, Options, Headers } from "got"
 import { CookieJar } from "tough-cookie"
 import YouTubeClientAgent from "./YouTubeClientAgent.js"
 import YouTubeConfigExtractor from "../util/YouTubeConfigExtractor.js"
-import { YouTubeConfig, YouTubeConfigContext } from "../types/YouTubeConfig.js"
+import { YouTubeConfig } from "../types/YouTubeConfig.js"
 import YouTubeClient from "./YouTubeClient.js"
 
 export default class YouTubeGotClient implements YouTubeClient {
     readonly got: Got
-    readonly config: YouTubeConfigContext
+    readonly config: YouTubeConfig
 
-    private constructor(got: Got, config: YouTubeConfigContext) {
+    private constructor(got: Got, config: YouTubeConfig) {
         this.got = got
         this.config = config;
     }
@@ -30,10 +30,9 @@ export default class YouTubeGotClient implements YouTubeClient {
 
         const ytcfg = YouTubeConfigExtractor.extract_ytcfg(homepage.body)
         const defaultHeaders = YouTubeGotClient.createDefaultHeaders(ytcfg)
-        const config = YouTubeGotClient.createConfig(ytcfg)
 
-        if (!config.INNERTUBE_CONTEXT?.client?.hl?.toLowerCase().includes("en")) {
-            console.warn(`YouTube localization is set to '${config.INNERTUBE_CONTEXT?.client?.hl}' and not an english varient, some properties may be undefined.`)
+        if (!ytcfg.INNERTUBE_CONTEXT?.client?.hl?.toLowerCase().includes("en")) {
+            console.warn(`YouTube localization is set to '${ytcfg.INNERTUBE_CONTEXT?.client?.hl}' and not an english varient, some properties may be undefined.`)
         }
 
         // Override headers
@@ -41,7 +40,7 @@ export default class YouTubeGotClient implements YouTubeClient {
             headers: { ...defaultHeaders }
         })
 
-        return new YouTubeGotClient(client, config);
+        return new YouTubeGotClient(client, ytcfg);
     }
 
     private static createDefaultHeaders(ytcfg: YouTubeConfig): Headers {
@@ -68,14 +67,6 @@ export default class YouTubeGotClient implements YouTubeClient {
             "x-youtube-client-version": ytcfg.INNERTUBE_CONTEXT_CLIENT_VERSION,
         }
 
-    }
-
-    private static createConfig(ytcfg: YouTubeConfig): YouTubeConfigContext {
-        return {
-            INNERTUBE_API_VERSION: ytcfg?.INNERTUBE_API_VERSION || "v1",
-            INNERTUBE_API_KEY: ytcfg?.INNERTUBE_API_KEY || "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",
-            INNERTUBE_CONTEXT: ytcfg?.INNERTUBE_CONTEXT || {},
-        }
     }
 
 }
