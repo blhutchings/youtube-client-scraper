@@ -37,7 +37,7 @@
   "homepage": "https://github.com/blhutchings/youtube-client-scraper#readme",
   "files": [
     "dist/**/*",
-    "tsconfig.ts"
+    "tsup.config.json"
   ],
   "dependencies": {
     "got": "^14.0.0",
