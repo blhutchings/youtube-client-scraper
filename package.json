@@ -2,6 +2,7 @@
   "name": "youtube-client-scraper",
   "version": "1.0.0",
   "description": "A library to scrape important information off YouTube",
+  "type": "commonjs",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
