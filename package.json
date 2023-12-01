@@ -2,14 +2,14 @@
   "name": "youtube-client-scraper",
   "version": "1.0.0",
   "description": "A library to scrape important information off YouTube",
-  "type": "commonjs",
-  "main": "dist/index.js",
-  "module": "dist/index.mjs",
+  "type": "module",
+  "main": "dist/index.cjs",
+  "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "compile": "tsc",
     "prestart": "npm run compile",
-    "start": "node build/index.js",
+    "start": "node dist/index.js",
     "build": "tsup",
     "test": "ava",
     "prepare": "tsup",
@@ -37,10 +37,10 @@
   "homepage": "https://github.com/blhutchings/youtube-client-scraper#readme",
   "files": [
     "dist/**/*",
-	"tsup.config.json"
+    "tsconfig.ts"
   ],
   "dependencies": {
-    "got": "^12.6.0",
+    "got": "^14.0.0",
     "http2-wrapper": "^2.2.0",
     "tough-cookie": "^4.1.3"
   },
