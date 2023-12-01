@@ -36,7 +36,8 @@
   },
   "homepage": "https://github.com/blhutchings/youtube-client-scraper#readme",
   "files": [
-    "dist/**/*"
+    "dist/**/*",
+	"tsup.config.json"
   ],
   "dependencies": {
     "got": "^12.6.0",
