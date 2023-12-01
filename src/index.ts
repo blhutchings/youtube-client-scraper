@@ -10,7 +10,14 @@ import { Schema$GameSnippet } from "./resources/channel/game/GameSnippet.js";
 import { YouTubeConfig } from "./types/YouTubeConfig.js";
 import YouTubeConfigExtractor from "./util/YouTubeConfigExtractor.js";
 
+import { SearchParams$Account } from "./requests/Request$Account.js";
+import { SearchParams$Game } from "./requests/Request$Game.js";
+import { SearchParams$GameTitle } from "./requests/Request$GameTitle.js";
+import { SearchParams$Gaming } from "./requests/Request$Gaming.js";
+import { SearchParams$Search } from "./requests/Request$Search.js";
+import { SearchParams$Video } from "./requests/Request$Video.js";
+
 
 export { Schema$Game, Schema$GameSnippet, Schema$GameHome, Schema$GameLive, Schema$GameRecent, Schema$GameOfficial, Schema$GameAbout }
-
+export { SearchParams$Account, SearchParams$Game, SearchParams$GameTitle, SearchParams$Gaming, SearchParams$Search, SearchParams$Video }
 export { YouTube, YouTubeGotClient, YouTubeConfig, YouTubeConfigExtractor }
