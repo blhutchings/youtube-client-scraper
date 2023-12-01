@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "A library to scrape important information off YouTube",
   "type": "module",
-  "main": "dist/index.cjs",
-  "module": "dist/index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "scripts": {
     "compile": "tsc",
